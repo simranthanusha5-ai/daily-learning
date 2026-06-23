@@ -32,3 +32,9 @@ Today I practiced GitHub and learned something new.
 
 ## Learning update 11
 Today I practiced GitHub and learned something new.
+
+## Day 12: String Formatting and Manipulation
+Mastered f-strings, format specifiers, padding, alignment, and string methods.
+
+- [Notes](notes/day012_string_formatting.md)
+- [Code](exercises/day012_string_formatting.py)
