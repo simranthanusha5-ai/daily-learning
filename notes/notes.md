@@ -5,3 +5,4 @@
 - Learned how to commit changes.
 - Learned how to push changes to GitHub.
 - **Day 12 (String Formatting and Manipulation)**: Mastered f-strings, format specifiers, padding, alignment, and string methods.
+- **Day 13 (Python Lists and In-Place Methods)**: Explored in-place list mutations: append, extend, insert, pop, remove, and sorting.

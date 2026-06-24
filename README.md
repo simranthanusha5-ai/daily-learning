@@ -38,3 +38,9 @@ Mastered f-strings, format specifiers, padding, alignment, and string methods.
 
 - [Notes](notes/day012_string_formatting.md)
 - [Code](exercises/day012_string_formatting.py)
+
+## Day 13: Python Lists and In-Place Methods
+Explored in-place list mutations: append, extend, insert, pop, remove, and sorting.
+
+- [Notes](notes/day013_list_operations.md)
+- [Code](exercises/day013_list_operations.py)
