@@ -44,3 +44,9 @@ Explored in-place list mutations: append, extend, insert, pop, remove, and sorti
 
 - [Notes](notes/day013_list_operations.md)
 - [Code](exercises/day013_list_operations.py)
+
+## Day 14: List Comprehensions and Filtering
+Learned concise syntax for transforming and filtering lists with comprehensions.
+
+- [Notes](notes/day014_list_comprehensions.md)
+- [Code](exercises/day014_list_comprehensions.py)
