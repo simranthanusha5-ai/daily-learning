@@ -50,3 +50,9 @@ Learned concise syntax for transforming and filtering lists with comprehensions.
 
 - [Notes](notes/day014_list_comprehensions.md)
 - [Code](exercises/day014_list_comprehensions.py)
+
+## Day 15: Tuples and Unpacking Patterns
+Studied tuple immutability, packing, starred unpacking, and return values.
+
+- [Notes](notes/day015_tuples_and_unpacking.md)
+- [Code](exercises/day015_tuples_and_unpacking.py)
