@@ -56,3 +56,9 @@ Studied tuple immutability, packing, starred unpacking, and return values.
 
 - [Notes](notes/day015_tuples_and_unpacking.md)
 - [Code](exercises/day015_tuples_and_unpacking.py)
+
+## Day 16: Dictionaries and Key-Value Operations
+Explored dict methods: get with defaults, setdefault, keys, values, and items.
+
+- [Notes](notes/day016_dictionaries_deep_dive.md)
+- [Code](exercises/day016_dictionaries.py)
