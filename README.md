@@ -62,3 +62,9 @@ Explored dict methods: get with defaults, setdefault, keys, values, and items.
 
 - [Notes](notes/day016_dictionaries_deep_dive.md)
 - [Code](exercises/day016_dictionaries.py)
+
+## Day 17: Dictionary Comprehensions and Merging
+Learned dict comprehensions, inverted maps, and dict union operators (| and |=).
+
+- [Notes](notes/day017_dict_comprehensions.md)
+- [Code](exercises/day017_dict_comprehensions.py)
