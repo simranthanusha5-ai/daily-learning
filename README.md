@@ -68,3 +68,9 @@ Learned dict comprehensions, inverted maps, and dict union operators (| and |=).
 
 - [Notes](notes/day017_dict_comprehensions.md)
 - [Code](exercises/day017_dict_comprehensions.py)
+
+## Day 18: Sets and Set Algebra
+Covered set operations: union, intersection, difference, and symmetric difference.
+
+- [Notes](notes/day018_sets_and_set_algebra.md)
+- [Code](exercises/day018_sets.py)
