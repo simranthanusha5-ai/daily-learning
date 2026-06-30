@@ -11,3 +11,4 @@
 - **Day 16 (Dictionaries and Key-Value Operations)**: Explored dict methods: get with defaults, setdefault, keys, values, and items.
 - **Day 17 (Dictionary Comprehensions and Merging)**: Learned dict comprehensions, inverted maps, and dict union operators (| and |=).
 - **Day 18 (Sets and Set Algebra)**: Covered set operations: union, intersection, difference, and symmetric difference.
+- **Day 19 (Pattern Matching and Control Flow)**: Practiced structural pattern matching (match-case) and walrus operator.

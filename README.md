@@ -74,3 +74,9 @@ Covered set operations: union, intersection, difference, and symmetric differenc
 
 - [Notes](notes/day018_sets_and_set_algebra.md)
 - [Code](exercises/day018_sets.py)
+
+## Day 19: Pattern Matching and Control Flow
+Practiced structural pattern matching (match-case) and walrus operator.
+
+- [Notes](notes/day019_control_flow_and_match.md)
+- [Code](exercises/day019_match_case.py)
