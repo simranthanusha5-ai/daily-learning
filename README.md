@@ -80,3 +80,9 @@ Practiced structural pattern matching (match-case) and walrus operator.
 
 - [Notes](notes/day019_control_flow_and_match.md)
 - [Code](exercises/day019_match_case.py)
+
+## Day 20: Functions and Default Arguments
+Learned pure functions, docstrings, and avoiding mutable default argument traps.
+
+- [Notes](notes/day020_function_fundamentals.md)
+- [Code](exercises/day020_functions.py)

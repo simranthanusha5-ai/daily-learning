@@ -12,3 +12,4 @@
 - **Day 17 (Dictionary Comprehensions and Merging)**: Learned dict comprehensions, inverted maps, and dict union operators (| and |=).
 - **Day 18 (Sets and Set Algebra)**: Covered set operations: union, intersection, difference, and symmetric difference.
 - **Day 19 (Pattern Matching and Control Flow)**: Practiced structural pattern matching (match-case) and walrus operator.
+- **Day 20 (Functions and Default Arguments)**: Learned pure functions, docstrings, and avoiding mutable default argument traps.
