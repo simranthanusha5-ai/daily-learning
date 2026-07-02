@@ -13,3 +13,4 @@
 - **Day 18 (Sets and Set Algebra)**: Covered set operations: union, intersection, difference, and symmetric difference.
 - **Day 19 (Pattern Matching and Control Flow)**: Practiced structural pattern matching (match-case) and walrus operator.
 - **Day 20 (Functions and Default Arguments)**: Learned pure functions, docstrings, and avoiding mutable default argument traps.
+- **Day 21 (Variable Arguments: *args and **kwargs)**: Explored flexible function signatures with *args, **kwargs, and keyword-only params.

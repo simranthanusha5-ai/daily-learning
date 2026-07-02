@@ -86,3 +86,9 @@ Learned pure functions, docstrings, and avoiding mutable default argument traps.
 
 - [Notes](notes/day020_function_fundamentals.md)
 - [Code](exercises/day020_functions.py)
+
+## Day 21: Variable Arguments: *args and **kwargs
+Explored flexible function signatures with *args, **kwargs, and keyword-only params.
+
+- [Notes](notes/day021_args_and_kwargs.md)
+- [Code](exercises/day021_args_kwargs.py)
