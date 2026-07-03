@@ -92,3 +92,9 @@ Explored flexible function signatures with *args, **kwargs, and keyword-only par
 
 - [Notes](notes/day021_args_and_kwargs.md)
 - [Code](exercises/day021_args_kwargs.py)
+
+## Day 22: Lambda Functions and Callables
+Studied anonymous lambda functions, key sort functions, and functional helpers.
+
+- [Notes](notes/day022_lambda_and_callables.md)
+- [Code](exercises/day022_lambdas.py)
