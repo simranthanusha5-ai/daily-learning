@@ -98,3 +98,9 @@ Studied anonymous lambda functions, key sort functions, and functional helpers.
 
 - [Notes](notes/day022_lambda_and_callables.md)
 - [Code](exercises/day022_lambdas.py)
+
+## Day 23: Built-in Higher-Order Functions
+Mastered map, filter, zip, enumerate, and functools.reduce.
+
+- [Notes](notes/day023_higher_order_functions.md)
+- [Code](exercises/day023_higher_order.py)
