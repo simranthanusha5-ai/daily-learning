@@ -16,3 +16,4 @@
 - **Day 21 (Variable Arguments: *args and **kwargs)**: Explored flexible function signatures with *args, **kwargs, and keyword-only params.
 - **Day 22 (Lambda Functions and Callables)**: Studied anonymous lambda functions, key sort functions, and functional helpers.
 - **Day 23 (Built-in Higher-Order Functions)**: Mastered map, filter, zip, enumerate, and functools.reduce.
+- **Day 24 (Safe File Reading and Writing)**: Implemented context-managed file I/O operations with UTF-8 encoding.

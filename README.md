@@ -104,3 +104,9 @@ Mastered map, filter, zip, enumerate, and functools.reduce.
 
 - [Notes](notes/day023_higher_order_functions.md)
 - [Code](exercises/day023_higher_order.py)
+
+## Day 24: Safe File Reading and Writing
+Implemented context-managed file I/O operations with UTF-8 encoding.
+
+- [Notes](notes/day024_file_io_operations.md)
+- [Code](exercises/day024_file_io.py)
