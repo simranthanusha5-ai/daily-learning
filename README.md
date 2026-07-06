@@ -110,3 +110,9 @@ Implemented context-managed file I/O operations with UTF-8 encoding.
 
 - [Notes](notes/day024_file_io_operations.md)
 - [Code](exercises/day024_file_io.py)
+
+## Day 25: JSON Parsing and Serialization
+Practiced reading and dumping nested JSON structures with formatting.
+
+- [Notes](notes/day025_json_serialization.md)
+- [Code](exercises/day025_json_handling.py)
