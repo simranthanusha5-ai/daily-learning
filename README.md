@@ -116,3 +116,9 @@ Practiced reading and dumping nested JSON structures with formatting.
 
 - [Notes](notes/day025_json_serialization.md)
 - [Code](exercises/day025_json_handling.py)
+
+## Day 26: CSV File Reading and Writing
+Implemented tabular data manipulation with csv.reader and csv.DictWriter.
+
+- [Notes](notes/day026_csv_data_processing.md)
+- [Code](exercises/day026_csv_processing.py)
