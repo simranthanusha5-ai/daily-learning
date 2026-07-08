@@ -122,3 +122,9 @@ Implemented tabular data manipulation with csv.reader and csv.DictWriter.
 
 - [Notes](notes/day026_csv_data_processing.md)
 - [Code](exercises/day026_csv_processing.py)
+
+## Day 27: Exception Handling and Custom Errors
+Covered try/except/else/finally and defined domain-specific exception classes.
+
+- [Notes](notes/day027_exception_handling.md)
+- [Code](exercises/day027_exceptions.py)
