@@ -20,3 +20,4 @@
 - **Day 25 (JSON Parsing and Serialization)**: Practiced reading and dumping nested JSON structures with formatting.
 - **Day 26 (CSV File Reading and Writing)**: Implemented tabular data manipulation with csv.reader and csv.DictWriter.
 - **Day 27 (Exception Handling and Custom Errors)**: Covered try/except/else/finally and defined domain-specific exception classes.
+- **Day 28 (Python Modules and Packaging Concepts)**: Learned module namespacing, __all__ exports, and sys.path mechanics.

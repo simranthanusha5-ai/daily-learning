@@ -128,3 +128,9 @@ Covered try/except/else/finally and defined domain-specific exception classes.
 
 - [Notes](notes/day027_exception_handling.md)
 - [Code](exercises/day027_exceptions.py)
+
+## Day 28: Python Modules and Packaging Concepts
+Learned module namespacing, __all__ exports, and sys.path mechanics.
+
+- [Notes](notes/day028_modules_and_packages.md)
+- [Code](exercises/day028_modules.py)
