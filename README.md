@@ -140,3 +140,9 @@ Explored virtualenv creation, requirements.txt pinning, and modern pip practices
 
 - [Notes](notes/day029_virtual_environments.md)
 - [Code](exercises/day029_environments.py)
+
+## Day 30: Math, Random, and Statistics Libraries
+Practiced computing mean, median, standard deviation, and seeded random generators.
+
+- [Notes](notes/day030_math_random_stats.md)
+- [Code](exercises/day030_math_stats.py)
