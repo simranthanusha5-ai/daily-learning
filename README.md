@@ -146,3 +146,9 @@ Practiced computing mean, median, standard deviation, and seeded random generato
 
 - [Notes](notes/day030_math_random_stats.md)
 - [Code](exercises/day030_math_stats.py)
+
+## Day 31: OOP: Classes, Instances, and __init__
+Constructed classes with instance variables and initialized object state.
+
+- [Notes](notes/day031_oop_classes_instances.md)
+- [Code](exercises/day031_classes.py)

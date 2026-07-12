@@ -23,3 +23,4 @@
 - **Day 28 (Python Modules and Packaging Concepts)**: Learned module namespacing, __all__ exports, and sys.path mechanics.
 - **Day 29 (Virtual Environments and Pip Essentials)**: Explored virtualenv creation, requirements.txt pinning, and modern pip practices.
 - **Day 30 (Math, Random, and Statistics Libraries)**: Practiced computing mean, median, standard deviation, and seeded random generators.
+- **Day 31 (OOP: Classes, Instances, and __init__)**: Constructed classes with instance variables and initialized object state.
