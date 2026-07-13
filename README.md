@@ -152,3 +152,9 @@ Constructed classes with instance variables and initialized object state.
 
 - [Notes](notes/day031_oop_classes_instances.md)
 - [Code](exercises/day031_classes.py)
+
+## Day 32: OOP: Encapsulation and Access Modifiers
+Demonstrated private attributes with name mangling and public getter methods.
+
+- [Notes](notes/day032_oop_encapsulation.md)
+- [Code](exercises/day032_encapsulation.py)

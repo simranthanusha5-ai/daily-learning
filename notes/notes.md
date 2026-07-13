@@ -24,3 +24,4 @@
 - **Day 29 (Virtual Environments and Pip Essentials)**: Explored virtualenv creation, requirements.txt pinning, and modern pip practices.
 - **Day 30 (Math, Random, and Statistics Libraries)**: Practiced computing mean, median, standard deviation, and seeded random generators.
 - **Day 31 (OOP: Classes, Instances, and __init__)**: Constructed classes with instance variables and initialized object state.
+- **Day 32 (OOP: Encapsulation and Access Modifiers)**: Demonstrated private attributes with name mangling and public getter methods.
