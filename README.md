@@ -158,3 +158,9 @@ Demonstrated private attributes with name mangling and public getter methods.
 
 - [Notes](notes/day032_oop_encapsulation.md)
 - [Code](exercises/day032_encapsulation.py)
+
+## Day 33: Class Methods and Static Methods
+Used @classmethod as alternate constructors and @staticmethod for utility functions.
+
+- [Notes](notes/day033_oop_class_static_methods.md)
+- [Code](exercises/day033_class_static_methods.py)
