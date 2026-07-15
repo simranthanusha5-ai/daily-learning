@@ -26,3 +26,4 @@
 - **Day 31 (OOP: Classes, Instances, and __init__)**: Constructed classes with instance variables and initialized object state.
 - **Day 32 (OOP: Encapsulation and Access Modifiers)**: Demonstrated private attributes with name mangling and public getter methods.
 - **Day 33 (Class Methods and Static Methods)**: Used @classmethod as alternate constructors and @staticmethod for utility functions.
+- **Day 34 (Property Decorators: Getters and Setters)**: Implemented managed attributes with validation using @property and @setter.

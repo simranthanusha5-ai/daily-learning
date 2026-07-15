@@ -164,3 +164,9 @@ Used @classmethod as alternate constructors and @staticmethod for utility functi
 
 - [Notes](notes/day033_oop_class_static_methods.md)
 - [Code](exercises/day033_class_static_methods.py)
+
+## Day 34: Property Decorators: Getters and Setters
+Implemented managed attributes with validation using @property and @setter.
+
+- [Notes](notes/day034_oop_property_decorators.md)
+- [Code](exercises/day034_property_decorators.py)
