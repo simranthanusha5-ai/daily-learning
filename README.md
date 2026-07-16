@@ -170,3 +170,9 @@ Implemented managed attributes with validation using @property and @setter.
 
 - [Notes](notes/day034_oop_property_decorators.md)
 - [Code](exercises/day034_property_decorators.py)
+
+## Day 35: Inheritance and Method Overriding
+Built inheritance hierarchies with base classes and overridden methods.
+
+- [Notes](notes/day035_oop_inheritance.md)
+- [Code](exercises/day035_inheritance.py)
