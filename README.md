@@ -176,3 +176,9 @@ Built inheritance hierarchies with base classes and overridden methods.
 
 - [Notes](notes/day035_oop_inheritance.md)
 - [Code](exercises/day035_inheritance.py)
+
+## Day 36: Multiple Inheritance and MRO
+Studied cooperative multiple inheritance, super(), and Method Resolution Order.
+
+- [Notes](notes/day036_oop_multiple_inheritance.md)
+- [Code](exercises/day036_multiple_inheritance.py)
