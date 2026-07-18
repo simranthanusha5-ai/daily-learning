@@ -182,3 +182,9 @@ Studied cooperative multiple inheritance, super(), and Method Resolution Order.
 
 - [Notes](notes/day036_oop_multiple_inheritance.md)
 - [Code](exercises/day036_multiple_inheritance.py)
+
+## Day 37: Polymorphism and Duck Typing
+Practiced Pythonic polymorphism where behavior depends on interface, not type.
+
+- [Notes](notes/day037_oop_polymorphism.md)
+- [Code](exercises/day037_polymorphism.py)
