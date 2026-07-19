@@ -188,3 +188,9 @@ Practiced Pythonic polymorphism where behavior depends on interface, not type.
 
 - [Notes](notes/day037_oop_polymorphism.md)
 - [Code](exercises/day037_polymorphism.py)
+
+## Day 38: Abstract Base Classes (abc Module)
+Defined interface contracts using abc.ABC and @abstractmethod.
+
+- [Notes](notes/day038_oop_abstract_base_classes.md)
+- [Code](exercises/day038_abstract_classes.py)

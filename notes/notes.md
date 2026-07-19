@@ -30,3 +30,4 @@
 - **Day 35 (Inheritance and Method Overriding)**: Built inheritance hierarchies with base classes and overridden methods.
 - **Day 36 (Multiple Inheritance and MRO)**: Studied cooperative multiple inheritance, super(), and Method Resolution Order.
 - **Day 37 (Polymorphism and Duck Typing)**: Practiced Pythonic polymorphism where behavior depends on interface, not type.
+- **Day 38 (Abstract Base Classes (abc Module))**: Defined interface contracts using abc.ABC and @abstractmethod.
