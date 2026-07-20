@@ -31,3 +31,4 @@
 - **Day 36 (Multiple Inheritance and MRO)**: Studied cooperative multiple inheritance, super(), and Method Resolution Order.
 - **Day 37 (Polymorphism and Duck Typing)**: Practiced Pythonic polymorphism where behavior depends on interface, not type.
 - **Day 38 (Abstract Base Classes (abc Module))**: Defined interface contracts using abc.ABC and @abstractmethod.
+- **Day 39 (Dunder Methods: __str__, __repr__, __len__)**: Implemented string representation and container sizing magic methods.

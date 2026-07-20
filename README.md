@@ -194,3 +194,9 @@ Defined interface contracts using abc.ABC and @abstractmethod.
 
 - [Notes](notes/day038_oop_abstract_base_classes.md)
 - [Code](exercises/day038_abstract_classes.py)
+
+## Day 39: Dunder Methods: __str__, __repr__, __len__
+Implemented string representation and container sizing magic methods.
+
+- [Notes](notes/day039_oop_dunder_methods.md)
+- [Code](exercises/day039_dunder_methods.py)
