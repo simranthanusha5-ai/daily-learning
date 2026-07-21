@@ -200,3 +200,9 @@ Implemented string representation and container sizing magic methods.
 
 - [Notes](notes/day039_oop_dunder_methods.md)
 - [Code](exercises/day039_dunder_methods.py)
+
+## Day 40: Operator Overloading (__add__, __eq__, __lt__)
+Customized mathematical and comparison operators for user-defined types.
+
+- [Notes](notes/day040_oop_operator_overloading.md)
+- [Code](exercises/day040_operator_overloading.py)
