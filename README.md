@@ -206,3 +206,9 @@ Customized mathematical and comparison operators for user-defined types.
 
 - [Notes](notes/day040_oop_operator_overloading.md)
 - [Code](exercises/day040_operator_overloading.py)
+
+## Day 41: Iterables and Iterator Protocol
+Built custom iterators implementing __iter__ and __next__ protocols.
+
+- [Notes](notes/day041_iterables_and_iterators.md)
+- [Code](exercises/day041_iterators.py)
