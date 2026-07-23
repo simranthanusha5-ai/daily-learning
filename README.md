@@ -212,3 +212,9 @@ Built custom iterators implementing __iter__ and __next__ protocols.
 
 - [Notes](notes/day041_iterables_and_iterators.md)
 - [Code](exercises/day041_iterators.py)
+
+## Day 42: Generators and the yield Statement
+Implemented memory-efficient generator functions producing values on demand.
+
+- [Notes](notes/day042_generators_and_yield.md)
+- [Code](exercises/day042_generators.py)

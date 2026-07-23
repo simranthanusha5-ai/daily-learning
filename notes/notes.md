@@ -34,3 +34,4 @@
 - **Day 39 (Dunder Methods: __str__, __repr__, __len__)**: Implemented string representation and container sizing magic methods.
 - **Day 40 (Operator Overloading (__add__, __eq__, __lt__))**: Customized mathematical and comparison operators for user-defined types.
 - **Day 41 (Iterables and Iterator Protocol)**: Built custom iterators implementing __iter__ and __next__ protocols.
+- **Day 42 (Generators and the yield Statement)**: Implemented memory-efficient generator functions producing values on demand.
