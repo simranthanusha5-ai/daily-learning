@@ -218,3 +218,9 @@ Implemented memory-efficient generator functions producing values on demand.
 
 - [Notes](notes/day042_generators_and_yield.md)
 - [Code](exercises/day042_generators.py)
+
+## Day 43: Generator Expressions and Streaming Data
+Used generator expressions to process sequences with O(1) space complexity.
+
+- [Notes](notes/day043_generator_expressions.md)
+- [Code](exercises/day043_generator_expressions.py)
