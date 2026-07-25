@@ -36,3 +36,4 @@
 - **Day 41 (Iterables and Iterator Protocol)**: Built custom iterators implementing __iter__ and __next__ protocols.
 - **Day 42 (Generators and the yield Statement)**: Implemented memory-efficient generator functions producing values on demand.
 - **Day 43 (Generator Expressions and Streaming Data)**: Used generator expressions to process sequences with O(1) space complexity.
+- **Day 44 (Context Managers and the 'with' Statement)**: Created class-based context managers implementing __enter__ and __exit__.

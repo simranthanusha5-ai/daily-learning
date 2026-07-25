@@ -224,3 +224,9 @@ Used generator expressions to process sequences with O(1) space complexity.
 
 - [Notes](notes/day043_generator_expressions.md)
 - [Code](exercises/day043_generator_expressions.py)
+
+## Day 44: Context Managers and the 'with' Statement
+Created class-based context managers implementing __enter__ and __exit__.
+
+- [Notes](notes/day044_context_managers.md)
+- [Code](exercises/day044_context_managers.py)
