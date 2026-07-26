@@ -230,3 +230,9 @@ Created class-based context managers implementing __enter__ and __exit__.
 
 - [Notes](notes/day044_context_managers.md)
 - [Code](exercises/day044_context_managers.py)
+
+## Day 45: contextlib.contextmanager Decorator
+Used contextlib.contextmanager to convert generator functions into context managers.
+
+- [Notes](notes/day045_contextlib_module.md)
+- [Code](exercises/day045_contextlib.py)
