@@ -38,3 +38,4 @@
 - **Day 43 (Generator Expressions and Streaming Data)**: Used generator expressions to process sequences with O(1) space complexity.
 - **Day 44 (Context Managers and the 'with' Statement)**: Created class-based context managers implementing __enter__ and __exit__.
 - **Day 45 (contextlib.contextmanager Decorator)**: Used contextlib.contextmanager to convert generator functions into context managers.
+- **Day 46 (Big-O Notation and Algorithm Analysis)**: Analyzed time and space complexities: O(1), O(log n), O(n), O(n log n), O(n^2).

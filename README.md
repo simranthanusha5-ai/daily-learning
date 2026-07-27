@@ -236,3 +236,9 @@ Used contextlib.contextmanager to convert generator functions into context manag
 
 - [Notes](notes/day045_contextlib_module.md)
 - [Code](exercises/day045_contextlib.py)
+
+## Day 46: Big-O Notation and Algorithm Analysis
+Analyzed time and space complexities: O(1), O(log n), O(n), O(n log n), O(n^2).
+
+- [Notes](notes/day046_big_o_complexity.md)
+- [Code](exercises/day046_big_o.py)
