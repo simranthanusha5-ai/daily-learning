@@ -242,3 +242,9 @@ Analyzed time and space complexities: O(1), O(log n), O(n), O(n log n), O(n^2).
 
 - [Notes](notes/day046_big_o_complexity.md)
 - [Code](exercises/day046_big_o.py)
+
+## Day 47: Two-Pointer Technique
+Implemented two-pointer algorithms for array reversal and Two Sum in sorted arrays.
+
+- [Notes](notes/day047_two_pointer_technique.md)
+- [Code](exercises/day047_two_pointer.py)
