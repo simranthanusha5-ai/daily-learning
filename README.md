@@ -248,3 +248,9 @@ Implemented two-pointer algorithms for array reversal and Two Sum in sorted arra
 
 - [Notes](notes/day047_two_pointer_technique.md)
 - [Code](exercises/day047_two_pointer.py)
+
+## Day 48: Sliding Window Technique
+Implemented fixed and dynamic sliding window algorithms for subarray optimization.
+
+- [Notes](notes/day048_sliding_window.md)
+- [Code](exercises/day048_sliding_window.py)

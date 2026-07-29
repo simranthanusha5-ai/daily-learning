@@ -40,3 +40,4 @@
 - **Day 45 (contextlib.contextmanager Decorator)**: Used contextlib.contextmanager to convert generator functions into context managers.
 - **Day 46 (Big-O Notation and Algorithm Analysis)**: Analyzed time and space complexities: O(1), O(log n), O(n), O(n log n), O(n^2).
 - **Day 47 (Two-Pointer Technique)**: Implemented two-pointer algorithms for array reversal and Two Sum in sorted arrays.
+- **Day 48 (Sliding Window Technique)**: Implemented fixed and dynamic sliding window algorithms for subarray optimization.
