@@ -41,3 +41,4 @@
 - **Day 46 (Big-O Notation and Algorithm Analysis)**: Analyzed time and space complexities: O(1), O(log n), O(n), O(n log n), O(n^2).
 - **Day 47 (Two-Pointer Technique)**: Implemented two-pointer algorithms for array reversal and Two Sum in sorted arrays.
 - **Day 48 (Sliding Window Technique)**: Implemented fixed and dynamic sliding window algorithms for subarray optimization.
+- **Day 49 (Singly Linked List Implementation)**: Implemented Node class, prepend, append, and display methods.

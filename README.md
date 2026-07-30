@@ -254,3 +254,9 @@ Implemented fixed and dynamic sliding window algorithms for subarray optimizatio
 
 - [Notes](notes/day048_sliding_window.md)
 - [Code](exercises/day048_sliding_window.py)
+
+## Day 49: Singly Linked List Implementation
+Implemented Node class, prepend, append, and display methods.
+
+- [Notes](notes/day049_singly_linked_list.md)
+- [Code](exercises/day049_linked_list.py)
