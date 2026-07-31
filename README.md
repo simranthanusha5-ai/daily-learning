@@ -260,3 +260,9 @@ Implemented Node class, prepend, append, and display methods.
 
 - [Notes](notes/day049_singly_linked_list.md)
 - [Code](exercises/day049_linked_list.py)
+
+## Day 50: Linked List Reversal and Deletion
+Implemented in-place pointer reversal and node deletion algorithms.
+
+- [Notes](notes/day050_linked_list_reversal.md)
+- [Code](exercises/day050_linked_list_reversal.py)
