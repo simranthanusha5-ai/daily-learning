@@ -43,3 +43,4 @@
 - **Day 48 (Sliding Window Technique)**: Implemented fixed and dynamic sliding window algorithms for subarray optimization.
 - **Day 49 (Singly Linked List Implementation)**: Implemented Node class, prepend, append, and display methods.
 - **Day 50 (Linked List Reversal and Deletion)**: Implemented in-place pointer reversal and node deletion algorithms.
+- **Day 51 (Doubly Linked List Implementation)**: Created bidirectional node links with prev and next pointers.

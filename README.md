@@ -266,3 +266,9 @@ Implemented in-place pointer reversal and node deletion algorithms.
 
 - [Notes](notes/day050_linked_list_reversal.md)
 - [Code](exercises/day050_linked_list_reversal.py)
+
+## Day 51: Doubly Linked List Implementation
+Created bidirectional node links with prev and next pointers.
+
+- [Notes](notes/day051_doubly_linked_list.md)
+- [Code](exercises/day051_doubly_linked_list.py)
