@@ -272,3 +272,9 @@ Created bidirectional node links with prev and next pointers.
 
 - [Notes](notes/day051_doubly_linked_list.md)
 - [Code](exercises/day051_doubly_linked_list.py)
+
+## Day 52: Stack Implementation and Balanced Parentheses
+Built LIFO stack and solved balanced parentheses validation algorithm.
+
+- [Notes](notes/day052_stack_data_structure.md)
+- [Code](exercises/day052_stack.py)
