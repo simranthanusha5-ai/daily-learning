@@ -45,3 +45,4 @@
 - **Day 50 (Linked List Reversal and Deletion)**: Implemented in-place pointer reversal and node deletion algorithms.
 - **Day 51 (Doubly Linked List Implementation)**: Created bidirectional node links with prev and next pointers.
 - **Day 52 (Stack Implementation and Balanced Parentheses)**: Built LIFO stack and solved balanced parentheses validation algorithm.
+- **Day 53 (Queue Implementation with Deque)**: Implemented FIFO queue using collections.deque with O(1) enqueue and dequeue.

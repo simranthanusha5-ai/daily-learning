@@ -278,3 +278,9 @@ Built LIFO stack and solved balanced parentheses validation algorithm.
 
 - [Notes](notes/day052_stack_data_structure.md)
 - [Code](exercises/day052_stack.py)
+
+## Day 53: Queue Implementation with Deque
+Implemented FIFO queue using collections.deque with O(1) enqueue and dequeue.
+
+- [Notes](notes/day053_queue_data_structure.md)
+- [Code](exercises/day053_queue.py)
