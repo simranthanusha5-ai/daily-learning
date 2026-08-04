@@ -284,3 +284,9 @@ Implemented FIFO queue using collections.deque with O(1) enqueue and dequeue.
 
 - [Notes](notes/day053_queue_data_structure.md)
 - [Code](exercises/day053_queue.py)
+
+## Day 54: Min-Heap and Priority Queue with heapq
+Utilized heapq for min-heap operations, nlargest, and priority queuing.
+
+- [Notes](notes/day054_heap_and_priority_queue.md)
+- [Code](exercises/day054_heapq.py)
