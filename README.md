@@ -290,3 +290,9 @@ Utilized heapq for min-heap operations, nlargest, and priority queuing.
 
 - [Notes](notes/day054_heap_and_priority_queue.md)
 - [Code](exercises/day054_heapq.py)
+
+## Day 55: Hash Table with Separate Chaining
+Implemented hash table with custom hash function and separate chaining.
+
+- [Notes](notes/day055_hash_table_chaining.md)
+- [Code](exercises/day055_hash_table.py)

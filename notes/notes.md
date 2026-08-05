@@ -47,3 +47,4 @@
 - **Day 52 (Stack Implementation and Balanced Parentheses)**: Built LIFO stack and solved balanced parentheses validation algorithm.
 - **Day 53 (Queue Implementation with Deque)**: Implemented FIFO queue using collections.deque with O(1) enqueue and dequeue.
 - **Day 54 (Min-Heap and Priority Queue with heapq)**: Utilized heapq for min-heap operations, nlargest, and priority queuing.
+- **Day 55 (Hash Table with Separate Chaining)**: Implemented hash table with custom hash function and separate chaining.
