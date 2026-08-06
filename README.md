@@ -296,3 +296,9 @@ Implemented hash table with custom hash function and separate chaining.
 
 - [Notes](notes/day055_hash_table_chaining.md)
 - [Code](exercises/day055_hash_table.py)
+
+## Day 56: Frequency Counting with Counter and defaultdict
+Used Counter and defaultdict for frequency histograms and grouping.
+
+- [Notes](notes/day056_collections_counter_defaultdict.md)
+- [Code](exercises/day056_counter.py)
