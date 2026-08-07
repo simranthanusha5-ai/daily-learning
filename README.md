@@ -302,3 +302,9 @@ Used Counter and defaultdict for frequency histograms and grouping.
 
 - [Notes](notes/day056_collections_counter_defaultdict.md)
 - [Code](exercises/day056_counter.py)
+
+## Day 57: Recursion Fundamentals and Call Stack
+Implemented recursive factorial, countdown, and analyzed call stack frames.
+
+- [Notes](notes/day057_recursion_call_stack.md)
+- [Code](exercises/day057_recursion.py)
