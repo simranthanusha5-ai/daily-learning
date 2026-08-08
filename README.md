@@ -308,3 +308,9 @@ Implemented recursive factorial, countdown, and analyzed call stack frames.
 
 - [Notes](notes/day057_recursion_call_stack.md)
 - [Code](exercises/day057_recursion.py)
+
+## Day 58: Binary Search Algorithm (Iterative & Recursive)
+Implemented O(log n) binary search on sorted sequences.
+
+- [Notes](notes/day058_binary_search.md)
+- [Code](exercises/day058_binary_search.py)
