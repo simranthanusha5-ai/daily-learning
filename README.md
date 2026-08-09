@@ -314,3 +314,9 @@ Implemented O(log n) binary search on sorted sequences.
 
 - [Notes](notes/day058_binary_search.md)
 - [Code](exercises/day058_binary_search.py)
+
+## Day 59: Bubble Sort and Selection Sort
+Implemented elementary sorting algorithms and compared swap operations.
+
+- [Notes](notes/day059_bubble_and_selection_sort.md)
+- [Code](exercises/day059_basic_sorting.py)

@@ -51,3 +51,4 @@
 - **Day 56 (Frequency Counting with Counter and defaultdict)**: Used Counter and defaultdict for frequency histograms and grouping.
 - **Day 57 (Recursion Fundamentals and Call Stack)**: Implemented recursive factorial, countdown, and analyzed call stack frames.
 - **Day 58 (Binary Search Algorithm (Iterative & Recursive))**: Implemented O(log n) binary search on sorted sequences.
+- **Day 59 (Bubble Sort and Selection Sort)**: Implemented elementary sorting algorithms and compared swap operations.
