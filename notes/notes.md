@@ -52,3 +52,4 @@
 - **Day 57 (Recursion Fundamentals and Call Stack)**: Implemented recursive factorial, countdown, and analyzed call stack frames.
 - **Day 58 (Binary Search Algorithm (Iterative & Recursive))**: Implemented O(log n) binary search on sorted sequences.
 - **Day 59 (Bubble Sort and Selection Sort)**: Implemented elementary sorting algorithms and compared swap operations.
+- **Day 60 (Insertion Sort Algorithm)**: Implemented insertion sort and analyzed efficiency on nearly-sorted data.

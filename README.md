@@ -320,3 +320,9 @@ Implemented elementary sorting algorithms and compared swap operations.
 
 - [Notes](notes/day059_bubble_and_selection_sort.md)
 - [Code](exercises/day059_basic_sorting.py)
+
+## Day 60: Insertion Sort Algorithm
+Implemented insertion sort and analyzed efficiency on nearly-sorted data.
+
+- [Notes](notes/day060_insertion_sort.md)
+- [Code](exercises/day060_insertion_sort.py)
