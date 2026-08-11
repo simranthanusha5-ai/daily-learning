@@ -326,3 +326,9 @@ Implemented insertion sort and analyzed efficiency on nearly-sorted data.
 
 - [Notes](notes/day060_insertion_sort.md)
 - [Code](exercises/day060_insertion_sort.py)
+
+## Day 61: Merge Sort (Divide and Conquer)
+Implemented O(n log n) recursive merge sort with divide-and-conquer strategy.
+
+- [Notes](notes/day061_merge_sort.md)
+- [Code](exercises/day061_merge_sort.py)
