@@ -332,3 +332,9 @@ Implemented O(n log n) recursive merge sort with divide-and-conquer strategy.
 
 - [Notes](notes/day061_merge_sort.md)
 - [Code](exercises/day061_merge_sort.py)
+
+## Day 62: Quick Sort Algorithm
+Implemented Quick Sort with Lomuto partitioning scheme.
+
+- [Notes](notes/day062_quick_sort.md)
+- [Code](exercises/day062_quick_sort.py)
