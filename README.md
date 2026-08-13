@@ -338,3 +338,9 @@ Implemented Quick Sort with Lomuto partitioning scheme.
 
 - [Notes](notes/day062_quick_sort.md)
 - [Code](exercises/day062_quick_sort.py)
+
+## Day 63: Binary Tree Representation
+Constructed TreeNode objects and linked hierarchical tree structures.
+
+- [Notes](notes/day063_binary_tree_structure.md)
+- [Code](exercises/day063_binary_tree.py)

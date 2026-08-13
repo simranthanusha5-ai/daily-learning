@@ -55,3 +55,4 @@
 - **Day 60 (Insertion Sort Algorithm)**: Implemented insertion sort and analyzed efficiency on nearly-sorted data.
 - **Day 61 (Merge Sort (Divide and Conquer))**: Implemented O(n log n) recursive merge sort with divide-and-conquer strategy.
 - **Day 62 (Quick Sort Algorithm)**: Implemented Quick Sort with Lomuto partitioning scheme.
+- **Day 63 (Binary Tree Representation)**: Constructed TreeNode objects and linked hierarchical tree structures.
