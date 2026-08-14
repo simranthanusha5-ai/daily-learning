@@ -344,3 +344,9 @@ Constructed TreeNode objects and linked hierarchical tree structures.
 
 - [Notes](notes/day063_binary_tree_structure.md)
 - [Code](exercises/day063_binary_tree.py)
+
+## Day 64: Tree Traversals: In-Order, Pre-Order, Post-Order
+Implemented depth-first tree traversals recursively.
+
+- [Notes](notes/day064_tree_traversals_dfs.md)
+- [Code](exercises/day064_tree_traversals.py)

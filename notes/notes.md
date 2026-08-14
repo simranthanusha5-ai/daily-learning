@@ -56,3 +56,4 @@
 - **Day 61 (Merge Sort (Divide and Conquer))**: Implemented O(n log n) recursive merge sort with divide-and-conquer strategy.
 - **Day 62 (Quick Sort Algorithm)**: Implemented Quick Sort with Lomuto partitioning scheme.
 - **Day 63 (Binary Tree Representation)**: Constructed TreeNode objects and linked hierarchical tree structures.
+- **Day 64 (Tree Traversals: In-Order, Pre-Order, Post-Order)**: Implemented depth-first tree traversals recursively.
