@@ -350,3 +350,9 @@ Implemented depth-first tree traversals recursively.
 
 - [Notes](notes/day064_tree_traversals_dfs.md)
 - [Code](exercises/day064_tree_traversals.py)
+
+## Day 65: Level-Order Tree Traversal (BFS)
+Implemented breadth-first search on trees using a queue.
+
+- [Notes](notes/day065_tree_bfs_level_order.md)
+- [Code](exercises/day065_tree_bfs.py)
