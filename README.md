@@ -356,3 +356,9 @@ Implemented breadth-first search on trees using a queue.
 
 - [Notes](notes/day065_tree_bfs_level_order.md)
 - [Code](exercises/day065_tree_bfs.py)
+
+## Day 66: Binary Search Tree (BST) Operations
+Implemented BST insertion, search, and property validation.
+
+- [Notes](notes/day066_binary_search_tree.md)
+- [Code](exercises/day066_bst.py)

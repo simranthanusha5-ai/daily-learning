@@ -58,3 +58,4 @@
 - **Day 63 (Binary Tree Representation)**: Constructed TreeNode objects and linked hierarchical tree structures.
 - **Day 64 (Tree Traversals: In-Order, Pre-Order, Post-Order)**: Implemented depth-first tree traversals recursively.
 - **Day 65 (Level-Order Tree Traversal (BFS))**: Implemented breadth-first search on trees using a queue.
+- **Day 66 (Binary Search Tree (BST) Operations)**: Implemented BST insertion, search, and property validation.
