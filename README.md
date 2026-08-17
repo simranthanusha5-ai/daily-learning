@@ -362,3 +362,9 @@ Implemented BST insertion, search, and property validation.
 
 - [Notes](notes/day066_binary_search_tree.md)
 - [Code](exercises/day066_bst.py)
+
+## Day 67: Graph Representation with Adjacency List
+Represented directed and undirected graphs using adjacency lists.
+
+- [Notes](notes/day067_graph_representations.md)
+- [Code](exercises/day067_graph_representation.py)
