@@ -60,3 +60,4 @@
 - **Day 65 (Level-Order Tree Traversal (BFS))**: Implemented breadth-first search on trees using a queue.
 - **Day 66 (Binary Search Tree (BST) Operations)**: Implemented BST insertion, search, and property validation.
 - **Day 67 (Graph Representation with Adjacency List)**: Represented directed and undirected graphs using adjacency lists.
+- **Day 68 (Graph Depth-First Search (DFS))**: Implemented recursive and iterative graph DFS with visited set tracking.

@@ -368,3 +368,9 @@ Represented directed and undirected graphs using adjacency lists.
 
 - [Notes](notes/day067_graph_representations.md)
 - [Code](exercises/day067_graph_representation.py)
+
+## Day 68: Graph Depth-First Search (DFS)
+Implemented recursive and iterative graph DFS with visited set tracking.
+
+- [Notes](notes/day068_graph_dfs.md)
+- [Code](exercises/day068_graph_dfs.py)
