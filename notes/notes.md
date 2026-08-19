@@ -61,3 +61,4 @@
 - **Day 66 (Binary Search Tree (BST) Operations)**: Implemented BST insertion, search, and property validation.
 - **Day 67 (Graph Representation with Adjacency List)**: Represented directed and undirected graphs using adjacency lists.
 - **Day 68 (Graph Depth-First Search (DFS))**: Implemented recursive and iterative graph DFS with visited set tracking.
+- **Day 69 (Graph BFS and Shortest Path)**: Implemented BFS to compute shortest hop path in unweighted graphs.

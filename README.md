@@ -374,3 +374,9 @@ Implemented recursive and iterative graph DFS with visited set tracking.
 
 - [Notes](notes/day068_graph_dfs.md)
 - [Code](exercises/day068_graph_dfs.py)
+
+## Day 69: Graph BFS and Shortest Path
+Implemented BFS to compute shortest hop path in unweighted graphs.
+
+- [Notes](notes/day069_graph_bfs_shortest_path.md)
+- [Code](exercises/day069_graph_bfs.py)
