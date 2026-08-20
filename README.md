@@ -380,3 +380,9 @@ Implemented BFS to compute shortest hop path in unweighted graphs.
 
 - [Notes](notes/day069_graph_bfs_shortest_path.md)
 - [Code](exercises/day069_graph_bfs.py)
+
+## Day 70: Dynamic Programming: Memoization vs Tabulation
+Compared top-down memoization and bottom-up tabulation on climbing stairs problem.
+
+- [Notes](notes/day070_dynamic_programming_intro.md)
+- [Code](exercises/day070_dynamic_programming.py)

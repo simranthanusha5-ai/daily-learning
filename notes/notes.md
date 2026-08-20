@@ -62,3 +62,4 @@
 - **Day 67 (Graph Representation with Adjacency List)**: Represented directed and undirected graphs using adjacency lists.
 - **Day 68 (Graph Depth-First Search (DFS))**: Implemented recursive and iterative graph DFS with visited set tracking.
 - **Day 69 (Graph BFS and Shortest Path)**: Implemented BFS to compute shortest hop path in unweighted graphs.
+- **Day 70 (Dynamic Programming: Memoization vs Tabulation)**: Compared top-down memoization and bottom-up tabulation on climbing stairs problem.
