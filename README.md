@@ -386,3 +386,9 @@ Compared top-down memoization and bottom-up tabulation on climbing stairs proble
 
 - [Notes](notes/day070_dynamic_programming_intro.md)
 - [Code](exercises/day070_dynamic_programming.py)
+
+## Day 71: Python Type Hints and Annotations
+Implemented static typing with typing module: List, Dict, Optional, Union, Callable.
+
+- [Notes](notes/day071_type_hinting.md)
+- [Code](exercises/day071_type_hints.py)
