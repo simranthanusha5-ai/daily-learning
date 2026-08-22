@@ -392,3 +392,9 @@ Implemented static typing with typing module: List, Dict, Optional, Union, Calla
 
 - [Notes](notes/day071_type_hinting.md)
 - [Code](exercises/day071_type_hints.py)
+
+## Day 72: Dataclasses for Clean Data Models
+Used @dataclass decorator with defaults, methods, and frozen immutability.
+
+- [Notes](notes/day072_dataclasses_module.md)
+- [Code](exercises/day072_dataclasses.py)

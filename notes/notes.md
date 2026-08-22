@@ -64,3 +64,4 @@
 - **Day 69 (Graph BFS and Shortest Path)**: Implemented BFS to compute shortest hop path in unweighted graphs.
 - **Day 70 (Dynamic Programming: Memoization vs Tabulation)**: Compared top-down memoization and bottom-up tabulation on climbing stairs problem.
 - **Day 71 (Python Type Hints and Annotations)**: Implemented static typing with typing module: List, Dict, Optional, Union, Callable.
+- **Day 72 (Dataclasses for Clean Data Models)**: Used @dataclass decorator with defaults, methods, and frozen immutability.
