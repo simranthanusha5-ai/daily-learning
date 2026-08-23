@@ -398,3 +398,9 @@ Used @dataclass decorator with defaults, methods, and frozen immutability.
 
 - [Notes](notes/day072_dataclasses_module.md)
 - [Code](exercises/day072_dataclasses.py)
+
+## Day 73: Namedtuples from collections
+Created lightweight, memory-efficient tuple structs using namedtuple.
+
+- [Notes](notes/day073_namedtuples_guide.md)
+- [Code](exercises/day073_namedtuples.py)
