@@ -404,3 +404,9 @@ Created lightweight, memory-efficient tuple structs using namedtuple.
 
 - [Notes](notes/day073_namedtuples_guide.md)
 - [Code](exercises/day073_namedtuples.py)
+
+## Day 74: Function Decorators and functools.wraps
+Created timing and logging decorators preserving original function metadata.
+
+- [Notes](notes/day074_decorators_wraps.md)
+- [Code](exercises/day074_decorators.py)

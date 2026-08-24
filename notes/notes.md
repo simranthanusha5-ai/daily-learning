@@ -66,3 +66,4 @@
 - **Day 71 (Python Type Hints and Annotations)**: Implemented static typing with typing module: List, Dict, Optional, Union, Callable.
 - **Day 72 (Dataclasses for Clean Data Models)**: Used @dataclass decorator with defaults, methods, and frozen immutability.
 - **Day 73 (Namedtuples from collections)**: Created lightweight, memory-efficient tuple structs using namedtuple.
+- **Day 74 (Function Decorators and functools.wraps)**: Created timing and logging decorators preserving original function metadata.
