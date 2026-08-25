@@ -67,3 +67,4 @@
 - **Day 72 (Dataclasses for Clean Data Models)**: Used @dataclass decorator with defaults, methods, and frozen immutability.
 - **Day 73 (Namedtuples from collections)**: Created lightweight, memory-efficient tuple structs using namedtuple.
 - **Day 74 (Function Decorators and functools.wraps)**: Created timing and logging decorators preserving original function metadata.
+- **Day 75 (Parameterized and Chained Decorators)**: Built decorators that accept configuration arguments and chained multiple decorators.

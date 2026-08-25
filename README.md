@@ -410,3 +410,9 @@ Created timing and logging decorators preserving original function metadata.
 
 - [Notes](notes/day074_decorators_wraps.md)
 - [Code](exercises/day074_decorators.py)
+
+## Day 75: Parameterized and Chained Decorators
+Built decorators that accept configuration arguments and chained multiple decorators.
+
+- [Notes](notes/day075_parameterized_decorators.md)
+- [Code](exercises/day075_param_decorators.py)
