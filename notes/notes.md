@@ -68,3 +68,4 @@
 - **Day 73 (Namedtuples from collections)**: Created lightweight, memory-efficient tuple structs using namedtuple.
 - **Day 74 (Function Decorators and functools.wraps)**: Created timing and logging decorators preserving original function metadata.
 - **Day 75 (Parameterized and Chained Decorators)**: Built decorators that accept configuration arguments and chained multiple decorators.
+- **Day 76 (Dates, Times, and Timezones)**: Formatted timestamps with strftime, parsed with strptime, and computed timedeltas.

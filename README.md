@@ -416,3 +416,9 @@ Built decorators that accept configuration arguments and chained multiple decora
 
 - [Notes](notes/day075_parameterized_decorators.md)
 - [Code](exercises/day075_param_decorators.py)
+
+## Day 76: Dates, Times, and Timezones
+Formatted timestamps with strftime, parsed with strptime, and computed timedeltas.
+
+- [Notes](notes/day076_datetime_module.md)
+- [Code](exercises/day076_datetime.py)
