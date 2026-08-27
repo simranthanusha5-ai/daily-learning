@@ -422,3 +422,9 @@ Formatted timestamps with strftime, parsed with strptime, and computed timedelta
 
 - [Notes](notes/day076_datetime_module.md)
 - [Code](exercises/day076_datetime.py)
+
+## Day 77: Regular Expressions: Pattern Matching with re
+Used re.match, re.search, and character classes for input validation.
+
+- [Notes](notes/day077_regex_fundamentals.md)
+- [Code](exercises/day077_regex.py)
