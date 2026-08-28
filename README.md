@@ -428,3 +428,9 @@ Used re.match, re.search, and character classes for input validation.
 
 - [Notes](notes/day077_regex_fundamentals.md)
 - [Code](exercises/day077_regex.py)
+
+## Day 78: Regular Expressions: Groups and Substitution
+Captured regex groups and replaced patterns using re.sub.
+
+- [Notes](notes/day078_regex_groups_substitution.md)
+- [Code](exercises/day078_regex_sub.py)

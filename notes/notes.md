@@ -70,3 +70,4 @@
 - **Day 75 (Parameterized and Chained Decorators)**: Built decorators that accept configuration arguments and chained multiple decorators.
 - **Day 76 (Dates, Times, and Timezones)**: Formatted timestamps with strftime, parsed with strptime, and computed timedeltas.
 - **Day 77 (Regular Expressions: Pattern Matching with re)**: Used re.match, re.search, and character classes for input validation.
+- **Day 78 (Regular Expressions: Groups and Substitution)**: Captured regex groups and replaced patterns using re.sub.
