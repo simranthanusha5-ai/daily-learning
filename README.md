@@ -434,3 +434,9 @@ Captured regex groups and replaced patterns using re.sub.
 
 - [Notes](notes/day078_regex_groups_substitution.md)
 - [Code](exercises/day078_regex_sub.py)
+
+## Day 79: Unit Testing with unittest Module
+Wrote TestCase suites with assertions and setUp/tearDown lifecycle hooks.
+
+- [Notes](notes/day079_unittest_framework.md)
+- [Code](exercises/day079_unittest.py)
