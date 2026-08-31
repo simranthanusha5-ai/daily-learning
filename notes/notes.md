@@ -73,3 +73,4 @@
 - **Day 78 (Regular Expressions: Groups and Substitution)**: Captured regex groups and replaced patterns using re.sub.
 - **Day 79 (Unit Testing with unittest Module)**: Wrote TestCase suites with assertions and setUp/tearDown lifecycle hooks.
 - **Day 80 (Test-Driven Development (TDD) Workflow)**: Implemented integer to Roman numeral converter following Red-Green-Refactor.
+- **Day 81 (Pathlib: Modern Filesystem Navigation)**: Used Path objects for directory iteration, extensions, and path manipulation.

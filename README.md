@@ -446,3 +446,9 @@ Implemented integer to Roman numeral converter following Red-Green-Refactor.
 
 - [Notes](notes/day080_tdd_roman_numerals.md)
 - [Code](exercises/day080_tdd.py)
+
+## Day 81: Pathlib: Modern Filesystem Navigation
+Used Path objects for directory iteration, extensions, and path manipulation.
+
+- [Notes](notes/day081_pathlib_module.md)
+- [Code](exercises/day081_pathlib.py)
