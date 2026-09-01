@@ -452,3 +452,9 @@ Used Path objects for directory iteration, extensions, and path manipulation.
 
 - [Notes](notes/day081_pathlib_module.md)
 - [Code](exercises/day081_pathlib.py)
+
+## Day 82: Advanced Collections: ChainMap and Deque
+Explored multi-dict search scoping with ChainMap and rotating deques.
+
+- [Notes](notes/day082_collections_advanced.md)
+- [Code](exercises/day082_chainmap.py)
