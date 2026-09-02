@@ -458,3 +458,9 @@ Explored multi-dict search scoping with ChainMap and rotating deques.
 
 - [Notes](notes/day082_collections_advanced.md)
 - [Code](exercises/day082_chainmap.py)
+
+## Day 83: Itertools: Combinatorics and Infinite Iterators
+Generated permutations, combinations, and cumulative accumulations.
+
+- [Notes](notes/day083_itertools_module.md)
+- [Code](exercises/day083_itertools.py)

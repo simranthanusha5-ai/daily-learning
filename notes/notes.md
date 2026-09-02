@@ -75,3 +75,4 @@
 - **Day 80 (Test-Driven Development (TDD) Workflow)**: Implemented integer to Roman numeral converter following Red-Green-Refactor.
 - **Day 81 (Pathlib: Modern Filesystem Navigation)**: Used Path objects for directory iteration, extensions, and path manipulation.
 - **Day 82 (Advanced Collections: ChainMap and Deque)**: Explored multi-dict search scoping with ChainMap and rotating deques.
+- **Day 83 (Itertools: Combinatorics and Infinite Iterators)**: Generated permutations, combinations, and cumulative accumulations.
