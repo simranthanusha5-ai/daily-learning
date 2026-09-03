@@ -464,3 +464,9 @@ Generated permutations, combinations, and cumulative accumulations.
 
 - [Notes](notes/day083_itertools_module.md)
 - [Code](exercises/day083_itertools.py)
+
+## Day 84: Structured Logging with Python logging Module
+Configured logging formatters, levels, and handlers.
+
+- [Notes](notes/day084_logging_module.md)
+- [Code](exercises/day084_logging.py)
