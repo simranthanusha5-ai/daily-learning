@@ -470,3 +470,9 @@ Configured logging formatters, levels, and handlers.
 
 - [Notes](notes/day084_logging_module.md)
 - [Code](exercises/day084_logging.py)
+
+## Day 85: Command-Line Interface Building with argparse
+Constructed CLI tools accepting positional, optional, and typed flags.
+
+- [Notes](notes/day085_argparse_cli.md)
+- [Code](exercises/day085_argparse.py)

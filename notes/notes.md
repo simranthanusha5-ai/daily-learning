@@ -77,3 +77,4 @@
 - **Day 82 (Advanced Collections: ChainMap and Deque)**: Explored multi-dict search scoping with ChainMap and rotating deques.
 - **Day 83 (Itertools: Combinatorics and Infinite Iterators)**: Generated permutations, combinations, and cumulative accumulations.
 - **Day 84 (Structured Logging with Python logging Module)**: Configured logging formatters, levels, and handlers.
+- **Day 85 (Command-Line Interface Building with argparse)**: Constructed CLI tools accepting positional, optional, and typed flags.
