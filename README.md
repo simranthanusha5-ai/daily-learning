@@ -476,3 +476,9 @@ Constructed CLI tools accepting positional, optional, and typed flags.
 
 - [Notes](notes/day085_argparse_cli.md)
 - [Code](exercises/day085_argparse.py)
+
+## Day 86: Project 1: Number Guessing Game CLI
+Built an interactive number guessing game with hints and attempt limits.
+
+- [Notes](notes/day086_project_number_guessing.md)
+- [Code](projects/day086_number_guessing.py)
