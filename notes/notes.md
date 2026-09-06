@@ -79,3 +79,4 @@
 - **Day 84 (Structured Logging with Python logging Module)**: Configured logging formatters, levels, and handlers.
 - **Day 85 (Command-Line Interface Building with argparse)**: Constructed CLI tools accepting positional, optional, and typed flags.
 - **Day 86 (Project 1: Number Guessing Game CLI)**: Built an interactive number guessing game with hints and attempt limits.
+- **Day 87 (Project 2: Password Generator & Validator)**: Created secure random password generator with entropy and strength score.

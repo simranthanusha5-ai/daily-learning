@@ -482,3 +482,9 @@ Built an interactive number guessing game with hints and attempt limits.
 
 - [Notes](notes/day086_project_number_guessing.md)
 - [Code](projects/day086_number_guessing.py)
+
+## Day 87: Project 2: Password Generator & Validator
+Created secure random password generator with entropy and strength score.
+
+- [Notes](notes/day087_project_password_generator.md)
+- [Code](projects/day087_password_generator.py)
