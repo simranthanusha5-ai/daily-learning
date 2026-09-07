@@ -80,3 +80,4 @@
 - **Day 85 (Command-Line Interface Building with argparse)**: Constructed CLI tools accepting positional, optional, and typed flags.
 - **Day 86 (Project 1: Number Guessing Game CLI)**: Built an interactive number guessing game with hints and attempt limits.
 - **Day 87 (Project 2: Password Generator & Validator)**: Created secure random password generator with entropy and strength score.
+- **Day 88 (Project 3: Interactive To-Do List with JSON Storage)**: Implemented complete task manager with add, toggle, delete, and file persistence.

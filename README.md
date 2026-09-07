@@ -488,3 +488,9 @@ Created secure random password generator with entropy and strength score.
 
 - [Notes](notes/day087_project_password_generator.md)
 - [Code](projects/day087_password_generator.py)
+
+## Day 88: Project 3: Interactive To-Do List with JSON Storage
+Implemented complete task manager with add, toggle, delete, and file persistence.
+
+- [Notes](notes/day088_project_todo_cli.md)
+- [Code](projects/day088_todo_cli.py)
