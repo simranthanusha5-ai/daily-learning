@@ -494,3 +494,9 @@ Implemented complete task manager with add, toggle, delete, and file persistence
 
 - [Notes](notes/day088_project_todo_cli.md)
 - [Code](projects/day088_todo_cli.py)
+
+## Day 89: Project 4: Expense Tracker & Budget Calculator
+Built financial tracking utility calculating categorical spending and balances.
+
+- [Notes](notes/day089_project_expense_tracker.md)
+- [Code](projects/day089_expense_tracker.py)
