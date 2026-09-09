@@ -500,3 +500,9 @@ Built financial tracking utility calculating categorical spending and balances.
 
 - [Notes](notes/day089_project_expense_tracker.md)
 - [Code](projects/day089_expense_tracker.py)
+
+## Day 90: Project 5: Markdown to HTML Parser
+Implemented regex-based parser converting headers, bold, italics, and lists to HTML.
+
+- [Notes](notes/day090_project_markdown_converter.md)
+- [Code](projects/day090_markdown_converter.py)
