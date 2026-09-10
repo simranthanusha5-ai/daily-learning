@@ -83,3 +83,4 @@
 - **Day 88 (Project 3: Interactive To-Do List with JSON Storage)**: Implemented complete task manager with add, toggle, delete, and file persistence.
 - **Day 89 (Project 4: Expense Tracker & Budget Calculator)**: Built financial tracking utility calculating categorical spending and balances.
 - **Day 90 (Project 5: Markdown to HTML Parser)**: Implemented regex-based parser converting headers, bold, italics, and lists to HTML.
+- **Day 91 (Project 6: Text Analyzer & Readability Statistics)**: Computed word count, reading time estimates, lexical density, and char counts.
