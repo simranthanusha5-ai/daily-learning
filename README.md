@@ -512,3 +512,9 @@ Computed word count, reading time estimates, lexical density, and char counts.
 
 - [Notes](notes/day091_project_text_analyzer.md)
 - [Code](projects/day091_text_analyzer.py)
+
+## Day 92: Project 7: Contact Book CLI
+Implemented in-memory searchable contact address book with CRUD capabilities.
+
+- [Notes](notes/day092_project_contact_book.md)
+- [Code](projects/day092_contact_book.py)
