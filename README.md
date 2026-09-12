@@ -518,3 +518,9 @@ Implemented in-memory searchable contact address book with CRUD capabilities.
 
 - [Notes](notes/day092_project_contact_book.md)
 - [Code](projects/day092_contact_book.py)
+
+## Day 93: Project 8: Flashcard Quiz Application
+Built interactive quiz engine with score calculation and answer checking.
+
+- [Notes](notes/day093_project_flashcard_quiz.md)
+- [Code](projects/day093_flashcard_quiz.py)

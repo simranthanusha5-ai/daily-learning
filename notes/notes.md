@@ -85,3 +85,4 @@
 - **Day 90 (Project 5: Markdown to HTML Parser)**: Implemented regex-based parser converting headers, bold, italics, and lists to HTML.
 - **Day 91 (Project 6: Text Analyzer & Readability Statistics)**: Computed word count, reading time estimates, lexical density, and char counts.
 - **Day 92 (Project 7: Contact Book CLI)**: Implemented in-memory searchable contact address book with CRUD capabilities.
+- **Day 93 (Project 8: Flashcard Quiz Application)**: Built interactive quiz engine with score calculation and answer checking.
