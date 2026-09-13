@@ -524,3 +524,9 @@ Built interactive quiz engine with score calculation and answer checking.
 
 - [Notes](notes/day093_project_flashcard_quiz.md)
 - [Code](projects/day093_flashcard_quiz.py)
+
+## Day 94: Project 9: Multi-Unit Converter
+Created conversion utility for temperature, length, and weight units.
+
+- [Notes](notes/day094_project_unit_converter.md)
+- [Code](projects/day094_unit_converter.py)
