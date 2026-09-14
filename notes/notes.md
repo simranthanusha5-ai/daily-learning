@@ -87,3 +87,4 @@
 - **Day 92 (Project 7: Contact Book CLI)**: Implemented in-memory searchable contact address book with CRUD capabilities.
 - **Day 93 (Project 8: Flashcard Quiz Application)**: Built interactive quiz engine with score calculation and answer checking.
 - **Day 94 (Project 9: Multi-Unit Converter)**: Created conversion utility for temperature, length, and weight units.
+- **Day 95 (Project 10: Bank Account Simulation with Audit Logs)**: Developed banking account simulator with transaction history and audit trail.

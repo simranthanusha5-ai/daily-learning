@@ -530,3 +530,9 @@ Created conversion utility for temperature, length, and weight units.
 
 - [Notes](notes/day094_project_unit_converter.md)
 - [Code](projects/day094_unit_converter.py)
+
+## Day 95: Project 10: Bank Account Simulation with Audit Logs
+Developed banking account simulator with transaction history and audit trail.
+
+- [Notes](notes/day095_project_bank_simulation.md)
+- [Code](projects/day095_bank_simulation.py)
