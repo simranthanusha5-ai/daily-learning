@@ -536,3 +536,9 @@ Developed banking account simulator with transaction history and audit trail.
 
 - [Notes](notes/day095_project_bank_simulation.md)
 - [Code](projects/day095_bank_simulation.py)
+
+## Day 96: Project 11: Caesar Cipher Encryption Tool
+Implemented symmetric Caesar cipher encryption and decryption engine.
+
+- [Notes](notes/day096_project_caesar_cipher.md)
+- [Code](projects/day096_caesar_cipher.py)
