@@ -542,3 +542,9 @@ Implemented symmetric Caesar cipher encryption and decryption engine.
 
 - [Notes](notes/day096_project_caesar_cipher.md)
 - [Code](projects/day096_caesar_cipher.py)
+
+## Day 97: Project 12: Matrix Operations Engine
+Implemented 2D matrix addition, transposition, and matrix multiplication in pure Python.
+
+- [Notes](notes/day097_project_matrix_operations.md)
+- [Code](projects/day097_matrix_operations.py)
