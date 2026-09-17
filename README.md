@@ -548,3 +548,9 @@ Implemented 2D matrix addition, transposition, and matrix multiplication in pure
 
 - [Notes](notes/day097_project_matrix_operations.md)
 - [Code](projects/day097_matrix_operations.py)
+
+## Day 98: Project 13: Pomodoro Productivity CLI State Machine
+Modeled 25/5 Pomodoro session cycle with state machine transitions.
+
+- [Notes](notes/day098_project_pomodoro_cli.md)
+- [Code](projects/day098_pomodoro_timer.py)
