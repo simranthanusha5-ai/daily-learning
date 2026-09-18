@@ -554,3 +554,9 @@ Modeled 25/5 Pomodoro session cycle with state machine transitions.
 
 - [Notes](notes/day098_project_pomodoro_cli.md)
 - [Code](projects/day098_pomodoro_timer.py)
+
+## Day 99: Project 14: URL Shortener & Base62 Slug Generator
+Implemented URL shortener with Base62 token encoding and collision avoidance.
+
+- [Notes](notes/day099_project_url_shortener.md)
+- [Code](projects/day099_url_shortener.py)

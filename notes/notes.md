@@ -91,3 +91,4 @@
 - **Day 96 (Project 11: Caesar Cipher Encryption Tool)**: Implemented symmetric Caesar cipher encryption and decryption engine.
 - **Day 97 (Project 12: Matrix Operations Engine)**: Implemented 2D matrix addition, transposition, and matrix multiplication in pure Python.
 - **Day 98 (Project 13: Pomodoro Productivity CLI State Machine)**: Modeled 25/5 Pomodoro session cycle with state machine transitions.
+- **Day 99 (Project 14: URL Shortener & Base62 Slug Generator)**: Implemented URL shortener with Base62 token encoding and collision avoidance.
