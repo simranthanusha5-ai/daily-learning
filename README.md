@@ -560,3 +560,9 @@ Implemented URL shortener with Base62 token encoding and collision avoidance.
 
 - [Notes](notes/day099_project_url_shortener.md)
 - [Code](projects/day099_url_shortener.py)
+
+## Day 100: Project 15: CSV Data Analyzer & Summary Statistics
+Processed tabular datasets to compute distributions, outliers, and quantiles.
+
+- [Notes](notes/day100_project_csv_data_analyzer.md)
+- [Code](projects/day100_data_analyzer.py)
