@@ -566,3 +566,9 @@ Processed tabular datasets to compute distributions, outliers, and quantiles.
 
 - [Notes](notes/day100_project_csv_data_analyzer.md)
 - [Code](projects/day100_data_analyzer.py)
+
+## Day 101: Project 16: In-Memory Key-Value Store with TTL
+Implemented dictionary-backed cache with automatic expiration timestamps.
+
+- [Notes](notes/day101_project_kv_store_ttl.md)
+- [Code](projects/day101_kv_store_ttl.py)

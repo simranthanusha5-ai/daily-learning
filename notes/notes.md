@@ -93,3 +93,4 @@
 - **Day 98 (Project 13: Pomodoro Productivity CLI State Machine)**: Modeled 25/5 Pomodoro session cycle with state machine transitions.
 - **Day 99 (Project 14: URL Shortener & Base62 Slug Generator)**: Implemented URL shortener with Base62 token encoding and collision avoidance.
 - **Day 100 (Project 15: CSV Data Analyzer & Summary Statistics)**: Processed tabular datasets to compute distributions, outliers, and quantiles.
+- **Day 101 (Project 16: In-Memory Key-Value Store with TTL)**: Implemented dictionary-backed cache with automatic expiration timestamps.
