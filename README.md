@@ -572,3 +572,9 @@ Implemented dictionary-backed cache with automatic expiration timestamps.
 
 - [Notes](notes/day101_project_kv_store_ttl.md)
 - [Code](projects/day101_kv_store_ttl.py)
+
+## Day 102: Project 17: Mock HTTP Client & Response Parser
+Simulated REST API responses, status codes, headers, and payload serialization.
+
+- [Notes](notes/day102_project_mock_http_client.md)
+- [Code](projects/day102_mock_http.py)
