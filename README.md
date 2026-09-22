@@ -578,3 +578,9 @@ Simulated REST API responses, status codes, headers, and payload serialization.
 
 - [Notes](notes/day102_project_mock_http_client.md)
 - [Code](projects/day102_mock_http.py)
+
+## Day 103: Project 18: File Backup & Directory Sync Utility
+Built directory comparison engine detecting added, modified, and deleted files.
+
+- [Notes](notes/day103_project_directory_sync.md)
+- [Code](projects/day103_dir_sync.py)

@@ -95,3 +95,4 @@
 - **Day 100 (Project 15: CSV Data Analyzer & Summary Statistics)**: Processed tabular datasets to compute distributions, outliers, and quantiles.
 - **Day 101 (Project 16: In-Memory Key-Value Store with TTL)**: Implemented dictionary-backed cache with automatic expiration timestamps.
 - **Day 102 (Project 17: Mock HTTP Client & Response Parser)**: Simulated REST API responses, status codes, headers, and payload serialization.
+- **Day 103 (Project 18: File Backup & Directory Sync Utility)**: Built directory comparison engine detecting added, modified, and deleted files.
