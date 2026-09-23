@@ -584,3 +584,9 @@ Built directory comparison engine detecting added, modified, and deleted files.
 
 - [Notes](notes/day103_project_directory_sync.md)
 - [Code](projects/day103_dir_sync.py)
+
+## Day 104: Project 19: LRU (Least Recently Used) Cache
+Implemented classic LRU cache algorithm with OrderedDict with O(1) ops.
+
+- [Notes](notes/day104_project_lru_cache.md)
+- [Code](projects/day104_lru_cache.py)
