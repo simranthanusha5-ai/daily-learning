@@ -97,3 +97,4 @@
 - **Day 102 (Project 17: Mock HTTP Client & Response Parser)**: Simulated REST API responses, status codes, headers, and payload serialization.
 - **Day 103 (Project 18: File Backup & Directory Sync Utility)**: Built directory comparison engine detecting added, modified, and deleted files.
 - **Day 104 (Project 19: LRU (Least Recently Used) Cache)**: Implemented classic LRU cache algorithm with OrderedDict with O(1) ops.
+- **Day 105 (Project 20: HTML Tag & Link Parser)**: Extracted anchor href links and text content using html.parser.HTMLParser.

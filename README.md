@@ -590,3 +590,9 @@ Implemented classic LRU cache algorithm with OrderedDict with O(1) ops.
 
 - [Notes](notes/day104_project_lru_cache.md)
 - [Code](projects/day104_lru_cache.py)
+
+## Day 105: Project 20: HTML Tag & Link Parser
+Extracted anchor href links and text content using html.parser.HTMLParser.
+
+- [Notes](notes/day105_project_html_parser.md)
+- [Code](projects/day105_html_parser.py)
