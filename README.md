@@ -596,3 +596,9 @@ Extracted anchor href links and text content using html.parser.HTMLParser.
 
 - [Notes](notes/day105_project_html_parser.md)
 - [Code](projects/day105_html_parser.py)
+
+## Day 106: Asynchronous Programming with asyncio
+Wrote asynchronous coroutines with async/await and gathered concurrent tasks.
+
+- [Notes](notes/day106_asyncio_fundamentals.md)
+- [Code](exercises/day106_asyncio.py)

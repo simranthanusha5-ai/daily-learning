@@ -98,3 +98,4 @@
 - **Day 103 (Project 18: File Backup & Directory Sync Utility)**: Built directory comparison engine detecting added, modified, and deleted files.
 - **Day 104 (Project 19: LRU (Least Recently Used) Cache)**: Implemented classic LRU cache algorithm with OrderedDict with O(1) ops.
 - **Day 105 (Project 20: HTML Tag & Link Parser)**: Extracted anchor href links and text content using html.parser.HTMLParser.
+- **Day 106 (Asynchronous Programming with asyncio)**: Wrote asynchronous coroutines with async/await and gathered concurrent tasks.
