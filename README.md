@@ -602,3 +602,9 @@ Wrote asynchronous coroutines with async/await and gathered concurrent tasks.
 
 - [Notes](notes/day106_asyncio_fundamentals.md)
 - [Code](exercises/day106_asyncio.py)
+
+## Day 107: Concurrency: Threading vs Multiprocessing
+Examined GIL constraints, I/O-bound concurrency vs CPU-bound multiprocessing.
+
+- [Notes](notes/day107_concurrency_threading_multiprocessing.md)
+- [Code](exercises/day107_concurrency.py)
