@@ -100,3 +100,4 @@
 - **Day 105 (Project 20: HTML Tag & Link Parser)**: Extracted anchor href links and text content using html.parser.HTMLParser.
 - **Day 106 (Asynchronous Programming with asyncio)**: Wrote asynchronous coroutines with async/await and gathered concurrent tasks.
 - **Day 107 (Concurrency: Threading vs Multiprocessing)**: Examined GIL constraints, I/O-bound concurrency vs CPU-bound multiprocessing.
+- **Day 108 (SQLite Database Operations in Python)**: Created tables, inserted parameterized rows, queried results with sqlite3.

@@ -608,3 +608,9 @@ Examined GIL constraints, I/O-bound concurrency vs CPU-bound multiprocessing.
 
 - [Notes](notes/day107_concurrency_threading_multiprocessing.md)
 - [Code](exercises/day107_concurrency.py)
+
+## Day 108: SQLite Database Operations in Python
+Created tables, inserted parameterized rows, queried results with sqlite3.
+
+- [Notes](notes/day108_sqlite_database_basics.md)
+- [Code](exercises/day108_sqlite.py)
