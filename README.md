@@ -614,3 +614,9 @@ Created tables, inserted parameterized rows, queried results with sqlite3.
 
 - [Notes](notes/day108_sqlite_database_basics.md)
 - [Code](exercises/day108_sqlite.py)
+
+## Day 109: GitHub Actions CI/CD Configuration
+Configured automated Python testing and linting workflow in .github/workflows.
+
+- [Notes](notes/day109_github_actions_ci.md)
+- [Code](.github/workflows/python-tests.yml)
