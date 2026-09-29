@@ -26,3 +26,6 @@ Today I practiced GitHub and learned something new.
 
 ## Learning update 9
 Today I practiced GitHub and learned something new.
+
+## Learning update 10
+Today I practiced GitHub and learned something new.
