@@ -620,3 +620,9 @@ Configured automated Python testing and linting workflow in .github/workflows.
 
 - [Notes](notes/day109_github_actions_ci.md)
 - [Code](.github/workflows/python-tests.yml)
+
+## Day 110: Python Packaging with pyproject.toml
+Structured modern standard PEP 517/621 pyproject.toml build configuration.
+
+- [Notes](notes/day110_pyproject_packaging.md)
+- [Code](pyproject.toml)

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "daily-learning"
+version = "1.0.0"
+authors = [
+  { name="Thanusha simran", email="226363352+simranthanusha5-ai@users.noreply.github.com" },
+]
+description = "A 100-day Python and Software Engineering daily learning repository"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/simranthanusha5-ai/daily-learning"
