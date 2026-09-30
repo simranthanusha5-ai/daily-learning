@@ -650,3 +650,9 @@ Built a pub/sub event dispatcher supporting listener registration and event disp
 
 - [Notes](notes/day114_pattern_observer.md)
 - [Code](exercises/day114_observer.py)
+
+## Day 115: Design Patterns: Strategy Pattern
+Implemented Strategy pattern for interchangeable sorting and discount pricing strategies.
+
+- [Notes](notes/day115_pattern_strategy.md)
+- [Code](exercises/day115_strategy.py)

@@ -107,3 +107,4 @@
 - **Day 112 (Design Patterns: Singleton Pattern)**: Explored thread-safe Singleton design pattern implementations using metaclasses.
 - **Day 113 (Design Patterns: Factory Method Pattern)**: Implemented Factory Method pattern to decouple client code from concrete object creation.
 - **Day 114 (Design Patterns: Observer Pattern)**: Built a pub/sub event dispatcher supporting listener registration and event dispatching.
+- **Day 115 (Design Patterns: Strategy Pattern)**: Implemented Strategy pattern for interchangeable sorting and discount pricing strategies.
