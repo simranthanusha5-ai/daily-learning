@@ -656,3 +656,9 @@ Implemented Strategy pattern for interchangeable sorting and discount pricing st
 
 - [Notes](notes/day115_pattern_strategy.md)
 - [Code](exercises/day115_strategy.py)
+
+## Day 116: Design Patterns: Structural Decorator Pattern
+Constructed OOP object wrappers that dynamically attach responsibilities to objects.
+
+- [Notes](notes/day116_pattern_structural_decorator.md)
+- [Code](exercises/day116_decorator_pattern.py)
