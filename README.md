@@ -626,3 +626,9 @@ Structured modern standard PEP 517/621 pyproject.toml build configuration.
 
 - [Notes](notes/day110_pyproject_packaging.md)
 - [Code](pyproject.toml)
+
+## Day 111: Capstone: 100-Day Mastery Summary & Knowledge Map
+Completed 100 daily learning milestones: core syntax, OOP, algorithms, and projects.
+
+- [Notes](notes/day111_capstone_summary.md)
+- [Code](notes/day111_capstone_summary.md)
