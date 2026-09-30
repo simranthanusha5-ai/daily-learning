@@ -644,3 +644,9 @@ Implemented Factory Method pattern to decouple client code from concrete object 
 
 - [Notes](notes/day113_pattern_factory.md)
 - [Code](exercises/day113_factory.py)
+
+## Day 114: Design Patterns: Observer Pattern
+Built a pub/sub event dispatcher supporting listener registration and event dispatching.
+
+- [Notes](notes/day114_pattern_observer.md)
+- [Code](exercises/day114_observer.py)
