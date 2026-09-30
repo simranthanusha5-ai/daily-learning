@@ -104,3 +104,4 @@
 - **Day 109 (GitHub Actions CI/CD Configuration)**: Configured automated Python testing and linting workflow in .github/workflows.
 - **Day 110 (Python Packaging with pyproject.toml)**: Structured modern standard PEP 517/621 pyproject.toml build configuration.
 - **Day 111 (Capstone: 100-Day Mastery Summary & Knowledge Map)**: Completed 100 daily learning milestones: core syntax, OOP, algorithms, and projects.
+- **Day 112 (Design Patterns: Singleton Pattern)**: Explored thread-safe Singleton design pattern implementations using metaclasses.

@@ -632,3 +632,9 @@ Completed 100 daily learning milestones: core syntax, OOP, algorithms, and proje
 
 - [Notes](notes/day111_capstone_summary.md)
 - [Code](notes/day111_capstone_summary.md)
+
+## Day 112: Design Patterns: Singleton Pattern
+Explored thread-safe Singleton design pattern implementations using metaclasses.
+
+- [Notes](notes/day112_pattern_singleton.md)
+- [Code](exercises/day112_singleton.py)
