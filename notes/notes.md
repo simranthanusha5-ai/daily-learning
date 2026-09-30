@@ -105,3 +105,4 @@
 - **Day 110 (Python Packaging with pyproject.toml)**: Structured modern standard PEP 517/621 pyproject.toml build configuration.
 - **Day 111 (Capstone: 100-Day Mastery Summary & Knowledge Map)**: Completed 100 daily learning milestones: core syntax, OOP, algorithms, and projects.
 - **Day 112 (Design Patterns: Singleton Pattern)**: Explored thread-safe Singleton design pattern implementations using metaclasses.
+- **Day 113 (Design Patterns: Factory Method Pattern)**: Implemented Factory Method pattern to decouple client code from concrete object creation.
