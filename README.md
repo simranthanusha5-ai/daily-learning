@@ -668,3 +668,9 @@ Studied typing.Protocol for compile-time and runtime duck typing without class i
 
 - [Notes](notes/day117_modern_protocol_subtyping.md)
 - [Code](exercises/day117_protocol.py)
+
+## Day 118: Modern Python: Generics & TypeVar
+Implemented generic container and stack classes with TypeVar for strict type safety.
+
+- [Notes](notes/day118_modern_generics_typevar.md)
+- [Code](exercises/day118_generics.py)
