@@ -680,3 +680,9 @@ Created asynchronous context managers using __aenter__ and __aexit__ with asynci
 
 - [Notes](notes/day119_async_context_managers.md)
 - [Code](exercises/day119_async_context_manager.py)
+
+## Day 120: Asynchronous Iterators and Streams
+Implemented async generator pipelines with __aiter__ and __anext__ for streaming data.
+
+- [Notes](notes/day120_async_iterators.md)
+- [Code](exercises/day120_async_iterators.py)
