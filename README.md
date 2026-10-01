@@ -662,3 +662,9 @@ Constructed OOP object wrappers that dynamically attach responsibilities to obje
 
 - [Notes](notes/day116_pattern_structural_decorator.md)
 - [Code](exercises/day116_decorator_pattern.py)
+
+## Day 117: Modern Python: Protocol & Structural Typing
+Studied typing.Protocol for compile-time and runtime duck typing without class inheritance.
+
+- [Notes](notes/day117_modern_protocol_subtyping.md)
+- [Code](exercises/day117_protocol.py)
