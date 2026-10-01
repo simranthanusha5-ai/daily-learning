@@ -674,3 +674,9 @@ Implemented generic container and stack classes with TypeVar for strict type saf
 
 - [Notes](notes/day118_modern_generics_typevar.md)
 - [Code](exercises/day118_generics.py)
+
+## Day 119: Asynchronous Context Managers
+Created asynchronous context managers using __aenter__ and __aexit__ with asyncio.
+
+- [Notes](notes/day119_async_context_managers.md)
+- [Code](exercises/day119_async_context_manager.py)
