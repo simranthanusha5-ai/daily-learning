@@ -686,3 +686,9 @@ Implemented async generator pipelines with __aiter__ and __anext__ for streaming
 
 - [Notes](notes/day120_async_iterators.md)
 - [Code](exercises/day120_async_iterators.py)
+
+## Day 121: Thread-Safe Producer-Consumer Queues
+Implemented multi-threaded producer-consumer pattern using queue.Queue and worker threads.
+
+- [Notes](notes/day121_worker_thread_queues.md)
+- [Code](exercises/day121_thread_queue.py)
