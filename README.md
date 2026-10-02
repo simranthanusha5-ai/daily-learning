@@ -698,3 +698,9 @@ Implemented Trie data structure supporting word insertion, exact search, and pre
 
 - [Notes](notes/day122_trie_prefix_tree.md)
 - [Code](exercises/day122_trie.py)
+
+## Day 123: Data Structures: Disjoint Set Union (DSU)
+Implemented Union-Find with path compression and rank optimization for cycle detection.
+
+- [Notes](notes/day123_disjoint_set_union.md)
+- [Code](exercises/day123_dsu.py)
