@@ -114,3 +114,4 @@
 - **Day 119 (Asynchronous Context Managers)**: Created asynchronous context managers using __aenter__ and __aexit__ with asyncio.
 - **Day 120 (Asynchronous Iterators and Streams)**: Implemented async generator pipelines with __aiter__ and __anext__ for streaming data.
 - **Day 121 (Thread-Safe Producer-Consumer Queues)**: Implemented multi-threaded producer-consumer pattern using queue.Queue and worker threads.
+- **Day 122 (Data Structures: Trie (Prefix Tree))**: Implemented Trie data structure supporting word insertion, exact search, and prefix lookups.

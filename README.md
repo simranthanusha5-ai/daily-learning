@@ -692,3 +692,9 @@ Implemented multi-threaded producer-consumer pattern using queue.Queue and worke
 
 - [Notes](notes/day121_worker_thread_queues.md)
 - [Code](exercises/day121_thread_queue.py)
+
+## Day 122: Data Structures: Trie (Prefix Tree)
+Implemented Trie data structure supporting word insertion, exact search, and prefix lookups.
+
+- [Notes](notes/day122_trie_prefix_tree.md)
+- [Code](exercises/day122_trie.py)
