@@ -716,3 +716,9 @@ Implemented BFS-based topological sorting using in-degree array for DAG scheduli
 
 - [Notes](notes/day125_topological_sort.md)
 - [Code](exercises/day125_topological_sort.py)
+
+## Day 126: Project: Token Bucket API Rate Limiter
+Constructed a high-throughput Token Bucket rate limiter with refill rates and burst limits.
+
+- [Notes](notes/day126_project_token_bucket_limiter.md)
+- [Code](projects/day126_token_bucket.py)

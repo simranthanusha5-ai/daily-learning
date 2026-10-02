@@ -118,3 +118,4 @@
 - **Day 123 (Data Structures: Disjoint Set Union (DSU))**: Implemented Union-Find with path compression and rank optimization for cycle detection.
 - **Day 124 (Algorithms: Dijkstra's Shortest Path)**: Implemented Dijkstra's algorithm using priority queue (heapq) for weighted graphs.
 - **Day 125 (Algorithms: Topological Sort (Kahn's Algorithm))**: Implemented BFS-based topological sorting using in-degree array for DAG scheduling.
+- **Day 126 (Project: Token Bucket API Rate Limiter)**: Constructed a high-throughput Token Bucket rate limiter with refill rates and burst limits.
