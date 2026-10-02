@@ -710,3 +710,9 @@ Implemented Dijkstra's algorithm using priority queue (heapq) for weighted graph
 
 - [Notes](notes/day124_dijkstra_shortest_path.md)
 - [Code](exercises/day124_dijkstra.py)
+
+## Day 125: Algorithms: Topological Sort (Kahn's Algorithm)
+Implemented BFS-based topological sorting using in-degree array for DAG scheduling.
+
+- [Notes](notes/day125_topological_sort.md)
+- [Code](exercises/day125_topological_sort.py)
