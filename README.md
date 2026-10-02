@@ -704,3 +704,9 @@ Implemented Union-Find with path compression and rank optimization for cycle det
 
 - [Notes](notes/day123_disjoint_set_union.md)
 - [Code](exercises/day123_dsu.py)
+
+## Day 124: Algorithms: Dijkstra's Shortest Path
+Implemented Dijkstra's algorithm using priority queue (heapq) for weighted graphs.
+
+- [Notes](notes/day124_dijkstra_shortest_path.md)
+- [Code](exercises/day124_dijkstra.py)

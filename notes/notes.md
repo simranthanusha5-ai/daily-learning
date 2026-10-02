@@ -116,3 +116,4 @@
 - **Day 121 (Thread-Safe Producer-Consumer Queues)**: Implemented multi-threaded producer-consumer pattern using queue.Queue and worker threads.
 - **Day 122 (Data Structures: Trie (Prefix Tree))**: Implemented Trie data structure supporting word insertion, exact search, and prefix lookups.
 - **Day 123 (Data Structures: Disjoint Set Union (DSU))**: Implemented Union-Find with path compression and rank optimization for cycle detection.
+- **Day 124 (Algorithms: Dijkstra's Shortest Path)**: Implemented Dijkstra's algorithm using priority queue (heapq) for weighted graphs.
