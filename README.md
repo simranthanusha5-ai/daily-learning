@@ -722,3 +722,9 @@ Constructed a high-throughput Token Bucket rate limiter with refill rates and bu
 
 - [Notes](notes/day126_project_token_bucket_limiter.md)
 - [Code](projects/day126_token_bucket.py)
+
+## Day 127: Data Structures: Segment Tree (Range Sum Query)
+Implemented Segment Tree supporting O(log N) point updates and range sum queries.
+
+- [Notes](notes/day127_segment_tree.md)
+- [Code](exercises/day127_segment_tree.py)
