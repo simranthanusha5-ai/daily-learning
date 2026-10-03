@@ -120,3 +120,4 @@
 - **Day 125 (Algorithms: Topological Sort (Kahn's Algorithm))**: Implemented BFS-based topological sorting using in-degree array for DAG scheduling.
 - **Day 126 (Project: Token Bucket API Rate Limiter)**: Constructed a high-throughput Token Bucket rate limiter with refill rates and burst limits.
 - **Day 127 (Data Structures: Segment Tree (Range Sum Query))**: Implemented Segment Tree supporting O(log N) point updates and range sum queries.
+- **Day 128 (Data Structures: Fenwick Tree (Binary Indexed Tree))**: Implemented Binary Indexed Tree (BIT) with prefix sums and point updates.

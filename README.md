@@ -728,3 +728,9 @@ Implemented Segment Tree supporting O(log N) point updates and range sum queries
 
 - [Notes](notes/day127_segment_tree.md)
 - [Code](exercises/day127_segment_tree.py)
+
+## Day 128: Data Structures: Fenwick Tree (Binary Indexed Tree)
+Implemented Binary Indexed Tree (BIT) with prefix sums and point updates.
+
+- [Notes](notes/day128_fenwick_tree.md)
+- [Code](exercises/day128_fenwick_tree.py)
