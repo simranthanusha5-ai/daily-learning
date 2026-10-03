@@ -740,3 +740,9 @@ Implemented Bellman-Ford algorithm with negative cycle detection for directed we
 
 - [Notes](notes/day129_bellman_ford.md)
 - [Code](exercises/day129_bellman_ford.py)
+
+## Day 130: Algorithms: Floyd-Warshall All-Pairs Shortest Path
+Implemented Floyd-Warshall dynamic programming algorithm for all-pairs shortest paths.
+
+- [Notes](notes/day130_floyd_warshall.md)
+- [Code](exercises/day130_floyd_warshall.py)
