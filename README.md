@@ -734,3 +734,9 @@ Implemented Binary Indexed Tree (BIT) with prefix sums and point updates.
 
 - [Notes](notes/day128_fenwick_tree.md)
 - [Code](exercises/day128_fenwick_tree.py)
+
+## Day 129: Algorithms: Bellman-Ford Algorithm (Negative Cycle Detection)
+Implemented Bellman-Ford algorithm with negative cycle detection for directed weighted graphs.
+
+- [Notes](notes/day129_bellman_ford.md)
+- [Code](exercises/day129_bellman_ford.py)
