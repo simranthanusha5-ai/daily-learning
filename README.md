@@ -746,3 +746,9 @@ Implemented Floyd-Warshall dynamic programming algorithm for all-pairs shortest 
 
 - [Notes](notes/day130_floyd_warshall.md)
 - [Code](exercises/day130_floyd_warshall.py)
+
+## Day 131: Algorithms: Prim's Minimum Spanning Tree
+Implemented Prim's greedy algorithm using priority queues to compute Minimum Spanning Trees.
+
+- [Notes](notes/day131_prims_mst.md)
+- [Code](exercises/day131_prims_mst.py)

@@ -123,3 +123,4 @@
 - **Day 128 (Data Structures: Fenwick Tree (Binary Indexed Tree))**: Implemented Binary Indexed Tree (BIT) with prefix sums and point updates.
 - **Day 129 (Algorithms: Bellman-Ford Algorithm (Negative Cycle Detection))**: Implemented Bellman-Ford algorithm with negative cycle detection for directed weighted graphs.
 - **Day 130 (Algorithms: Floyd-Warshall All-Pairs Shortest Path)**: Implemented Floyd-Warshall dynamic programming algorithm for all-pairs shortest paths.
+- **Day 131 (Algorithms: Prim's Minimum Spanning Tree)**: Implemented Prim's greedy algorithm using priority queues to compute Minimum Spanning Trees.
