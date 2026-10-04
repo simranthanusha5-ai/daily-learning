@@ -770,3 +770,9 @@ Built A* search algorithm for 2D grid pathfinding using Manhattan distance heuri
 
 - [Notes](notes/day134_astar_search.md)
 - [Code](exercises/day134_astar_search.py)
+
+## Day 135: Data Structures: LRU Cache Implementation
+Implemented an O(1) Least Recently Used (LRU) Cache using doubly linked list and hash map.
+
+- [Notes](notes/day135_lru_cache.md)
+- [Code](exercises/day135_lru_cache.py)

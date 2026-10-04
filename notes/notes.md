@@ -127,3 +127,4 @@
 - **Day 132 (Algorithms: Kruskal's Minimum Spanning Tree)**: Implemented Kruskal's MST algorithm leveraging Disjoint Set Union (DSU) to avoid cycles.
 - **Day 133 (Algorithms: Knuth-Morris-Pratt (KMP) Pattern Matching)**: Constructed KMP string searching algorithm using LPS (longest prefix-suffix) array in linear time.
 - **Day 134 (Algorithms: A* Search Algorithm)**: Built A* search algorithm for 2D grid pathfinding using Manhattan distance heuristic.
+- **Day 135 (Data Structures: LRU Cache Implementation)**: Implemented an O(1) Least Recently Used (LRU) Cache using doubly linked list and hash map.
