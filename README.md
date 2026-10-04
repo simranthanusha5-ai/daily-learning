@@ -776,3 +776,9 @@ Implemented an O(1) Least Recently Used (LRU) Cache using doubly linked list and
 
 - [Notes](notes/day135_lru_cache.md)
 - [Code](exercises/day135_lru_cache.py)
+
+## Day 136: Data Structures: LFU Cache (Least Frequently Used)
+Implemented O(1) Least Frequently Used cache using frequency buckets and doubly linked lists.
+
+- [Notes](notes/day136_lfu_cache.md)
+- [Code](exercises/day136_lfu_cache.py)
