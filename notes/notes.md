@@ -125,3 +125,4 @@
 - **Day 130 (Algorithms: Floyd-Warshall All-Pairs Shortest Path)**: Implemented Floyd-Warshall dynamic programming algorithm for all-pairs shortest paths.
 - **Day 131 (Algorithms: Prim's Minimum Spanning Tree)**: Implemented Prim's greedy algorithm using priority queues to compute Minimum Spanning Trees.
 - **Day 132 (Algorithms: Kruskal's Minimum Spanning Tree)**: Implemented Kruskal's MST algorithm leveraging Disjoint Set Union (DSU) to avoid cycles.
+- **Day 133 (Algorithms: Knuth-Morris-Pratt (KMP) Pattern Matching)**: Constructed KMP string searching algorithm using LPS (longest prefix-suffix) array in linear time.

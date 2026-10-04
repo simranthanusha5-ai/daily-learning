@@ -758,3 +758,9 @@ Implemented Kruskal's MST algorithm leveraging Disjoint Set Union (DSU) to avoid
 
 - [Notes](notes/day132_kruskals_mst.md)
 - [Code](exercises/day132_kruskals_mst.py)
+
+## Day 133: Algorithms: Knuth-Morris-Pratt (KMP) Pattern Matching
+Constructed KMP string searching algorithm using LPS (longest prefix-suffix) array in linear time.
+
+- [Notes](notes/day133_kmp_search.md)
+- [Code](exercises/day133_kmp_search.py)
