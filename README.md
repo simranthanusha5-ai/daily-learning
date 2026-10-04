@@ -764,3 +764,9 @@ Constructed KMP string searching algorithm using LPS (longest prefix-suffix) arr
 
 - [Notes](notes/day133_kmp_search.md)
 - [Code](exercises/day133_kmp_search.py)
+
+## Day 134: Algorithms: A* Search Algorithm
+Built A* search algorithm for 2D grid pathfinding using Manhattan distance heuristic.
+
+- [Notes](notes/day134_astar_search.md)
+- [Code](exercises/day134_astar_search.py)
