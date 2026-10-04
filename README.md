@@ -752,3 +752,9 @@ Implemented Prim's greedy algorithm using priority queues to compute Minimum Spa
 
 - [Notes](notes/day131_prims_mst.md)
 - [Code](exercises/day131_prims_mst.py)
+
+## Day 132: Algorithms: Kruskal's Minimum Spanning Tree
+Implemented Kruskal's MST algorithm leveraging Disjoint Set Union (DSU) to avoid cycles.
+
+- [Notes](notes/day132_kruskals_mst.md)
+- [Code](exercises/day132_kruskals_mst.py)
