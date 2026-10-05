@@ -806,3 +806,9 @@ Explored __new__ and __init__ metaclass hooks for automatic subclass registratio
 
 - [Notes](notes/day140_metaclass_registry.md)
 - [Code](exercises/day140_metaclass_registry.py)
+
+## Day 141: Python Internals: Descriptors and Attribute Lookup
+Implemented non-data and data descriptors (__get__, __set__) for typed fields.
+
+- [Notes](notes/day141_descriptor_protocol.md)
+- [Code](exercises/day141_descriptor_protocol.py)
