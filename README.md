@@ -800,3 +800,9 @@ Coordinated background thread pools with add_done_callback and exception handlin
 
 - [Notes](notes/day139_threadpool_futures.md)
 - [Code](exercises/day139_threadpool_futures.py)
+
+## Day 140: Python Internals: Custom Metaclasses and Class Creation
+Explored __new__ and __init__ metaclass hooks for automatic subclass registration and validation.
+
+- [Notes](notes/day140_metaclass_registry.md)
+- [Code](exercises/day140_metaclass_registry.py)

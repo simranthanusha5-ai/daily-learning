@@ -132,3 +132,4 @@
 - **Day 137 (Concurrency: Reader-Writer Lock with Priority)**: Constructed a thread-safe Reader-Writer Lock in Python preventing writer starvation.
 - **Day 138 (Concurrency: Asyncio Semaphore for Rate Limiting)**: Managed concurrent async tasks and throughput using asyncio.Semaphore.
 - **Day 139 (Concurrency: ThreadPoolExecutor with Future Callbacks)**: Coordinated background thread pools with add_done_callback and exception handling.
+- **Day 140 (Python Internals: Custom Metaclasses and Class Creation)**: Explored __new__ and __init__ metaclass hooks for automatic subclass registration and validation.
