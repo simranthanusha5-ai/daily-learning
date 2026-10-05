@@ -788,3 +788,9 @@ Constructed a thread-safe Reader-Writer Lock in Python preventing writer starvat
 
 - [Notes](notes/day137_rw_lock.md)
 - [Code](exercises/day137_rw_lock.py)
+
+## Day 138: Concurrency: Asyncio Semaphore for Rate Limiting
+Managed concurrent async tasks and throughput using asyncio.Semaphore.
+
+- [Notes](notes/day138_async_semaphore.md)
+- [Code](exercises/day138_async_semaphore.py)
