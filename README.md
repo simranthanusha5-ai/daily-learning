@@ -794,3 +794,9 @@ Managed concurrent async tasks and throughput using asyncio.Semaphore.
 
 - [Notes](notes/day138_async_semaphore.md)
 - [Code](exercises/day138_async_semaphore.py)
+
+## Day 139: Concurrency: ThreadPoolExecutor with Future Callbacks
+Coordinated background thread pools with add_done_callback and exception handling.
+
+- [Notes](notes/day139_threadpool_futures.md)
+- [Code](exercises/day139_threadpool_futures.py)
