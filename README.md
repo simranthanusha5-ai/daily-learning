@@ -782,3 +782,9 @@ Implemented O(1) Least Frequently Used cache using frequency buckets and doubly 
 
 - [Notes](notes/day136_lfu_cache.md)
 - [Code](exercises/day136_lfu_cache.py)
+
+## Day 137: Concurrency: Reader-Writer Lock with Priority
+Constructed a thread-safe Reader-Writer Lock in Python preventing writer starvation.
+
+- [Notes](notes/day137_rw_lock.md)
+- [Code](exercises/day137_rw_lock.py)
