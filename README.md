@@ -836,3 +836,9 @@ Implemented a space-efficient probabilistic Bloom Filter for fast membership tes
 
 - [Notes](notes/day145_bloom_filter.md)
 - [Code](exercises/day145_bloom_filter.py)
+
+## Day 146: System Design: HyperLogLog Cardinality Estimation
+Constructed a HyperLogLog log-log register estimation for high-volume unique counts.
+
+- [Notes](notes/day146_hyperloglog.md)
+- [Code](exercises/day146_hyperloglog.py)
