@@ -818,3 +818,9 @@ Used weakref.WeakValueDictionary to prevent circular memory leaks in object cach
 
 - [Notes](notes/day142_weakref_cache.md)
 - [Code](exercises/day142_weakref_cache.py)
+
+## Day 143: Python Internals: Bytecode Inspection and dis Module
+Analyzed Python CPython opcode disassembly, stack operations, and constant folding.
+
+- [Notes](notes/day143_bytecode_inspection.md)
+- [Code](exercises/day143_bytecode_inspection.py)
