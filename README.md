@@ -812,3 +812,9 @@ Implemented non-data and data descriptors (__get__, __set__) for typed fields.
 
 - [Notes](notes/day141_descriptor_protocol.md)
 - [Code](exercises/day141_descriptor_protocol.py)
+
+## Day 142: Python Internals: Weak References and Memory Management
+Used weakref.WeakValueDictionary to prevent circular memory leaks in object caching.
+
+- [Notes](notes/day142_weakref_cache.md)
+- [Code](exercises/day142_weakref_cache.py)

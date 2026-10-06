@@ -134,3 +134,4 @@
 - **Day 139 (Concurrency: ThreadPoolExecutor with Future Callbacks)**: Coordinated background thread pools with add_done_callback and exception handling.
 - **Day 140 (Python Internals: Custom Metaclasses and Class Creation)**: Explored __new__ and __init__ metaclass hooks for automatic subclass registration and validation.
 - **Day 141 (Python Internals: Descriptors and Attribute Lookup)**: Implemented non-data and data descriptors (__get__, __set__) for typed fields.
+- **Day 142 (Python Internals: Weak References and Memory Management)**: Used weakref.WeakValueDictionary to prevent circular memory leaks in object caching.
