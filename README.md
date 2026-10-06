@@ -824,3 +824,9 @@ Analyzed Python CPython opcode disassembly, stack operations, and constant foldi
 
 - [Notes](notes/day143_bytecode_inspection.md)
 - [Code](exercises/day143_bytecode_inspection.py)
+
+## Day 144: System Design: Consistent Hashing Ring
+Implemented a Consistent Hashing ring with virtual nodes for distributed load balancing.
+
+- [Notes](notes/day144_consistent_hashing.md)
+- [Code](exercises/day144_consistent_hashing.py)
