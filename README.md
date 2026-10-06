@@ -830,3 +830,9 @@ Implemented a Consistent Hashing ring with virtual nodes for distributed load ba
 
 - [Notes](notes/day144_consistent_hashing.md)
 - [Code](exercises/day144_consistent_hashing.py)
+
+## Day 145: System Design: Bloom Filter with MurmurHash
+Implemented a space-efficient probabilistic Bloom Filter for fast membership testing.
+
+- [Notes](notes/day145_bloom_filter.md)
+- [Code](exercises/day145_bloom_filter.py)

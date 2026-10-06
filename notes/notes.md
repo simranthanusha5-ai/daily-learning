@@ -137,3 +137,4 @@
 - **Day 142 (Python Internals: Weak References and Memory Management)**: Used weakref.WeakValueDictionary to prevent circular memory leaks in object caching.
 - **Day 143 (Python Internals: Bytecode Inspection and dis Module)**: Analyzed Python CPython opcode disassembly, stack operations, and constant folding.
 - **Day 144 (System Design: Consistent Hashing Ring)**: Implemented a Consistent Hashing ring with virtual nodes for distributed load balancing.
+- **Day 145 (System Design: Bloom Filter with MurmurHash)**: Implemented a space-efficient probabilistic Bloom Filter for fast membership testing.
