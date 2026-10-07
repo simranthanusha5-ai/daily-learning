@@ -842,3 +842,9 @@ Constructed a HyperLogLog log-log register estimation for high-volume unique cou
 
 - [Notes](notes/day146_hyperloglog.md)
 - [Code](exercises/day146_hyperloglog.py)
+
+## Day 147: System Design: Merkle Tree for Distributed Integrity
+Built a cryptographic Merkle Tree for verifiable distributed data synchronization.
+
+- [Notes](notes/day147_merkle_tree.md)
+- [Code](exercises/day147_merkle_tree.py)

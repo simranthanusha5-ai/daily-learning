@@ -139,3 +139,4 @@
 - **Day 144 (System Design: Consistent Hashing Ring)**: Implemented a Consistent Hashing ring with virtual nodes for distributed load balancing.
 - **Day 145 (System Design: Bloom Filter with MurmurHash)**: Implemented a space-efficient probabilistic Bloom Filter for fast membership testing.
 - **Day 146 (System Design: HyperLogLog Cardinality Estimation)**: Constructed a HyperLogLog log-log register estimation for high-volume unique counts.
+- **Day 147 (System Design: Merkle Tree for Distributed Integrity)**: Built a cryptographic Merkle Tree for verifiable distributed data synchronization.
