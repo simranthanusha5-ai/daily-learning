@@ -854,3 +854,9 @@ Implemented Twitter-style 64-bit Snowflake ID generation with timestamp, worker 
 
 - [Notes](notes/day148_snowflake_id.md)
 - [Code](exercises/day148_snowflake_id.py)
+
+## Day 149: Networking: HTTP/1.1 Custom Request Parser
+Constructed RFC-compliant HTTP/1.1 request parser extracting method, path, headers, and body.
+
+- [Notes](notes/day149_http_parser.md)
+- [Code](exercises/day149_http_parser.py)
