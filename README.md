@@ -860,3 +860,9 @@ Constructed RFC-compliant HTTP/1.1 request parser extracting method, path, heade
 
 - [Notes](notes/day149_http_parser.md)
 - [Code](exercises/day149_http_parser.py)
+
+## Day 150: Networking: Raw Socket TCP Chat Server
+Constructed multi-client TCP broadcast protocol with non-blocking select socket loop.
+
+- [Notes](notes/day150_tcp_socket_server.md)
+- [Code](exercises/day150_tcp_socket_server.py)

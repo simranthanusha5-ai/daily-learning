@@ -142,3 +142,4 @@
 - **Day 147 (System Design: Merkle Tree for Distributed Integrity)**: Built a cryptographic Merkle Tree for verifiable distributed data synchronization.
 - **Day 148 (System Design: Distributed Snowflake ID Generator)**: Implemented Twitter-style 64-bit Snowflake ID generation with timestamp, worker ID, and sequence.
 - **Day 149 (Networking: HTTP/1.1 Custom Request Parser)**: Constructed RFC-compliant HTTP/1.1 request parser extracting method, path, headers, and body.
+- **Day 150 (Networking: Raw Socket TCP Chat Server)**: Constructed multi-client TCP broadcast protocol with non-blocking select socket loop.
