@@ -140,3 +140,4 @@
 - **Day 145 (System Design: Bloom Filter with MurmurHash)**: Implemented a space-efficient probabilistic Bloom Filter for fast membership testing.
 - **Day 146 (System Design: HyperLogLog Cardinality Estimation)**: Constructed a HyperLogLog log-log register estimation for high-volume unique counts.
 - **Day 147 (System Design: Merkle Tree for Distributed Integrity)**: Built a cryptographic Merkle Tree for verifiable distributed data synchronization.
+- **Day 148 (System Design: Distributed Snowflake ID Generator)**: Implemented Twitter-style 64-bit Snowflake ID generation with timestamp, worker ID, and sequence.

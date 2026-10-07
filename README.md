@@ -848,3 +848,9 @@ Built a cryptographic Merkle Tree for verifiable distributed data synchronizatio
 
 - [Notes](notes/day147_merkle_tree.md)
 - [Code](exercises/day147_merkle_tree.py)
+
+## Day 148: System Design: Distributed Snowflake ID Generator
+Implemented Twitter-style 64-bit Snowflake ID generation with timestamp, worker ID, and sequence.
+
+- [Notes](notes/day148_snowflake_id.md)
+- [Code](exercises/day148_snowflake_id.py)
