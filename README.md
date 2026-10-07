@@ -866,3 +866,9 @@ Constructed multi-client TCP broadcast protocol with non-blocking select socket 
 
 - [Notes](notes/day150_tcp_socket_server.md)
 - [Code](exercises/day150_tcp_socket_server.py)
+
+## Day 151: Networking: DNS Packet Parser and Query Resolver
+Parsed binary DNS header and question records unpacking RFC 1035 UDP datagrams.
+
+- [Notes](notes/day151_dns_packet_parser.md)
+- [Code](exercises/day151_dns_packet_parser.py)
