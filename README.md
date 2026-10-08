@@ -878,3 +878,9 @@ Implemented Write-Ahead Logging (WAL) engine ensuring crash resilience and recov
 
 - [Notes](notes/day152_wal_engine.md)
 - [Code](exercises/day152_wal_engine.py)
+
+## Day 153: Database Internals: Simple In-Memory B-Tree Index
+Implemented a B-Tree indexing structure with node splitting and balanced search lookups.
+
+- [Notes](notes/day153_btree_index.md)
+- [Code](exercises/day153_btree_index.py)
