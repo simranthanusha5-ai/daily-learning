@@ -144,3 +144,4 @@
 - **Day 149 (Networking: HTTP/1.1 Custom Request Parser)**: Constructed RFC-compliant HTTP/1.1 request parser extracting method, path, headers, and body.
 - **Day 150 (Networking: Raw Socket TCP Chat Server)**: Constructed multi-client TCP broadcast protocol with non-blocking select socket loop.
 - **Day 151 (Networking: DNS Packet Parser and Query Resolver)**: Parsed binary DNS header and question records unpacking RFC 1035 UDP datagrams.
+- **Day 152 (Database Internals: Write-Ahead Logging (WAL) Engine)**: Implemented Write-Ahead Logging (WAL) engine ensuring crash resilience and recovery.

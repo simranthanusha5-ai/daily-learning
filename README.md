@@ -872,3 +872,9 @@ Parsed binary DNS header and question records unpacking RFC 1035 UDP datagrams.
 
 - [Notes](notes/day151_dns_packet_parser.md)
 - [Code](exercises/day151_dns_packet_parser.py)
+
+## Day 152: Database Internals: Write-Ahead Logging (WAL) Engine
+Implemented Write-Ahead Logging (WAL) engine ensuring crash resilience and recovery.
+
+- [Notes](notes/day152_wal_engine.md)
+- [Code](exercises/day152_wal_engine.py)
