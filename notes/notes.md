@@ -148,3 +148,4 @@
 - **Day 153 (Database Internals: Simple In-Memory B-Tree Index)**: Implemented a B-Tree indexing structure with node splitting and balanced search lookups.
 - **Day 154 (Database Internals: LSM-Tree Memtable and Flush)**: Implemented Log-Structured Merge-Tree (LSM) MemTable with immutable SSTable flushing.
 - **Day 155 (Database Internals: Row-Level Locking Simulation)**: Built a 2-Phase Locking (2PL) transaction manager with shared (S) and exclusive (X) row locks.
+- **Day 156 (Design Patterns: Observer Pattern with Event Bus)**: Implemented an asynchronous decoupled Event Bus with typed subscriber filters.

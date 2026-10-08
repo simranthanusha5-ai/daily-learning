@@ -896,3 +896,9 @@ Built a 2-Phase Locking (2PL) transaction manager with shared (S) and exclusive 
 
 - [Notes](notes/day155_row_locking.md)
 - [Code](exercises/day155_row_locking.py)
+
+## Day 156: Design Patterns: Observer Pattern with Event Bus
+Implemented an asynchronous decoupled Event Bus with typed subscriber filters.
+
+- [Notes](notes/day156_observer_event_bus.md)
+- [Code](exercises/day156_observer_event_bus.py)
