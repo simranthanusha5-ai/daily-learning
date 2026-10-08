@@ -147,3 +147,4 @@
 - **Day 152 (Database Internals: Write-Ahead Logging (WAL) Engine)**: Implemented Write-Ahead Logging (WAL) engine ensuring crash resilience and recovery.
 - **Day 153 (Database Internals: Simple In-Memory B-Tree Index)**: Implemented a B-Tree indexing structure with node splitting and balanced search lookups.
 - **Day 154 (Database Internals: LSM-Tree Memtable and Flush)**: Implemented Log-Structured Merge-Tree (LSM) MemTable with immutable SSTable flushing.
+- **Day 155 (Database Internals: Row-Level Locking Simulation)**: Built a 2-Phase Locking (2PL) transaction manager with shared (S) and exclusive (X) row locks.

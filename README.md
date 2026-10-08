@@ -890,3 +890,9 @@ Implemented Log-Structured Merge-Tree (LSM) MemTable with immutable SSTable flus
 
 - [Notes](notes/day154_lsm_memtable.md)
 - [Code](exercises/day154_lsm_memtable.py)
+
+## Day 155: Database Internals: Row-Level Locking Simulation
+Built a 2-Phase Locking (2PL) transaction manager with shared (S) and exclusive (X) row locks.
+
+- [Notes](notes/day155_row_locking.md)
+- [Code](exercises/day155_row_locking.py)
