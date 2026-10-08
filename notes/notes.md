@@ -146,3 +146,4 @@
 - **Day 151 (Networking: DNS Packet Parser and Query Resolver)**: Parsed binary DNS header and question records unpacking RFC 1035 UDP datagrams.
 - **Day 152 (Database Internals: Write-Ahead Logging (WAL) Engine)**: Implemented Write-Ahead Logging (WAL) engine ensuring crash resilience and recovery.
 - **Day 153 (Database Internals: Simple In-Memory B-Tree Index)**: Implemented a B-Tree indexing structure with node splitting and balanced search lookups.
+- **Day 154 (Database Internals: LSM-Tree Memtable and Flush)**: Implemented Log-Structured Merge-Tree (LSM) MemTable with immutable SSTable flushing.

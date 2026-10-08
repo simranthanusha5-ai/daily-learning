@@ -884,3 +884,9 @@ Implemented a B-Tree indexing structure with node splitting and balanced search 
 
 - [Notes](notes/day153_btree_index.md)
 - [Code](exercises/day153_btree_index.py)
+
+## Day 154: Database Internals: LSM-Tree Memtable and Flush
+Implemented Log-Structured Merge-Tree (LSM) MemTable with immutable SSTable flushing.
+
+- [Notes](notes/day154_lsm_memtable.md)
+- [Code](exercises/day154_lsm_memtable.py)
