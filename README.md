@@ -914,3 +914,9 @@ Modeled multi-stage order lifecycle transitions using the Gang of Four State Pat
 
 - [Notes](notes/day158_state_pattern.md)
 - [Code](exercises/day158_state_pattern.py)
+
+## Day 159: Design Patterns: Command Pattern with Undo and Redo
+Built an Undo/Redo stack engine utilizing encapsulated executable Command objects.
+
+- [Notes](notes/day159_command_undo_redo.md)
+- [Code](exercises/day159_command_undo_redo.py)
