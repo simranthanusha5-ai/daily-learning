@@ -920,3 +920,9 @@ Built an Undo/Redo stack engine utilizing encapsulated executable Command object
 
 - [Notes](notes/day159_command_undo_redo.md)
 - [Code](exercises/day159_command_undo_redo.py)
+
+## Day 160: Design Patterns: Chain of Responsibility Middleware
+Constructed an HTTP request filtering middleware chain using Chain of Responsibility.
+
+- [Notes](notes/day160_chain_of_responsibility.md)
+- [Code](exercises/day160_chain_of_responsibility.py)
