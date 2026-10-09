@@ -150,3 +150,4 @@
 - **Day 155 (Database Internals: Row-Level Locking Simulation)**: Built a 2-Phase Locking (2PL) transaction manager with shared (S) and exclusive (X) row locks.
 - **Day 156 (Design Patterns: Observer Pattern with Event Bus)**: Implemented an asynchronous decoupled Event Bus with typed subscriber filters.
 - **Day 157 (Design Patterns: Factory Method and Abstract Factory)**: Designed cross-platform UI component families using the Abstract Factory pattern.
+- **Day 158 (Design Patterns: State Pattern for Order Processing)**: Modeled multi-stage order lifecycle transitions using the Gang of Four State Pattern.

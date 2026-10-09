@@ -908,3 +908,9 @@ Designed cross-platform UI component families using the Abstract Factory pattern
 
 - [Notes](notes/day157_abstract_factory.md)
 - [Code](exercises/day157_abstract_factory.py)
+
+## Day 158: Design Patterns: State Pattern for Order Processing
+Modeled multi-stage order lifecycle transitions using the Gang of Four State Pattern.
+
+- [Notes](notes/day158_state_pattern.md)
+- [Code](exercises/day158_state_pattern.py)
