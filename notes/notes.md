@@ -153,3 +153,4 @@
 - **Day 158 (Design Patterns: State Pattern for Order Processing)**: Modeled multi-stage order lifecycle transitions using the Gang of Four State Pattern.
 - **Day 159 (Design Patterns: Command Pattern with Undo and Redo)**: Built an Undo/Redo stack engine utilizing encapsulated executable Command objects.
 - **Day 160 (Design Patterns: Chain of Responsibility Middleware)**: Constructed an HTTP request filtering middleware chain using Chain of Responsibility.
+- **Day 161 (Mathematics & Crypto: RSA Key Generation and Modular Exponentiation)**: Implemented modular exponentiation, extended GCD, and RSA asymmetric encryption.

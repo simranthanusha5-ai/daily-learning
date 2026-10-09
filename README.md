@@ -926,3 +926,9 @@ Constructed an HTTP request filtering middleware chain using Chain of Responsibi
 
 - [Notes](notes/day160_chain_of_responsibility.md)
 - [Code](exercises/day160_chain_of_responsibility.py)
+
+## Day 161: Mathematics & Crypto: RSA Key Generation and Modular Exponentiation
+Implemented modular exponentiation, extended GCD, and RSA asymmetric encryption.
+
+- [Notes](notes/day161_rsa_crypto.md)
+- [Code](exercises/day161_rsa_crypto.py)
