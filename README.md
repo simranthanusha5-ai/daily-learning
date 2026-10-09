@@ -902,3 +902,9 @@ Implemented an asynchronous decoupled Event Bus with typed subscriber filters.
 
 - [Notes](notes/day156_observer_event_bus.md)
 - [Code](exercises/day156_observer_event_bus.py)
+
+## Day 157: Design Patterns: Factory Method and Abstract Factory
+Designed cross-platform UI component families using the Abstract Factory pattern.
+
+- [Notes](notes/day157_abstract_factory.md)
+- [Code](exercises/day157_abstract_factory.py)
