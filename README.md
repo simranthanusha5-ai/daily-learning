@@ -944,3 +944,9 @@ Implemented Cooley-Tukey Radix-2 FFT algorithm for O(N log N) polynomial multipl
 
 - [Notes](notes/day163_fft_polynomial.md)
 - [Code](exercises/day163_fft_polynomial.py)
+
+## Day 164: Machine Learning: Linear Regression via Gradient Descent
+Implemented univariate and multivariate Linear Regression with Mean Squared Error loss.
+
+- [Notes](notes/day164_linear_regression_sgd.md)
+- [Code](exercises/day164_linear_regression_sgd.py)

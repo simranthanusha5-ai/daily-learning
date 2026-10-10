@@ -156,3 +156,4 @@
 - **Day 161 (Mathematics & Crypto: RSA Key Generation and Modular Exponentiation)**: Implemented modular exponentiation, extended GCD, and RSA asymmetric encryption.
 - **Day 162 (Mathematics & Crypto: SHA-256 Message Digest from Scratch)**: Studied the Merkle-Damgard construction and 512-bit compression step of SHA-256.
 - **Day 163 (Mathematics & Crypto: Fast Fourier Transform (FFT) Polynomials)**: Implemented Cooley-Tukey Radix-2 FFT algorithm for O(N log N) polynomial multiplication.
+- **Day 164 (Machine Learning: Linear Regression via Gradient Descent)**: Implemented univariate and multivariate Linear Regression with Mean Squared Error loss.
