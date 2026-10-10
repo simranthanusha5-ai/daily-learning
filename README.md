@@ -938,3 +938,9 @@ Studied the Merkle-Damgard construction and 512-bit compression step of SHA-256.
 
 - [Notes](notes/day162_sha256_digest.md)
 - [Code](exercises/day162_sha256_digest.py)
+
+## Day 163: Mathematics & Crypto: Fast Fourier Transform (FFT) Polynomials
+Implemented Cooley-Tukey Radix-2 FFT algorithm for O(N log N) polynomial multiplication.
+
+- [Notes](notes/day163_fft_polynomial.md)
+- [Code](exercises/day163_fft_polynomial.py)
