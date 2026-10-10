@@ -956,3 +956,9 @@ Built binary Logistic Regression with sigmoid activation function and log-loss g
 
 - [Notes](notes/day165_logistic_regression.md)
 - [Code](exercises/day165_logistic_regression.py)
+
+## Day 166: Machine Learning: Decision Tree Classifier (Gini Impurity)
+Constructed a binary decision tree classifier with recursive Gini Impurity partitioning.
+
+- [Notes](notes/day166_decision_tree_gini.md)
+- [Code](exercises/day166_decision_tree_gini.py)
