@@ -950,3 +950,9 @@ Implemented univariate and multivariate Linear Regression with Mean Squared Erro
 
 - [Notes](notes/day164_linear_regression_sgd.md)
 - [Code](exercises/day164_linear_regression_sgd.py)
+
+## Day 165: Machine Learning: Logistic Regression with Cross-Entropy Loss
+Built binary Logistic Regression with sigmoid activation function and log-loss gradients.
+
+- [Notes](notes/day165_logistic_regression.md)
+- [Code](exercises/day165_logistic_regression.py)
