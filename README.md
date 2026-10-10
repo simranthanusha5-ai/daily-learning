@@ -932,3 +932,9 @@ Implemented modular exponentiation, extended GCD, and RSA asymmetric encryption.
 
 - [Notes](notes/day161_rsa_crypto.md)
 - [Code](exercises/day161_rsa_crypto.py)
+
+## Day 162: Mathematics & Crypto: SHA-256 Message Digest from Scratch
+Studied the Merkle-Damgard construction and 512-bit compression step of SHA-256.
+
+- [Notes](notes/day162_sha256_digest.md)
+- [Code](exercises/day162_sha256_digest.py)
