@@ -968,3 +968,9 @@ Implemented K-Means clustering with Lloyd's iterative centroid recalculation alg
 
 - [Notes](notes/day167_kmeans_clustering.md)
 - [Code](exercises/day167_kmeans_clustering.py)
+
+## Day 168: Machine Learning: K-Nearest Neighbors (KNN)
+Implemented non-parametric K-Nearest Neighbors classification using Euclidean distances.
+
+- [Notes](notes/day168_knn_classifier.md)
+- [Code](exercises/day168_knn_classifier.py)
