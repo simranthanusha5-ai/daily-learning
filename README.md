@@ -986,3 +986,9 @@ Implemented numerically stable Softmax probability distribution and multiclass c
 
 - [Notes](notes/day170_softmax_regression.md)
 - [Code](exercises/day170_softmax_regression.py)
+
+## Day 171: Machine Learning: Principal Component Analysis (PCA)
+Computed dimensional projection vectors using feature centering and covariance matrices.
+
+- [Notes](notes/day171_pca_covariance.md)
+- [Code](exercises/day171_pca_covariance.py)

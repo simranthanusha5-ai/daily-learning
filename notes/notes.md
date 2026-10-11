@@ -163,3 +163,4 @@
 - **Day 168 (Machine Learning: K-Nearest Neighbors (KNN))**: Implemented non-parametric K-Nearest Neighbors classification using Euclidean distances.
 - **Day 169 (Machine Learning: Feedforward Neural Network and Backpropagation)**: Built a 2-layer Neural Network from scratch implementing forward pass and gradient backpropagation.
 - **Day 170 (Machine Learning: Softmax Regression with Cross-Entropy Loss)**: Implemented numerically stable Softmax probability distribution and multiclass cross-entropy.
+- **Day 171 (Machine Learning: Principal Component Analysis (PCA))**: Computed dimensional projection vectors using feature centering and covariance matrices.
