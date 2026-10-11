@@ -980,3 +980,9 @@ Built a 2-layer Neural Network from scratch implementing forward pass and gradie
 
 - [Notes](notes/day169_neural_net_backprop.md)
 - [Code](exercises/day169_neural_net_backprop.py)
+
+## Day 170: Machine Learning: Softmax Regression with Cross-Entropy Loss
+Implemented numerically stable Softmax probability distribution and multiclass cross-entropy.
+
+- [Notes](notes/day170_softmax_regression.md)
+- [Code](exercises/day170_softmax_regression.py)
