@@ -974,3 +974,9 @@ Implemented non-parametric K-Nearest Neighbors classification using Euclidean di
 
 - [Notes](notes/day168_knn_classifier.md)
 - [Code](exercises/day168_knn_classifier.py)
+
+## Day 169: Machine Learning: Feedforward Neural Network and Backpropagation
+Built a 2-layer Neural Network from scratch implementing forward pass and gradient backpropagation.
+
+- [Notes](notes/day169_neural_net_backprop.md)
+- [Code](exercises/day169_neural_net_backprop.py)

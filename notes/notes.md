@@ -161,3 +161,4 @@
 - **Day 166 (Machine Learning: Decision Tree Classifier (Gini Impurity))**: Constructed a binary decision tree classifier with recursive Gini Impurity partitioning.
 - **Day 167 (Machine Learning: K-Means Clustering)**: Implemented K-Means clustering with Lloyd's iterative centroid recalculation algorithm.
 - **Day 168 (Machine Learning: K-Nearest Neighbors (KNN))**: Implemented non-parametric K-Nearest Neighbors classification using Euclidean distances.
+- **Day 169 (Machine Learning: Feedforward Neural Network and Backpropagation)**: Built a 2-layer Neural Network from scratch implementing forward pass and gradient backpropagation.
