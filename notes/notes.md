@@ -159,3 +159,4 @@
 - **Day 164 (Machine Learning: Linear Regression via Gradient Descent)**: Implemented univariate and multivariate Linear Regression with Mean Squared Error loss.
 - **Day 165 (Machine Learning: Logistic Regression with Cross-Entropy Loss)**: Built binary Logistic Regression with sigmoid activation function and log-loss gradients.
 - **Day 166 (Machine Learning: Decision Tree Classifier (Gini Impurity))**: Constructed a binary decision tree classifier with recursive Gini Impurity partitioning.
+- **Day 167 (Machine Learning: K-Means Clustering)**: Implemented K-Means clustering with Lloyd's iterative centroid recalculation algorithm.

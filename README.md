@@ -962,3 +962,9 @@ Constructed a binary decision tree classifier with recursive Gini Impurity parti
 
 - [Notes](notes/day166_decision_tree_gini.md)
 - [Code](exercises/day166_decision_tree_gini.py)
+
+## Day 167: Machine Learning: K-Means Clustering
+Implemented K-Means clustering with Lloyd's iterative centroid recalculation algorithm.
+
+- [Notes](notes/day167_kmeans_clustering.md)
+- [Code](exercises/day167_kmeans_clustering.py)
