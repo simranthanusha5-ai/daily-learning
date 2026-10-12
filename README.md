@@ -1016,3 +1016,9 @@ Built a reliable task queue engine supporting automatic exponential retries and 
 
 - [Notes](notes/day175_task_queue_dlq.md)
 - [Code](projects/day175_task_queue_dlq.py)
+
+## Day 176: Project: Mini ASGI Web Framework
+Built an asynchronous Python ASGI web framework supporting routing, middleware, and JSON serialization.
+
+- [Notes](notes/day176_mini_asgi_framework.md)
+- [Code](projects/day176_mini_asgi_framework.py)
