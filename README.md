@@ -992,3 +992,9 @@ Computed dimensional projection vectors using feature centering and covariance m
 
 - [Notes](notes/day171_pca_covariance.md)
 - [Code](exercises/day171_pca_covariance.py)
+
+## Day 172: Machine Learning: Naive Bayes Text Classifier
+Constructed Multinomial Naive Bayes with Laplace smoothing for text sentiment analysis.
+
+- [Notes](notes/day172_naive_bayes_classifier.md)
+- [Code](exercises/day172_naive_bayes_classifier.py)
