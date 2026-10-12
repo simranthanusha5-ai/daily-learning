@@ -998,3 +998,9 @@ Constructed Multinomial Naive Bayes with Laplace smoothing for text sentiment an
 
 - [Notes](notes/day172_naive_bayes_classifier.md)
 - [Code](exercises/day172_naive_bayes_classifier.py)
+
+## Day 173: Project: Mini Markdown to HTML Static Site Generator
+Built an automated static site generator converting markdown syntax to responsive HTML templates.
+
+- [Notes](notes/day173_markdown_ssg.md)
+- [Code](projects/day173_markdown_ssg.py)
