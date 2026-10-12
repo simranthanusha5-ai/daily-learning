@@ -166,3 +166,4 @@
 - **Day 171 (Machine Learning: Principal Component Analysis (PCA))**: Computed dimensional projection vectors using feature centering and covariance matrices.
 - **Day 172 (Machine Learning: Naive Bayes Text Classifier)**: Constructed Multinomial Naive Bayes with Laplace smoothing for text sentiment analysis.
 - **Day 173 (Project: Mini Markdown to HTML Static Site Generator)**: Built an automated static site generator converting markdown syntax to responsive HTML templates.
+- **Day 174 (Project: Key-Value Store with TTL and Eviction)**: Engineered a persistent key-value store with time-to-live expiration and periodic active eviction.

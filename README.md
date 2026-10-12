@@ -1004,3 +1004,9 @@ Built an automated static site generator converting markdown syntax to responsiv
 
 - [Notes](notes/day173_markdown_ssg.md)
 - [Code](projects/day173_markdown_ssg.py)
+
+## Day 174: Project: Key-Value Store with TTL and Eviction
+Engineered a persistent key-value store with time-to-live expiration and periodic active eviction.
+
+- [Notes](notes/day174_kv_store_ttl.md)
+- [Code](projects/day174_kv_store_ttl.py)
