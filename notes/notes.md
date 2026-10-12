@@ -167,3 +167,4 @@
 - **Day 172 (Machine Learning: Naive Bayes Text Classifier)**: Constructed Multinomial Naive Bayes with Laplace smoothing for text sentiment analysis.
 - **Day 173 (Project: Mini Markdown to HTML Static Site Generator)**: Built an automated static site generator converting markdown syntax to responsive HTML templates.
 - **Day 174 (Project: Key-Value Store with TTL and Eviction)**: Engineered a persistent key-value store with time-to-live expiration and periodic active eviction.
+- **Day 175 (Project: Lightweight Task Queue with Dead-Letter Handling)**: Built a reliable task queue engine supporting automatic exponential retries and dead-letter queue (DLQ).

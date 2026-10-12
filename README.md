@@ -1010,3 +1010,9 @@ Engineered a persistent key-value store with time-to-live expiration and periodi
 
 - [Notes](notes/day174_kv_store_ttl.md)
 - [Code](projects/day174_kv_store_ttl.py)
+
+## Day 175: Project: Lightweight Task Queue with Dead-Letter Handling
+Built a reliable task queue engine supporting automatic exponential retries and dead-letter queue (DLQ).
+
+- [Notes](notes/day175_task_queue_dlq.md)
+- [Code](projects/day175_task_queue_dlq.py)
