@@ -1046,3 +1046,9 @@ Constructed a Radix Tree (Patricia trie) optimizing edge labels by compacting si
 
 - [Notes](notes/day180_radix_tree.md)
 - [Code](exercises/day180_radix_tree.py)
+
+## Day 181: Data Structures: Suffix Array and LCP (Longest Common Prefix) Array
+Implemented Suffix Array construction and Kasai's linear-time LCP algorithm for text indexing.
+
+- [Notes](notes/day181_suffix_array_lcp.md)
+- [Code](exercises/day181_suffix_array_lcp.py)
