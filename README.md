@@ -1064,3 +1064,9 @@ Implemented sublinear space Count-Min Sketch with multiple hash functions for he
 
 - [Notes](notes/day183_count_min_sketch.md)
 - [Code](exercises/day183_count_min_sketch.py)
+
+## Day 184: Data Structures: Cuckoo Filter (Dynamic Membership with Deletion)
+Engineered a Cuckoo Filter with partial-key cuckoo hashing supporting dynamic inserts and item deletions.
+
+- [Notes](notes/day184_cuckoo_filter.md)
+- [Code](exercises/day184_cuckoo_filter.py)
