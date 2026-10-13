@@ -1022,3 +1022,9 @@ Built an asynchronous Python ASGI web framework supporting routing, middleware, 
 
 - [Notes](notes/day176_mini_asgi_framework.md)
 - [Code](projects/day176_mini_asgi_framework.py)
+
+## Day 177: Data Structures: Skip List (Probabilistic Search & Insert)
+Implemented a probabilistic Skip List data structure with multi-level linked indexing achieving O(log N) operations.
+
+- [Notes](notes/day177_skip_list.md)
+- [Code](exercises/day177_skip_list.py)
