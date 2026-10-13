@@ -170,3 +170,4 @@
 - **Day 175 (Project: Lightweight Task Queue with Dead-Letter Handling)**: Built a reliable task queue engine supporting automatic exponential retries and dead-letter queue (DLQ).
 - **Day 176 (Project: Mini ASGI Web Framework)**: Built an asynchronous Python ASGI web framework supporting routing, middleware, and JSON serialization.
 - **Day 177 (Data Structures: Skip List (Probabilistic Search & Insert))**: Implemented a probabilistic Skip List data structure with multi-level linked indexing achieving O(log N) operations.
+- **Day 178 (Data Structures: Treap (Cartesian Tree with Random Priorities))**: Implemented a randomized Treap combining Binary Search Tree ordering with Max-Heap priorities via tree rotations.

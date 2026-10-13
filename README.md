@@ -1028,3 +1028,9 @@ Implemented a probabilistic Skip List data structure with multi-level linked ind
 
 - [Notes](notes/day177_skip_list.md)
 - [Code](exercises/day177_skip_list.py)
+
+## Day 178: Data Structures: Treap (Cartesian Tree with Random Priorities)
+Implemented a randomized Treap combining Binary Search Tree ordering with Max-Heap priorities via tree rotations.
+
+- [Notes](notes/day178_treap.md)
+- [Code](exercises/day178_treap.py)
