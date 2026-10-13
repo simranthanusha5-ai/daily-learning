@@ -1052,3 +1052,9 @@ Implemented Suffix Array construction and Kasai's linear-time LCP algorithm for 
 
 - [Notes](notes/day181_suffix_array_lcp.md)
 - [Code](exercises/day181_suffix_array_lcp.py)
+
+## Day 182: Data Structures: Rope Data Structure for Fast Text Editing
+Built a binary Rope data structure supporting efficient text concatenation and indexed character access.
+
+- [Notes](notes/day182_rope_data_structure.md)
+- [Code](exercises/day182_rope_data_structure.py)

@@ -174,3 +174,4 @@
 - **Day 179 (Data Structures: Splay Tree (Self-Adjusting Binary Search Tree))**: Built a self-adjusting Splay Tree that splays recently accessed nodes to the root via zig, zig-zig, and zig-zag rotations.
 - **Day 180 (Data Structures: Radix Tree / Compact Prefix Tree)**: Constructed a Radix Tree (Patricia trie) optimizing edge labels by compacting single-child paths.
 - **Day 181 (Data Structures: Suffix Array and LCP (Longest Common Prefix) Array)**: Implemented Suffix Array construction and Kasai's linear-time LCP algorithm for text indexing.
+- **Day 182 (Data Structures: Rope Data Structure for Fast Text Editing)**: Built a binary Rope data structure supporting efficient text concatenation and indexed character access.
