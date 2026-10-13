@@ -178,3 +178,4 @@
 - **Day 183 (Data Structures: Count-Min Sketch for Frequency Estimation)**: Implemented sublinear space Count-Min Sketch with multiple hash functions for heavy hitter streaming.
 - **Day 184 (Data Structures: Cuckoo Filter (Dynamic Membership with Deletion))**: Engineered a Cuckoo Filter with partial-key cuckoo hashing supporting dynamic inserts and item deletions.
 - **Day 185 (Data Structures: Interval Tree for Range Overlap Queries)**: Built an augmented Interval Tree to efficiently query all intervals overlapping with an input query window.
+- **Day 186 (Data Structures: 2D KD-Tree for Nearest Neighbor Search)**: Implemented a 2D K-Dimensional Tree with recursive median splitting for spatial nearest-neighbor search.

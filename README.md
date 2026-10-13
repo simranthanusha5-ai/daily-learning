@@ -1076,3 +1076,9 @@ Built an augmented Interval Tree to efficiently query all intervals overlapping 
 
 - [Notes](notes/day185_interval_tree.md)
 - [Code](exercises/day185_interval_tree.py)
+
+## Day 186: Data Structures: 2D KD-Tree for Nearest Neighbor Search
+Implemented a 2D K-Dimensional Tree with recursive median splitting for spatial nearest-neighbor search.
+
+- [Notes](notes/day186_kd_tree_2d.md)
+- [Code](exercises/day186_kd_tree_2d.py)
