@@ -1070,3 +1070,9 @@ Engineered a Cuckoo Filter with partial-key cuckoo hashing supporting dynamic in
 
 - [Notes](notes/day184_cuckoo_filter.md)
 - [Code](exercises/day184_cuckoo_filter.py)
+
+## Day 185: Data Structures: Interval Tree for Range Overlap Queries
+Built an augmented Interval Tree to efficiently query all intervals overlapping with an input query window.
+
+- [Notes](notes/day185_interval_tree.md)
+- [Code](exercises/day185_interval_tree.py)

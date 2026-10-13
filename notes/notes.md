@@ -177,3 +177,4 @@
 - **Day 182 (Data Structures: Rope Data Structure for Fast Text Editing)**: Built a binary Rope data structure supporting efficient text concatenation and indexed character access.
 - **Day 183 (Data Structures: Count-Min Sketch for Frequency Estimation)**: Implemented sublinear space Count-Min Sketch with multiple hash functions for heavy hitter streaming.
 - **Day 184 (Data Structures: Cuckoo Filter (Dynamic Membership with Deletion))**: Engineered a Cuckoo Filter with partial-key cuckoo hashing supporting dynamic inserts and item deletions.
+- **Day 185 (Data Structures: Interval Tree for Range Overlap Queries)**: Built an augmented Interval Tree to efficiently query all intervals overlapping with an input query window.
