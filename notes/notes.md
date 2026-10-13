@@ -172,3 +172,4 @@
 - **Day 177 (Data Structures: Skip List (Probabilistic Search & Insert))**: Implemented a probabilistic Skip List data structure with multi-level linked indexing achieving O(log N) operations.
 - **Day 178 (Data Structures: Treap (Cartesian Tree with Random Priorities))**: Implemented a randomized Treap combining Binary Search Tree ordering with Max-Heap priorities via tree rotations.
 - **Day 179 (Data Structures: Splay Tree (Self-Adjusting Binary Search Tree))**: Built a self-adjusting Splay Tree that splays recently accessed nodes to the root via zig, zig-zig, and zig-zag rotations.
+- **Day 180 (Data Structures: Radix Tree / Compact Prefix Tree)**: Constructed a Radix Tree (Patricia trie) optimizing edge labels by compacting single-child paths.

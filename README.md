@@ -1040,3 +1040,9 @@ Built a self-adjusting Splay Tree that splays recently accessed nodes to the roo
 
 - [Notes](notes/day179_splay_tree.md)
 - [Code](exercises/day179_splay_tree.py)
+
+## Day 180: Data Structures: Radix Tree / Compact Prefix Tree
+Constructed a Radix Tree (Patricia trie) optimizing edge labels by compacting single-child paths.
+
+- [Notes](notes/day180_radix_tree.md)
+- [Code](exercises/day180_radix_tree.py)
