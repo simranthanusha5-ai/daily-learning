@@ -1034,3 +1034,9 @@ Implemented a randomized Treap combining Binary Search Tree ordering with Max-He
 
 - [Notes](notes/day178_treap.md)
 - [Code](exercises/day178_treap.py)
+
+## Day 179: Data Structures: Splay Tree (Self-Adjusting Binary Search Tree)
+Built a self-adjusting Splay Tree that splays recently accessed nodes to the root via zig, zig-zig, and zig-zag rotations.
+
+- [Notes](notes/day179_splay_tree.md)
+- [Code](exercises/day179_splay_tree.py)
