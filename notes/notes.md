@@ -175,3 +175,4 @@
 - **Day 180 (Data Structures: Radix Tree / Compact Prefix Tree)**: Constructed a Radix Tree (Patricia trie) optimizing edge labels by compacting single-child paths.
 - **Day 181 (Data Structures: Suffix Array and LCP (Longest Common Prefix) Array)**: Implemented Suffix Array construction and Kasai's linear-time LCP algorithm for text indexing.
 - **Day 182 (Data Structures: Rope Data Structure for Fast Text Editing)**: Built a binary Rope data structure supporting efficient text concatenation and indexed character access.
+- **Day 183 (Data Structures: Count-Min Sketch for Frequency Estimation)**: Implemented sublinear space Count-Min Sketch with multiple hash functions for heavy hitter streaming.

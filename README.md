@@ -1058,3 +1058,9 @@ Built a binary Rope data structure supporting efficient text concatenation and i
 
 - [Notes](notes/day182_rope_data_structure.md)
 - [Code](exercises/day182_rope_data_structure.py)
+
+## Day 183: Data Structures: Count-Min Sketch for Frequency Estimation
+Implemented sublinear space Count-Min Sketch with multiple hash functions for heavy hitter streaming.
+
+- [Notes](notes/day183_count_min_sketch.md)
+- [Code](exercises/day183_count_min_sketch.py)
