@@ -184,3 +184,4 @@
 - **Day 189 (Algorithms: Edmonds-Karp Maximum Flow (BFS Ford-Fulkerson))**: Constructed Edmonds-Karp max flow using BFS shortest augmenting path on residual capacity matrices.
 - **Day 190 (Algorithms: Dinic's Algorithm for Network Flow with Level Graphs)**: Implemented Dinic's blocking flow algorithm combining BFS level graphs with DFS residual traversal.
 - **Day 191 (Algorithms: Hopcroft-Karp Bipartite Matching)**: Implemented Hopcroft-Karp O(E sqrt(V)) maximum cardinality matching in bipartite graphs.
+- **Day 192 (Algorithms: Graham Scan 2D Convex Hull)**: Implemented Graham Scan algorithm sorting points by polar angle and maintaining cross-product counterclockwise turns.

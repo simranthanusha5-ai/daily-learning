@@ -1112,3 +1112,9 @@ Implemented Hopcroft-Karp O(E sqrt(V)) maximum cardinality matching in bipartite
 
 - [Notes](notes/day191_hopcroft_karp.md)
 - [Code](exercises/day191_hopcroft_karp.py)
+
+## Day 192: Algorithms: Graham Scan 2D Convex Hull
+Implemented Graham Scan algorithm sorting points by polar angle and maintaining cross-product counterclockwise turns.
+
+- [Notes](notes/day192_graham_scan_hull.md)
+- [Code](exercises/day192_graham_scan_hull.py)
