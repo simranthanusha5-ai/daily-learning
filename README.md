@@ -1100,3 +1100,9 @@ Constructed Edmonds-Karp max flow using BFS shortest augmenting path on residual
 
 - [Notes](notes/day189_edmonds_karp_flow.md)
 - [Code](exercises/day189_edmonds_karp_flow.py)
+
+## Day 190: Algorithms: Dinic's Algorithm for Network Flow with Level Graphs
+Implemented Dinic's blocking flow algorithm combining BFS level graphs with DFS residual traversal.
+
+- [Notes](notes/day190_dinics_flow.md)
+- [Code](exercises/day190_dinics_flow.py)
