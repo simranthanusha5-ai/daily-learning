@@ -1118,3 +1118,9 @@ Implemented Graham Scan algorithm sorting points by polar angle and maintaining 
 
 - [Notes](notes/day192_graham_scan_hull.md)
 - [Code](exercises/day192_graham_scan_hull.py)
+
+## Day 193: Algorithms: Manacher's Algorithm for Longest Palindromic Substring
+Constructed linear time O(N) Manacher's algorithm tracking palindromic center and right boundaries.
+
+- [Notes](notes/day193_manachers_palindrome.md)
+- [Code](exercises/day193_manachers_palindrome.py)

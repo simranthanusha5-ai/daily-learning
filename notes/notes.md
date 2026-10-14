@@ -185,3 +185,4 @@
 - **Day 190 (Algorithms: Dinic's Algorithm for Network Flow with Level Graphs)**: Implemented Dinic's blocking flow algorithm combining BFS level graphs with DFS residual traversal.
 - **Day 191 (Algorithms: Hopcroft-Karp Bipartite Matching)**: Implemented Hopcroft-Karp O(E sqrt(V)) maximum cardinality matching in bipartite graphs.
 - **Day 192 (Algorithms: Graham Scan 2D Convex Hull)**: Implemented Graham Scan algorithm sorting points by polar angle and maintaining cross-product counterclockwise turns.
+- **Day 193 (Algorithms: Manacher's Algorithm for Longest Palindromic Substring)**: Constructed linear time O(N) Manacher's algorithm tracking palindromic center and right boundaries.
