@@ -1136,3 +1136,9 @@ Implemented continuous and discrete Ternary Search to locate global maxima/minim
 
 - [Notes](notes/day195_ternary_search.md)
 - [Code](exercises/day195_ternary_search.py)
+
+## Day 196: Algorithms: Simulated Annealing Optimization for TSP
+Built a Simulated Annealing heuristic solver for the Traveling Salesperson Problem (TSP) with geometric cooling.
+
+- [Notes](notes/day196_simulated_annealing_tsp.md)
+- [Code](exercises/day196_simulated_annealing_tsp.py)

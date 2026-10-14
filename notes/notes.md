@@ -188,3 +188,4 @@
 - **Day 193 (Algorithms: Manacher's Algorithm for Longest Palindromic Substring)**: Constructed linear time O(N) Manacher's algorithm tracking palindromic center and right boundaries.
 - **Day 194 (Algorithms: Quickselect Algorithm for O(N) Order Statistics)**: Implemented Hoare's Quickselect algorithm finding the k-th smallest element in O(N) expected time.
 - **Day 195 (Algorithms: Ternary Search for Unimodal Function Extrema)**: Implemented continuous and discrete Ternary Search to locate global maxima/minima of unimodal functions.
+- **Day 196 (Algorithms: Simulated Annealing Optimization for TSP)**: Built a Simulated Annealing heuristic solver for the Traveling Salesperson Problem (TSP) with geometric cooling.
