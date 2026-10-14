@@ -1106,3 +1106,9 @@ Implemented Dinic's blocking flow algorithm combining BFS level graphs with DFS 
 
 - [Notes](notes/day190_dinics_flow.md)
 - [Code](exercises/day190_dinics_flow.py)
+
+## Day 191: Algorithms: Hopcroft-Karp Bipartite Matching
+Implemented Hopcroft-Karp O(E sqrt(V)) maximum cardinality matching in bipartite graphs.
+
+- [Notes](notes/day191_hopcroft_karp.md)
+- [Code](exercises/day191_hopcroft_karp.py)
