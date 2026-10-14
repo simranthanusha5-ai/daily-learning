@@ -1094,3 +1094,9 @@ Implemented Kosaraju's dual DFS algorithm leveraging graph transposition and fin
 
 - [Notes](notes/day188_kosaraju_scc.md)
 - [Code](exercises/day188_kosaraju_scc.py)
+
+## Day 189: Algorithms: Edmonds-Karp Maximum Flow (BFS Ford-Fulkerson)
+Constructed Edmonds-Karp max flow using BFS shortest augmenting path on residual capacity matrices.
+
+- [Notes](notes/day189_edmonds_karp_flow.md)
+- [Code](exercises/day189_edmonds_karp_flow.py)
