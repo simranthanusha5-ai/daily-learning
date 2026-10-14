@@ -1130,3 +1130,9 @@ Implemented Hoare's Quickselect algorithm finding the k-th smallest element in O
 
 - [Notes](notes/day194_quickselect.md)
 - [Code](exercises/day194_quickselect.py)
+
+## Day 195: Algorithms: Ternary Search for Unimodal Function Extrema
+Implemented continuous and discrete Ternary Search to locate global maxima/minima of unimodal functions.
+
+- [Notes](notes/day195_ternary_search.md)
+- [Code](exercises/day195_ternary_search.py)
