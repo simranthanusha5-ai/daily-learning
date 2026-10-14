@@ -1082,3 +1082,9 @@ Implemented a 2D K-Dimensional Tree with recursive median splitting for spatial 
 
 - [Notes](notes/day186_kd_tree_2d.md)
 - [Code](exercises/day186_kd_tree_2d.py)
+
+## Day 187: Algorithms: Tarjan's Strongly Connected Components (SCC)
+Implemented Tarjan's single-pass DFS algorithm with discovery timestamps and low-link values.
+
+- [Notes](notes/day187_tarjan_scc.md)
+- [Code](exercises/day187_tarjan_scc.py)
