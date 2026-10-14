@@ -1124,3 +1124,9 @@ Constructed linear time O(N) Manacher's algorithm tracking palindromic center an
 
 - [Notes](notes/day193_manachers_palindrome.md)
 - [Code](exercises/day193_manachers_palindrome.py)
+
+## Day 194: Algorithms: Quickselect Algorithm for O(N) Order Statistics
+Implemented Hoare's Quickselect algorithm finding the k-th smallest element in O(N) expected time.
+
+- [Notes](notes/day194_quickselect.md)
+- [Code](exercises/day194_quickselect.py)
