@@ -180,3 +180,4 @@
 - **Day 185 (Data Structures: Interval Tree for Range Overlap Queries)**: Built an augmented Interval Tree to efficiently query all intervals overlapping with an input query window.
 - **Day 186 (Data Structures: 2D KD-Tree for Nearest Neighbor Search)**: Implemented a 2D K-Dimensional Tree with recursive median splitting for spatial nearest-neighbor search.
 - **Day 187 (Algorithms: Tarjan's Strongly Connected Components (SCC))**: Implemented Tarjan's single-pass DFS algorithm with discovery timestamps and low-link values.
+- **Day 188 (Algorithms: Kosaraju's Two-Pass SCC Algorithm)**: Implemented Kosaraju's dual DFS algorithm leveraging graph transposition and finish-time ordering.

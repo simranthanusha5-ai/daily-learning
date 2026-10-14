@@ -1088,3 +1088,9 @@ Implemented Tarjan's single-pass DFS algorithm with discovery timestamps and low
 
 - [Notes](notes/day187_tarjan_scc.md)
 - [Code](exercises/day187_tarjan_scc.py)
+
+## Day 188: Algorithms: Kosaraju's Two-Pass SCC Algorithm
+Implemented Kosaraju's dual DFS algorithm leveraging graph transposition and finish-time ordering.
+
+- [Notes](notes/day188_kosaraju_scc.md)
+- [Code](exercises/day188_kosaraju_scc.py)
