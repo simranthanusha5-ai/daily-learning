@@ -1190,3 +1190,9 @@ Built Vector Clocks to establish happen-before causal relationships and detect c
 
 - [Notes](notes/day204_vector_clocks.md)
 - [Code](exercises/day204_vector_clocks.py)
+
+## Day 205: Distributed Systems: Lamport Timestamps for Total Order
+Constructed Lamport Logical Timestamps ensuring total monotonic event ordering across network nodes.
+
+- [Notes](notes/day205_lamport_timestamps.md)
+- [Code](exercises/day205_lamport_timestamps.py)

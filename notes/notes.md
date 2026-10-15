@@ -197,3 +197,4 @@
 - **Day 202 (Distributed Systems: Raft Consensus Election & Heartbeat Protocol)**: Implemented Raft consensus leader election, randomized term timeouts, and heartbeat distribution.
 - **Day 203 (Distributed Systems: Gossip Protocol for Node Failure Detection)**: Modeled SWIM-like decentralized Gossip protocol with periodic heartbeats and suspicious node timeouts.
 - **Day 204 (Distributed Systems: Vector Clocks for Causal Ordering)**: Built Vector Clocks to establish happen-before causal relationships and detect concurrent event conflicts.
+- **Day 205 (Distributed Systems: Lamport Timestamps for Total Order)**: Constructed Lamport Logical Timestamps ensuring total monotonic event ordering across network nodes.
