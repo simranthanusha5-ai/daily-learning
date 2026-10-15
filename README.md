@@ -1184,3 +1184,9 @@ Modeled SWIM-like decentralized Gossip protocol with periodic heartbeats and sus
 
 - [Notes](notes/day203_gossip_protocol.md)
 - [Code](exercises/day203_gossip_protocol.py)
+
+## Day 204: Distributed Systems: Vector Clocks for Causal Ordering
+Built Vector Clocks to establish happen-before causal relationships and detect concurrent event conflicts.
+
+- [Notes](notes/day204_vector_clocks.md)
+- [Code](exercises/day204_vector_clocks.py)
