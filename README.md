@@ -1160,3 +1160,9 @@ Simulated a lock-free Treiber Stack with optimistic CAS atomic pointer swaps.
 
 - [Notes](notes/day199_lockfree_stack_cas.md)
 - [Code](exercises/day199_lockfree_stack_cas.py)
+
+## Day 200: Concurrency: Disruptor Pattern Ring Buffer
+Built an ultra-low latency Disruptor pattern circular buffer with atomic sequence gating.
+
+- [Notes](notes/day200_disruptor_ring_buffer.md)
+- [Code](exercises/day200_disruptor_ring_buffer.py)
