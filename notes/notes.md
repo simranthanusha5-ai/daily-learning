@@ -194,3 +194,4 @@
 - **Day 199 (Concurrency: Lock-Free Stack using Compare-And-Swap (CAS))**: Simulated a lock-free Treiber Stack with optimistic CAS atomic pointer swaps.
 - **Day 200 (Concurrency: Disruptor Pattern Ring Buffer)**: Built an ultra-low latency Disruptor pattern circular buffer with atomic sequence gating.
 - **Day 201 (Concurrency: Asyncio Event-Driven State Machine)**: Designed an asynchronous non-blocking event-driven FSM using asyncio queues and event transitions.
+- **Day 202 (Distributed Systems: Raft Consensus Election & Heartbeat Protocol)**: Implemented Raft consensus leader election, randomized term timeouts, and heartbeat distribution.

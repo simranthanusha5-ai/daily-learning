@@ -1172,3 +1172,9 @@ Designed an asynchronous non-blocking event-driven FSM using asyncio queues and 
 
 - [Notes](notes/day201_async_state_machine.md)
 - [Code](exercises/day201_async_state_machine.py)
+
+## Day 202: Distributed Systems: Raft Consensus Election & Heartbeat Protocol
+Implemented Raft consensus leader election, randomized term timeouts, and heartbeat distribution.
+
+- [Notes](notes/day202_raft_election.md)
+- [Code](exercises/day202_raft_election.py)
