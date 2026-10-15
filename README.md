@@ -1178,3 +1178,9 @@ Implemented Raft consensus leader election, randomized term timeouts, and heartb
 
 - [Notes](notes/day202_raft_election.md)
 - [Code](exercises/day202_raft_election.py)
+
+## Day 203: Distributed Systems: Gossip Protocol for Node Failure Detection
+Modeled SWIM-like decentralized Gossip protocol with periodic heartbeats and suspicious node timeouts.
+
+- [Notes](notes/day203_gossip_protocol.md)
+- [Code](exercises/day203_gossip_protocol.py)
