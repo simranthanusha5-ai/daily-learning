@@ -1148,3 +1148,9 @@ Implemented the Actor Model concurrency paradigm with asynchronous mailboxes and
 
 - [Notes](notes/day197_actor_model.md)
 - [Code](exercises/day197_actor_model.py)
+
+## Day 198: Concurrency: Software Transactional Memory (STM) Simulation
+Constructed an optimistic Software Transactional Memory engine with validation and rollback on conflict.
+
+- [Notes](notes/day198_stm_concurrency.md)
+- [Code](exercises/day198_stm_concurrency.py)

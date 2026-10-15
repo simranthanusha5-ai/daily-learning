@@ -190,3 +190,4 @@
 - **Day 195 (Algorithms: Ternary Search for Unimodal Function Extrema)**: Implemented continuous and discrete Ternary Search to locate global maxima/minima of unimodal functions.
 - **Day 196 (Algorithms: Simulated Annealing Optimization for TSP)**: Built a Simulated Annealing heuristic solver for the Traveling Salesperson Problem (TSP) with geometric cooling.
 - **Day 197 (Concurrency: Actor Model with Message Mailboxes)**: Implemented the Actor Model concurrency paradigm with asynchronous mailboxes and isolated message processing.
+- **Day 198 (Concurrency: Software Transactional Memory (STM) Simulation)**: Constructed an optimistic Software Transactional Memory engine with validation and rollback on conflict.
