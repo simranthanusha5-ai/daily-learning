@@ -1142,3 +1142,9 @@ Built a Simulated Annealing heuristic solver for the Traveling Salesperson Probl
 
 - [Notes](notes/day196_simulated_annealing_tsp.md)
 - [Code](exercises/day196_simulated_annealing_tsp.py)
+
+## Day 197: Concurrency: Actor Model with Message Mailboxes
+Implemented the Actor Model concurrency paradigm with asynchronous mailboxes and isolated message processing.
+
+- [Notes](notes/day197_actor_model.md)
+- [Code](exercises/day197_actor_model.py)

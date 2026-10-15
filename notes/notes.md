@@ -189,3 +189,4 @@
 - **Day 194 (Algorithms: Quickselect Algorithm for O(N) Order Statistics)**: Implemented Hoare's Quickselect algorithm finding the k-th smallest element in O(N) expected time.
 - **Day 195 (Algorithms: Ternary Search for Unimodal Function Extrema)**: Implemented continuous and discrete Ternary Search to locate global maxima/minima of unimodal functions.
 - **Day 196 (Algorithms: Simulated Annealing Optimization for TSP)**: Built a Simulated Annealing heuristic solver for the Traveling Salesperson Problem (TSP) with geometric cooling.
+- **Day 197 (Concurrency: Actor Model with Message Mailboxes)**: Implemented the Actor Model concurrency paradigm with asynchronous mailboxes and isolated message processing.
