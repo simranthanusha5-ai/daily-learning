@@ -1166,3 +1166,9 @@ Built an ultra-low latency Disruptor pattern circular buffer with atomic sequenc
 
 - [Notes](notes/day200_disruptor_ring_buffer.md)
 - [Code](exercises/day200_disruptor_ring_buffer.py)
+
+## Day 201: Concurrency: Asyncio Event-Driven State Machine
+Designed an asynchronous non-blocking event-driven FSM using asyncio queues and event transitions.
+
+- [Notes](notes/day201_async_state_machine.md)
+- [Code](exercises/day201_async_state_machine.py)
