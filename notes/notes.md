@@ -191,3 +191,4 @@
 - **Day 196 (Algorithms: Simulated Annealing Optimization for TSP)**: Built a Simulated Annealing heuristic solver for the Traveling Salesperson Problem (TSP) with geometric cooling.
 - **Day 197 (Concurrency: Actor Model with Message Mailboxes)**: Implemented the Actor Model concurrency paradigm with asynchronous mailboxes and isolated message processing.
 - **Day 198 (Concurrency: Software Transactional Memory (STM) Simulation)**: Constructed an optimistic Software Transactional Memory engine with validation and rollback on conflict.
+- **Day 199 (Concurrency: Lock-Free Stack using Compare-And-Swap (CAS))**: Simulated a lock-free Treiber Stack with optimistic CAS atomic pointer swaps.

@@ -1154,3 +1154,9 @@ Constructed an optimistic Software Transactional Memory engine with validation a
 
 - [Notes](notes/day198_stm_concurrency.md)
 - [Code](exercises/day198_stm_concurrency.py)
+
+## Day 199: Concurrency: Lock-Free Stack using Compare-And-Swap (CAS)
+Simulated a lock-free Treiber Stack with optimistic CAS atomic pointer swaps.
+
+- [Notes](notes/day199_lockfree_stack_cas.md)
+- [Code](exercises/day199_lockfree_stack_cas.py)
