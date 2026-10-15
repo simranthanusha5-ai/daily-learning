@@ -198,3 +198,4 @@
 - **Day 203 (Distributed Systems: Gossip Protocol for Node Failure Detection)**: Modeled SWIM-like decentralized Gossip protocol with periodic heartbeats and suspicious node timeouts.
 - **Day 204 (Distributed Systems: Vector Clocks for Causal Ordering)**: Built Vector Clocks to establish happen-before causal relationships and detect concurrent event conflicts.
 - **Day 205 (Distributed Systems: Lamport Timestamps for Total Order)**: Constructed Lamport Logical Timestamps ensuring total monotonic event ordering across network nodes.
+- **Day 206 (Distributed Systems: Two-Phase Commit (2PC) Coordinator)**: Engineered a Two-Phase Commit (2PC) transaction coordinator with voting prepare and commit/rollback phases.

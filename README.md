@@ -1196,3 +1196,9 @@ Constructed Lamport Logical Timestamps ensuring total monotonic event ordering a
 
 - [Notes](notes/day205_lamport_timestamps.md)
 - [Code](exercises/day205_lamport_timestamps.py)
+
+## Day 206: Distributed Systems: Two-Phase Commit (2PC) Coordinator
+Engineered a Two-Phase Commit (2PC) transaction coordinator with voting prepare and commit/rollback phases.
+
+- [Notes](notes/day206_two_phase_commit.md)
+- [Code](exercises/day206_two_phase_commit.py)
