@@ -1226,3 +1226,9 @@ Built a convergent State-Based Conflict-Free Replicated Data Type (CRDT) Grow-On
 
 - [Notes](notes/day210_crdt_g_counter.md)
 - [Code](exercises/day210_crdt_g_counter.py)
+
+## Day 211: Distributed Systems: CRDT PN-Counter (Positive-Negative Counter)
+Implemented a bidirectional CRDT PN-Counter combining two G-Counters for increment and decrement.
+
+- [Notes](notes/day211_crdt_pn_counter.md)
+- [Code](exercises/day211_crdt_pn_counter.py)
