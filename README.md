@@ -1250,3 +1250,9 @@ Built an asynchronous event loop from scratch using selectors, callbacks, and sc
 
 - [Notes](notes/day214_custom_event_loop.md)
 - [Code](exercises/day214_custom_event_loop.py)
+
+## Day 215: Python Internals: Memoryview and Buffer Protocol Zero-Copy Slicing
+Leveraged bytearray buffer protocol and memoryview to execute zero-copy slice mutations in-place.
+
+- [Notes](notes/day215_memoryview_zerocopy.md)
+- [Code](exercises/day215_memoryview_zerocopy.py)
