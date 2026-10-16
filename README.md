@@ -1202,3 +1202,9 @@ Engineered a Two-Phase Commit (2PC) transaction coordinator with voting prepare 
 
 - [Notes](notes/day206_two_phase_commit.md)
 - [Code](exercises/day206_two_phase_commit.py)
+
+## Day 207: Distributed Systems: Paxos Consensus (Single-Decree Synod)
+Modeled classical Paxos single-decree synod with Phase 1 (Prepare/Promise) and Phase 2 (Accept).
+
+- [Notes](notes/day207_paxos_synod.md)
+- [Code](exercises/day207_paxos_synod.py)
