@@ -1244,3 +1244,9 @@ Constructed the Bulkhead architectural pattern isolating execution pools to prev
 
 - [Notes](notes/day213_bulkhead_pattern.md)
 - [Code](exercises/day213_bulkhead_pattern.py)
+
+## Day 214: Python Internals: Custom Asyncio Event Loop from Scratch (Selector-Based)
+Built an asynchronous event loop from scratch using selectors, callbacks, and scheduled timer tasks.
+
+- [Notes](notes/day214_custom_event_loop.md)
+- [Code](exercises/day214_custom_event_loop.py)

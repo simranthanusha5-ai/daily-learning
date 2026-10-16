@@ -206,3 +206,4 @@
 - **Day 211 (Distributed Systems: CRDT PN-Counter (Positive-Negative Counter))**: Implemented a bidirectional CRDT PN-Counter combining two G-Counters for increment and decrement.
 - **Day 212 (Distributed Systems: Circuit Breaker Pattern with State Transitions)**: Engineered a resilient Circuit Breaker tracking Closed, Open, and Half-Open states with timeout recovery.
 - **Day 213 (Distributed Systems: Bulkhead Pattern for Resource Isolation)**: Constructed the Bulkhead architectural pattern isolating execution pools to prevent cascading service failure.
+- **Day 214 (Python Internals: Custom Asyncio Event Loop from Scratch (Selector-Based))**: Built an asynchronous event loop from scratch using selectors, callbacks, and scheduled timer tasks.
