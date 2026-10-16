@@ -202,3 +202,4 @@
 - **Day 207 (Distributed Systems: Paxos Consensus (Single-Decree Synod))**: Modeled classical Paxos single-decree synod with Phase 1 (Prepare/Promise) and Phase 2 (Accept).
 - **Day 208 (Distributed Systems: Distributed Lock with Heartbeat Lease)**: Constructed a distributed lease lock mechanism with active heartbeat renewal and auto-release on crash.
 - **Day 209 (Distributed Systems: Chandy-Lamport Distributed Snapshot Algorithm)**: Implemented Chandy-Lamport marker messaging to record consistent global state without freezing processing.
+- **Day 210 (Distributed Systems: CRDT State-Based G-Counter (Grow-Only Counter))**: Built a convergent State-Based Conflict-Free Replicated Data Type (CRDT) Grow-Only Counter.

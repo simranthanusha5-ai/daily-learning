@@ -1220,3 +1220,9 @@ Implemented Chandy-Lamport marker messaging to record consistent global state wi
 
 - [Notes](notes/day209_chandy_lamport_snapshot.md)
 - [Code](exercises/day209_chandy_lamport_snapshot.py)
+
+## Day 210: Distributed Systems: CRDT State-Based G-Counter (Grow-Only Counter)
+Built a convergent State-Based Conflict-Free Replicated Data Type (CRDT) Grow-Only Counter.
+
+- [Notes](notes/day210_crdt_g_counter.md)
+- [Code](exercises/day210_crdt_g_counter.py)
