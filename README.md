@@ -1238,3 +1238,9 @@ Engineered a resilient Circuit Breaker tracking Closed, Open, and Half-Open stat
 
 - [Notes](notes/day212_circuit_breaker.md)
 - [Code](exercises/day212_circuit_breaker.py)
+
+## Day 213: Distributed Systems: Bulkhead Pattern for Resource Isolation
+Constructed the Bulkhead architectural pattern isolating execution pools to prevent cascading service failure.
+
+- [Notes](notes/day213_bulkhead_pattern.md)
+- [Code](exercises/day213_bulkhead_pattern.py)
