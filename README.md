@@ -1256,3 +1256,9 @@ Leveraged bytearray buffer protocol and memoryview to execute zero-copy slice mu
 
 - [Notes](notes/day215_memoryview_zerocopy.md)
 - [Code](exercises/day215_memoryview_zerocopy.py)
+
+## Day 216: Python Internals: Coroutine Trampoline and Cooperative Multitasking
+Implemented a generator coroutine trampoline scheduling generator yields for cooperative task execution.
+
+- [Notes](notes/day216_coroutine_trampoline.md)
+- [Code](exercises/day216_coroutine_trampoline.py)
