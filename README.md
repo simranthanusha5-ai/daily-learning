@@ -1232,3 +1232,9 @@ Implemented a bidirectional CRDT PN-Counter combining two G-Counters for increme
 
 - [Notes](notes/day211_crdt_pn_counter.md)
 - [Code](exercises/day211_crdt_pn_counter.py)
+
+## Day 212: Distributed Systems: Circuit Breaker Pattern with State Transitions
+Engineered a resilient Circuit Breaker tracking Closed, Open, and Half-Open states with timeout recovery.
+
+- [Notes](notes/day212_circuit_breaker.md)
+- [Code](exercises/day212_circuit_breaker.py)

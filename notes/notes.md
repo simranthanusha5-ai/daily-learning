@@ -204,3 +204,4 @@
 - **Day 209 (Distributed Systems: Chandy-Lamport Distributed Snapshot Algorithm)**: Implemented Chandy-Lamport marker messaging to record consistent global state without freezing processing.
 - **Day 210 (Distributed Systems: CRDT State-Based G-Counter (Grow-Only Counter))**: Built a convergent State-Based Conflict-Free Replicated Data Type (CRDT) Grow-Only Counter.
 - **Day 211 (Distributed Systems: CRDT PN-Counter (Positive-Negative Counter))**: Implemented a bidirectional CRDT PN-Counter combining two G-Counters for increment and decrement.
+- **Day 212 (Distributed Systems: Circuit Breaker Pattern with State Transitions)**: Engineered a resilient Circuit Breaker tracking Closed, Open, and Half-Open states with timeout recovery.
