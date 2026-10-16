@@ -1214,3 +1214,9 @@ Constructed a distributed lease lock mechanism with active heartbeat renewal and
 
 - [Notes](notes/day208_distributed_lock_lease.md)
 - [Code](exercises/day208_distributed_lock_lease.py)
+
+## Day 209: Distributed Systems: Chandy-Lamport Distributed Snapshot Algorithm
+Implemented Chandy-Lamport marker messaging to record consistent global state without freezing processing.
+
+- [Notes](notes/day209_chandy_lamport_snapshot.md)
+- [Code](exercises/day209_chandy_lamport_snapshot.py)
