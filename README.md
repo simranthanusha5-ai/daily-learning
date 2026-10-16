@@ -1208,3 +1208,9 @@ Modeled classical Paxos single-decree synod with Phase 1 (Prepare/Promise) and P
 
 - [Notes](notes/day207_paxos_synod.md)
 - [Code](exercises/day207_paxos_synod.py)
+
+## Day 208: Distributed Systems: Distributed Lock with Heartbeat Lease
+Constructed a distributed lease lock mechanism with active heartbeat renewal and auto-release on crash.
+
+- [Notes](notes/day208_distributed_lock_lease.md)
+- [Code](exercises/day208_distributed_lock_lease.py)
