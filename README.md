@@ -1268,3 +1268,9 @@ Simulated CPython cyclic garbage collector reference counting and trial deletion
 
 - [Notes](notes/day217_gc_cycle_detector.md)
 - [Code](exercises/day217_gc_cycle_detector.py)
+
+## Day 218: Python Internals: ContextVars for Task-Local Asynchronous State
+Managed async execution context isolation with contextvars across interleaved asyncio coroutines.
+
+- [Notes](notes/day218_contextvars_async_state.md)
+- [Code](exercises/day218_contextvars_async_state.py)
