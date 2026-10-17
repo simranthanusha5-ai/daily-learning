@@ -213,3 +213,4 @@
 - **Day 218 (Python Internals: ContextVars for Task-Local Asynchronous State)**: Managed async execution context isolation with contextvars across interleaved asyncio coroutines.
 - **Day 219 (Python Internals: Abstract Syntax Tree (AST) Inspection & Code Rewriting)**: Parsed Python source into an Abstract Syntax Tree (AST) and transformed binary operators using ast.NodeTransformer.
 - **Day 220 (Cryptography: Diffie-Hellman Key Exchange Protocol)**: Implemented Diffie-Hellman Key Exchange establishing a shared secret over an insecure channel via modular powers.
+- **Day 221 (Cryptography: HMAC-SHA256 Message Authentication Code)**: Built RFC 2104 HMAC keyed-hash message authentication code using inner and outer SHA-256 pads.

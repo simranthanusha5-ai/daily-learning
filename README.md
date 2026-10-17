@@ -1286,3 +1286,9 @@ Implemented Diffie-Hellman Key Exchange establishing a shared secret over an ins
 
 - [Notes](notes/day220_diffie_hellman_ke.md)
 - [Code](exercises/day220_diffie_hellman_ke.py)
+
+## Day 221: Cryptography: HMAC-SHA256 Message Authentication Code
+Built RFC 2104 HMAC keyed-hash message authentication code using inner and outer SHA-256 pads.
+
+- [Notes](notes/day221_hmac_sha256.md)
+- [Code](exercises/day221_hmac_sha256.py)
