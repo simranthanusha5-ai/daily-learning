@@ -1298,3 +1298,9 @@ Modeled Weierstrass elliptic curve y^2 = x^3 + ax + b point doubling and scalar 
 
 - [Notes](notes/day222_elliptic_curve_math.md)
 - [Code](exercises/day222_elliptic_curve_math.py)
+
+## Day 223: Cryptography: Shamir's Secret Sharing (Polynomial Interpolation)
+Implemented Shamir's (k, n) threshold secret sharing scheme using Lagrange polynomial interpolation over prime fields.
+
+- [Notes](notes/day223_shamir_secret_sharing.md)
+- [Code](exercises/day223_shamir_secret_sharing.py)
