@@ -209,3 +209,4 @@
 - **Day 214 (Python Internals: Custom Asyncio Event Loop from Scratch (Selector-Based))**: Built an asynchronous event loop from scratch using selectors, callbacks, and scheduled timer tasks.
 - **Day 215 (Python Internals: Memoryview and Buffer Protocol Zero-Copy Slicing)**: Leveraged bytearray buffer protocol and memoryview to execute zero-copy slice mutations in-place.
 - **Day 216 (Python Internals: Coroutine Trampoline and Cooperative Multitasking)**: Implemented a generator coroutine trampoline scheduling generator yields for cooperative task execution.
+- **Day 217 (Python Internals: Custom Garbage Collector Reference Counter & Cycle Detector)**: Simulated CPython cyclic garbage collector reference counting and trial deletion to collect circular reference graphs.

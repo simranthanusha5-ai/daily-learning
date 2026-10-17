@@ -1262,3 +1262,9 @@ Implemented a generator coroutine trampoline scheduling generator yields for coo
 
 - [Notes](notes/day216_coroutine_trampoline.md)
 - [Code](exercises/day216_coroutine_trampoline.py)
+
+## Day 217: Python Internals: Custom Garbage Collector Reference Counter & Cycle Detector
+Simulated CPython cyclic garbage collector reference counting and trial deletion to collect circular reference graphs.
+
+- [Notes](notes/day217_gc_cycle_detector.md)
+- [Code](exercises/day217_gc_cycle_detector.py)
