@@ -1280,3 +1280,9 @@ Parsed Python source into an Abstract Syntax Tree (AST) and transformed binary o
 
 - [Notes](notes/day219_ast_code_rewriter.md)
 - [Code](exercises/day219_ast_code_rewriter.py)
+
+## Day 220: Cryptography: Diffie-Hellman Key Exchange Protocol
+Implemented Diffie-Hellman Key Exchange establishing a shared secret over an insecure channel via modular powers.
+
+- [Notes](notes/day220_diffie_hellman_ke.md)
+- [Code](exercises/day220_diffie_hellman_ke.py)
