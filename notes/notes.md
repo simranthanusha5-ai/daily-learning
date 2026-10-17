@@ -217,3 +217,4 @@
 - **Day 222 (Cryptography: Elliptic Curve Point Addition & Multiplication)**: Modeled Weierstrass elliptic curve y^2 = x^3 + ax + b point doubling and scalar multiplication in finite fields.
 - **Day 223 (Cryptography: Shamir's Secret Sharing (Polynomial Interpolation))**: Implemented Shamir's (k, n) threshold secret sharing scheme using Lagrange polynomial interpolation over prime fields.
 - **Day 224 (Cryptography: JSON Web Token (JWT) Encoder & Signature Verifier)**: Built an RFC 7519 JSON Web Token (JWT) encoder, base64url serializer, and HMAC-SHA256 signature verifier.
+- **Day 225 (Cryptography: PBKDF2 Key Derivation Function from Scratch)**: Implemented PBKDF2 key derivation using iterated pseudorandom function blocks (PRF HMAC-SHA256).

@@ -1310,3 +1310,9 @@ Built an RFC 7519 JSON Web Token (JWT) encoder, base64url serializer, and HMAC-S
 
 - [Notes](notes/day224_jwt_token_auth.md)
 - [Code](exercises/day224_jwt_token_auth.py)
+
+## Day 225: Cryptography: PBKDF2 Key Derivation Function from Scratch
+Implemented PBKDF2 key derivation using iterated pseudorandom function blocks (PRF HMAC-SHA256).
+
+- [Notes](notes/day225_pbkdf2_kdf.md)
+- [Code](exercises/day225_pbkdf2_kdf.py)
