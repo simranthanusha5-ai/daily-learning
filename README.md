@@ -1316,3 +1316,9 @@ Implemented PBKDF2 key derivation using iterated pseudorandom function blocks (P
 
 - [Notes](notes/day225_pbkdf2_kdf.md)
 - [Code](exercises/day225_pbkdf2_kdf.py)
+
+## Day 226: Cryptography: Merkle-Hellman Knapsack Cryptosystem
+Constructed the Merkle-Hellman additive knapsack public-key cryptosystem using superincreasing sequences.
+
+- [Notes](notes/day226_merkle_hellman_knapsack.md)
+- [Code](exercises/day226_merkle_hellman_knapsack.py)
