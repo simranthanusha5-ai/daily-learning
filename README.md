@@ -1274,3 +1274,9 @@ Managed async execution context isolation with contextvars across interleaved as
 
 - [Notes](notes/day218_contextvars_async_state.md)
 - [Code](exercises/day218_contextvars_async_state.py)
+
+## Day 219: Python Internals: Abstract Syntax Tree (AST) Inspection & Code Rewriting
+Parsed Python source into an Abstract Syntax Tree (AST) and transformed binary operators using ast.NodeTransformer.
+
+- [Notes](notes/day219_ast_code_rewriter.md)
+- [Code](exercises/day219_ast_code_rewriter.py)
