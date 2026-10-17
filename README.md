@@ -1304,3 +1304,9 @@ Implemented Shamir's (k, n) threshold secret sharing scheme using Lagrange polyn
 
 - [Notes](notes/day223_shamir_secret_sharing.md)
 - [Code](exercises/day223_shamir_secret_sharing.py)
+
+## Day 224: Cryptography: JSON Web Token (JWT) Encoder & Signature Verifier
+Built an RFC 7519 JSON Web Token (JWT) encoder, base64url serializer, and HMAC-SHA256 signature verifier.
+
+- [Notes](notes/day224_jwt_token_auth.md)
+- [Code](exercises/day224_jwt_token_auth.py)
