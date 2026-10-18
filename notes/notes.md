@@ -226,3 +226,4 @@
 - **Day 231 (Database Internals: Inverted Index with TF-IDF Ranking)**: Constructed an inverted full-text search index calculating Term Frequency-Inverse Document Frequency (TF-IDF).
 - **Day 232 (Database Internals: Database Checkpointing and Fuzzy WAL Truncation)**: Engineered fuzzy checkpointing persisting dirty memory pages to disk and truncating retired WAL log records.
 - **Day 233 (Database Internals: Transaction Isolation Anomalies (Dirty & Phantom Reads))**: Simulated ANSI SQL transaction isolation anomalies including Dirty Reads, Non-Repeatable Reads, and Phantom Reads.
+- **Day 234 (Database Internals: Cost-Based Query Optimizer (Equi-Join Ordering))**: Built a Cost-Based Optimizer (CBO) enumerating relational join trees to minimize intermediate cardinality costs.

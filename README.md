@@ -1364,3 +1364,9 @@ Simulated ANSI SQL transaction isolation anomalies including Dirty Reads, Non-Re
 
 - [Notes](notes/day233_isolation_anomalies.md)
 - [Code](exercises/day233_isolation_anomalies.py)
+
+## Day 234: Database Internals: Cost-Based Query Optimizer (Equi-Join Ordering)
+Built a Cost-Based Optimizer (CBO) enumerating relational join trees to minimize intermediate cardinality costs.
+
+- [Notes](notes/day234_query_optimizer_cbo.md)
+- [Code](exercises/day234_query_optimizer_cbo.py)
