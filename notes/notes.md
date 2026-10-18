@@ -221,3 +221,4 @@
 - **Day 226 (Cryptography: Merkle-Hellman Knapsack Cryptosystem)**: Constructed the Merkle-Hellman additive knapsack public-key cryptosystem using superincreasing sequences.
 - **Day 227 (Database Internals: Log-Structured Compaction (Size-Tiered))**: Implemented Size-Tiered SSTable compaction merging sorted runs and discarding tombstone entries.
 - **Day 228 (Database Internals: B+ Tree Range Scan and Leaf Node Chaining)**: Constructed B+ Tree leaf node linked list chaining to enable O(log N + K) range scan lookups.
+- **Day 229 (Database Internals: Compressed Bitmap Index for Low-Cardinality Queries)**: Built a compressed bitmap index for low-cardinality attributes enabling fast bitwise AND filtering.

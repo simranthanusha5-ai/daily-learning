@@ -1334,3 +1334,9 @@ Constructed B+ Tree leaf node linked list chaining to enable O(log N + K) range 
 
 - [Notes](notes/day228_bplus_tree_range.md)
 - [Code](exercises/day228_bplus_tree_range.py)
+
+## Day 229: Database Internals: Compressed Bitmap Index for Low-Cardinality Queries
+Built a compressed bitmap index for low-cardinality attributes enabling fast bitwise AND filtering.
+
+- [Notes](notes/day229_bitmap_indexing.md)
+- [Code](exercises/day229_bitmap_indexing.py)
