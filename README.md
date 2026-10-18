@@ -1358,3 +1358,9 @@ Engineered fuzzy checkpointing persisting dirty memory pages to disk and truncat
 
 - [Notes](notes/day232_wal_fuzzy_checkpoint.md)
 - [Code](exercises/day232_wal_fuzzy_checkpoint.py)
+
+## Day 233: Database Internals: Transaction Isolation Anomalies (Dirty & Phantom Reads)
+Simulated ANSI SQL transaction isolation anomalies including Dirty Reads, Non-Repeatable Reads, and Phantom Reads.
+
+- [Notes](notes/day233_isolation_anomalies.md)
+- [Code](exercises/day233_isolation_anomalies.py)
