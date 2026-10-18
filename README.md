@@ -1340,3 +1340,9 @@ Built a compressed bitmap index for low-cardinality attributes enabling fast bit
 
 - [Notes](notes/day229_bitmap_indexing.md)
 - [Code](exercises/day229_bitmap_indexing.py)
+
+## Day 230: Database Internals: Columnar Storage Layout with Run-Length Encoding
+Designed a columnar storage layout employing Run-Length Encoding (RLE) for high aggregation throughput.
+
+- [Notes](notes/day230_columnar_storage_rle.md)
+- [Code](exercises/day230_columnar_storage_rle.py)
