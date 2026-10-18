@@ -1370,3 +1370,9 @@ Built a Cost-Based Optimizer (CBO) enumerating relational join trees to minimize
 
 - [Notes](notes/day234_query_optimizer_cbo.md)
 - [Code](exercises/day234_query_optimizer_cbo.py)
+
+## Day 235: Networking: WebSocket RFC 6455 Framing & Masking Parser
+Parsed RFC 6455 WebSocket binary frames, extracting opcode, fin bit, payload length, and unmasking XOR payload.
+
+- [Notes](notes/day235_websocket_framing.md)
+- [Code](exercises/day235_websocket_framing.py)
