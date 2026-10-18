@@ -1328,3 +1328,9 @@ Implemented Size-Tiered SSTable compaction merging sorted runs and discarding to
 
 - [Notes](notes/day227_lsm_compaction.md)
 - [Code](exercises/day227_lsm_compaction.py)
+
+## Day 228: Database Internals: B+ Tree Range Scan and Leaf Node Chaining
+Constructed B+ Tree leaf node linked list chaining to enable O(log N + K) range scan lookups.
+
+- [Notes](notes/day228_bplus_tree_range.md)
+- [Code](exercises/day228_bplus_tree_range.py)
