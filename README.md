@@ -1322,3 +1322,9 @@ Constructed the Merkle-Hellman additive knapsack public-key cryptosystem using s
 
 - [Notes](notes/day226_merkle_hellman_knapsack.md)
 - [Code](exercises/day226_merkle_hellman_knapsack.py)
+
+## Day 227: Database Internals: Log-Structured Compaction (Size-Tiered)
+Implemented Size-Tiered SSTable compaction merging sorted runs and discarding tombstone entries.
+
+- [Notes](notes/day227_lsm_compaction.md)
+- [Code](exercises/day227_lsm_compaction.py)
