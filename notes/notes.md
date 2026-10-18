@@ -223,3 +223,4 @@
 - **Day 228 (Database Internals: B+ Tree Range Scan and Leaf Node Chaining)**: Constructed B+ Tree leaf node linked list chaining to enable O(log N + K) range scan lookups.
 - **Day 229 (Database Internals: Compressed Bitmap Index for Low-Cardinality Queries)**: Built a compressed bitmap index for low-cardinality attributes enabling fast bitwise AND filtering.
 - **Day 230 (Database Internals: Columnar Storage Layout with Run-Length Encoding)**: Designed a columnar storage layout employing Run-Length Encoding (RLE) for high aggregation throughput.
+- **Day 231 (Database Internals: Inverted Index with TF-IDF Ranking)**: Constructed an inverted full-text search index calculating Term Frequency-Inverse Document Frequency (TF-IDF).

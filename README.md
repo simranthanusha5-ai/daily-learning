@@ -1346,3 +1346,9 @@ Designed a columnar storage layout employing Run-Length Encoding (RLE) for high 
 
 - [Notes](notes/day230_columnar_storage_rle.md)
 - [Code](exercises/day230_columnar_storage_rle.py)
+
+## Day 231: Database Internals: Inverted Index with TF-IDF Ranking
+Constructed an inverted full-text search index calculating Term Frequency-Inverse Document Frequency (TF-IDF).
+
+- [Notes](notes/day231_inverted_index_tfidf.md)
+- [Code](exercises/day231_inverted_index_tfidf.py)
