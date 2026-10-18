@@ -1352,3 +1352,9 @@ Constructed an inverted full-text search index calculating Term Frequency-Invers
 
 - [Notes](notes/day231_inverted_index_tfidf.md)
 - [Code](exercises/day231_inverted_index_tfidf.py)
+
+## Day 232: Database Internals: Database Checkpointing and Fuzzy WAL Truncation
+Engineered fuzzy checkpointing persisting dirty memory pages to disk and truncating retired WAL log records.
+
+- [Notes](notes/day232_wal_fuzzy_checkpoint.md)
+- [Code](exercises/day232_wal_fuzzy_checkpoint.py)
