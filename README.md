@@ -1376,3 +1376,9 @@ Parsed RFC 6455 WebSocket binary frames, extracting opcode, fin bit, payload len
 
 - [Notes](notes/day235_websocket_framing.md)
 - [Code](exercises/day235_websocket_framing.py)
+
+## Day 236: Networking: Redis Serialization Protocol (RESP) Parser & Serializer
+Constructed full parser and serializer for the Redis RESP2 wire protocol (simple strings, errors, ints, arrays).
+
+- [Notes](notes/day236_redis_resp_protocol.md)
+- [Code](exercises/day236_redis_resp_protocol.py)

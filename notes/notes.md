@@ -228,3 +228,4 @@
 - **Day 233 (Database Internals: Transaction Isolation Anomalies (Dirty & Phantom Reads))**: Simulated ANSI SQL transaction isolation anomalies including Dirty Reads, Non-Repeatable Reads, and Phantom Reads.
 - **Day 234 (Database Internals: Cost-Based Query Optimizer (Equi-Join Ordering))**: Built a Cost-Based Optimizer (CBO) enumerating relational join trees to minimize intermediate cardinality costs.
 - **Day 235 (Networking: WebSocket RFC 6455 Framing & Masking Parser)**: Parsed RFC 6455 WebSocket binary frames, extracting opcode, fin bit, payload length, and unmasking XOR payload.
+- **Day 236 (Networking: Redis Serialization Protocol (RESP) Parser & Serializer)**: Constructed full parser and serializer for the Redis RESP2 wire protocol (simple strings, errors, ints, arrays).
