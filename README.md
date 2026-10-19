@@ -1412,3 +1412,9 @@ Implemented IP routing table lookup employing CIDR subnet mask conversion and Lo
 
 - [Notes](notes/day241_cidr_router_lpm.md)
 - [Code](exercises/day241_cidr_router_lpm.py)
+
+## Day 242: Networking: TLS 1.3 State Machine and Handshake Key Schedule
+Simulated TLS 1.3 1-RTT handshake message flow (ClientHello, ServerHello, EncryptedExtensions, Finished).
+
+- [Notes](notes/day242_tls13_handshake.md)
+- [Code](exercises/day242_tls13_handshake.py)
