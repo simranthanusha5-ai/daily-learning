@@ -1400,3 +1400,9 @@ Modeled reliable data transport via Go-Back-N Automatic Repeat reQuest (ARQ) wit
 
 - [Notes](notes/day239_sliding_window_arq.md)
 - [Code](exercises/day239_sliding_window_arq.py)
+
+## Day 240: Networking: BitTorrent Bencode Encoder and Decoder
+Built a recursive Bencode decoder and serializer parsing BitTorrent integers, byte strings, lists, and dictionaries.
+
+- [Notes](notes/day240_bencode_parser.md)
+- [Code](exercises/day240_bencode_parser.py)
