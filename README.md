@@ -1436,3 +1436,9 @@ Implemented recurrent time-step hidden state update h_t = tanh(W_hh * h_{t-1} + 
 
 - [Notes](notes/day245_rnn_forward_cell.md)
 - [Code](exercises/day245_rnn_forward_cell.py)
+
+## Day 246: Machine Learning: Long Short-Term Memory (LSTM) Cell Equations
+Implemented gating mechanics of an LSTM cell: forget gate, input gate, candidate cell, and output gate.
+
+- [Notes](notes/day246_lstm_cell_equations.md)
+- [Code](exercises/day246_lstm_cell_equations.py)
