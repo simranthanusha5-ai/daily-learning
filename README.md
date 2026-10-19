@@ -1418,3 +1418,9 @@ Simulated TLS 1.3 1-RTT handshake message flow (ClientHello, ServerHello, Encryp
 
 - [Notes](notes/day242_tls13_handshake.md)
 - [Code](exercises/day242_tls13_handshake.py)
+
+## Day 243: Machine Learning: 2D Convolution Operation and Feature Maps
+Implemented forward pass 2D Convolution with stride and padding for Computer Vision feature maps.
+
+- [Notes](notes/day243_conv2d_forward.md)
+- [Code](exercises/day243_conv2d_forward.py)
