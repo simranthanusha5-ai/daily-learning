@@ -236,3 +236,4 @@
 - **Day 241 (Networking: Virtual Router with CIDR Longest Prefix Matching)**: Implemented IP routing table lookup employing CIDR subnet mask conversion and Longest Prefix Match (LPM).
 - **Day 242 (Networking: TLS 1.3 State Machine and Handshake Key Schedule)**: Simulated TLS 1.3 1-RTT handshake message flow (ClientHello, ServerHello, EncryptedExtensions, Finished).
 - **Day 243 (Machine Learning: 2D Convolution Operation and Feature Maps)**: Implemented forward pass 2D Convolution with stride and padding for Computer Vision feature maps.
+- **Day 244 (Machine Learning: Max Pooling Layer with Forward and Backward Pass)**: Constructed 2x2 Spatial Max Pooling layer preserving argmax mask indices for gradient backpropagation.

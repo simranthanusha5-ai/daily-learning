@@ -1424,3 +1424,9 @@ Implemented forward pass 2D Convolution with stride and padding for Computer Vis
 
 - [Notes](notes/day243_conv2d_forward.md)
 - [Code](exercises/day243_conv2d_forward.py)
+
+## Day 244: Machine Learning: Max Pooling Layer with Forward and Backward Pass
+Constructed 2x2 Spatial Max Pooling layer preserving argmax mask indices for gradient backpropagation.
+
+- [Notes](notes/day244_max_pooling_layer.md)
+- [Code](exercises/day244_max_pooling_layer.py)
