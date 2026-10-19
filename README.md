@@ -1406,3 +1406,9 @@ Built a recursive Bencode decoder and serializer parsing BitTorrent integers, by
 
 - [Notes](notes/day240_bencode_parser.md)
 - [Code](exercises/day240_bencode_parser.py)
+
+## Day 241: Networking: Virtual Router with CIDR Longest Prefix Matching
+Implemented IP routing table lookup employing CIDR subnet mask conversion and Longest Prefix Match (LPM).
+
+- [Notes](notes/day241_cidr_router_lpm.md)
+- [Code](exercises/day241_cidr_router_lpm.py)
