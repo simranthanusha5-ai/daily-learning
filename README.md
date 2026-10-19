@@ -1394,3 +1394,9 @@ Implemented a lightweight STOMP messaging frame parser supporting CONNECT, SUBSC
 
 - [Notes](notes/day238_stomp_broker.md)
 - [Code](exercises/day238_stomp_broker.py)
+
+## Day 239: Networking: Sliding Window Flow Control (Go-Back-N ARQ)
+Modeled reliable data transport via Go-Back-N Automatic Repeat reQuest (ARQ) with window buffering.
+
+- [Notes](notes/day239_sliding_window_arq.md)
+- [Code](exercises/day239_sliding_window_arq.py)

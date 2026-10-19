@@ -231,3 +231,4 @@
 - **Day 236 (Networking: Redis Serialization Protocol (RESP) Parser & Serializer)**: Constructed full parser and serializer for the Redis RESP2 wire protocol (simple strings, errors, ints, arrays).
 - **Day 237 (Networking: HTTP/2 HPACK Header Compression Simulation)**: Simulated HTTP/2 HPACK header compression with static lookup tables and dynamic table index referencing.
 - **Day 238 (Networking: STOMP (Simple Text Oriented Messaging Protocol) Broker)**: Implemented a lightweight STOMP messaging frame parser supporting CONNECT, SUBSCRIBE, and SEND actions.
+- **Day 239 (Networking: Sliding Window Flow Control (Go-Back-N ARQ))**: Modeled reliable data transport via Go-Back-N Automatic Repeat reQuest (ARQ) with window buffering.
