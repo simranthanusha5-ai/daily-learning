@@ -1382,3 +1382,9 @@ Constructed full parser and serializer for the Redis RESP2 wire protocol (simple
 
 - [Notes](notes/day236_redis_resp_protocol.md)
 - [Code](exercises/day236_redis_resp_protocol.py)
+
+## Day 237: Networking: HTTP/2 HPACK Header Compression Simulation
+Simulated HTTP/2 HPACK header compression with static lookup tables and dynamic table index referencing.
+
+- [Notes](notes/day237_hpack_compression.md)
+- [Code](exercises/day237_hpack_compression.py)
