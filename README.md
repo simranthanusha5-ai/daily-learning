@@ -1388,3 +1388,9 @@ Simulated HTTP/2 HPACK header compression with static lookup tables and dynamic 
 
 - [Notes](notes/day237_hpack_compression.md)
 - [Code](exercises/day237_hpack_compression.py)
+
+## Day 238: Networking: STOMP (Simple Text Oriented Messaging Protocol) Broker
+Implemented a lightweight STOMP messaging frame parser supporting CONNECT, SUBSCRIBE, and SEND actions.
+
+- [Notes](notes/day238_stomp_broker.md)
+- [Code](exercises/day238_stomp_broker.py)
