@@ -1430,3 +1430,9 @@ Constructed 2x2 Spatial Max Pooling layer preserving argmax mask indices for gra
 
 - [Notes](notes/day244_max_pooling_layer.md)
 - [Code](exercises/day244_max_pooling_layer.py)
+
+## Day 245: Machine Learning: Recurrent Neural Network (RNN) Forward Cell
+Implemented recurrent time-step hidden state update h_t = tanh(W_hh * h_{t-1} + W_xh * x_t + b).
+
+- [Notes](notes/day245_rnn_forward_cell.md)
+- [Code](exercises/day245_rnn_forward_cell.py)
