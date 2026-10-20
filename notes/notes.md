@@ -242,3 +242,4 @@
 - **Day 247 (Machine Learning: Scaled Dot-Product Attention from Scratch)**: Implemented Transformer Scaled Dot-Product Attention: softmax((Q * K^T) / sqrt(d_k)) * V.
 - **Day 248 (Machine Learning: Multi-Head Self-Attention Layer)**: Constructed Multi-Head Attention splitting embedding dimensions across concurrent attention heads.
 - **Day 249 (Machine Learning: Transformer Sinusoidal Positional Encoding)**: Implemented Vaswani et al. fixed sinusoidal positional encodings using alternating sine and cosine functions.
+- **Day 250 (Machine Learning: Byte-Pair Encoding (BPE) Subword Tokenizer)**: Constructed a Byte-Pair Encoding (BPE) vocabulary learner finding and merging the most frequent character bigrams.

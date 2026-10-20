@@ -1460,3 +1460,9 @@ Implemented Vaswani et al. fixed sinusoidal positional encodings using alternati
 
 - [Notes](notes/day249_positional_encoding.md)
 - [Code](exercises/day249_positional_encoding.py)
+
+## Day 250: Machine Learning: Byte-Pair Encoding (BPE) Subword Tokenizer
+Constructed a Byte-Pair Encoding (BPE) vocabulary learner finding and merging the most frequent character bigrams.
+
+- [Notes](notes/day250_bpe_tokenizer.md)
+- [Code](exercises/day250_bpe_tokenizer.py)
