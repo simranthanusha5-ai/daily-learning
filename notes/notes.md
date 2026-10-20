@@ -248,3 +248,4 @@
 - **Day 253 (Machine Learning: Monte Carlo Tree Search (MCTS) for Decision Trees)**: Constructed MCTS four-phase loop: Selection (UCB1), Expansion, Simulation/Rollout, and Backpropagation.
 - **Day 254 (Machine Learning: Adam Optimizer (Adaptive Moment Estimation))**: Implemented Adam optimization algorithm tracking exponential moving averages of gradients (m) and squared gradients (v).
 - **Day 255 (Machine Learning: Layer Normalization and RMSNorm)**: Implemented Layer Normalization and Root Mean Square Normalization (RMSNorm) widely used in LLM architectures.
+- **Day 256 (Machine Learning: Gaussian Mixture Model (GMM) with EM Algorithm)**: Built 1D Gaussian Mixture Model with Expectation-Maximization (EM) soft clustering iterations.

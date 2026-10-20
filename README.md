@@ -1496,3 +1496,9 @@ Implemented Layer Normalization and Root Mean Square Normalization (RMSNorm) wid
 
 - [Notes](notes/day255_layer_norm_rmsnorm.md)
 - [Code](exercises/day255_layer_norm_rmsnorm.py)
+
+## Day 256: Machine Learning: Gaussian Mixture Model (GMM) with EM Algorithm
+Built 1D Gaussian Mixture Model with Expectation-Maximization (EM) soft clustering iterations.
+
+- [Notes](notes/day256_gmm_em_algorithm.md)
+- [Code](exercises/day256_gmm_em_algorithm.py)
