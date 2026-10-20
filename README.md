@@ -1442,3 +1442,9 @@ Implemented gating mechanics of an LSTM cell: forget gate, input gate, candidate
 
 - [Notes](notes/day246_lstm_cell_equations.md)
 - [Code](exercises/day246_lstm_cell_equations.py)
+
+## Day 247: Machine Learning: Scaled Dot-Product Attention from Scratch
+Implemented Transformer Scaled Dot-Product Attention: softmax((Q * K^T) / sqrt(d_k)) * V.
+
+- [Notes](notes/day247_scaled_dot_attention.md)
+- [Code](exercises/day247_scaled_dot_attention.py)
