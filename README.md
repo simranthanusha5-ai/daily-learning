@@ -1490,3 +1490,9 @@ Implemented Adam optimization algorithm tracking exponential moving averages of 
 
 - [Notes](notes/day254_adam_optimizer.md)
 - [Code](exercises/day254_adam_optimizer.py)
+
+## Day 255: Machine Learning: Layer Normalization and RMSNorm
+Implemented Layer Normalization and Root Mean Square Normalization (RMSNorm) widely used in LLM architectures.
+
+- [Notes](notes/day255_layer_norm_rmsnorm.md)
+- [Code](exercises/day255_layer_norm_rmsnorm.py)
