@@ -1448,3 +1448,9 @@ Implemented Transformer Scaled Dot-Product Attention: softmax((Q * K^T) / sqrt(d
 
 - [Notes](notes/day247_scaled_dot_attention.md)
 - [Code](exercises/day247_scaled_dot_attention.py)
+
+## Day 248: Machine Learning: Multi-Head Self-Attention Layer
+Constructed Multi-Head Attention splitting embedding dimensions across concurrent attention heads.
+
+- [Notes](notes/day248_multi_head_attention.md)
+- [Code](exercises/day248_multi_head_attention.py)
