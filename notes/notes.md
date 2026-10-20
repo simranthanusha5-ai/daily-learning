@@ -246,3 +246,4 @@
 - **Day 251 (Machine Learning: Minimax Algorithm with Alpha-Beta Pruning)**: Implemented Minimax adversarial tree search with alpha-beta branch pruning for game tree evaluation.
 - **Day 252 (Machine Learning: Q-Learning Tabular Reinforcement Learning)**: Implemented model-free Q-Learning using temporal difference updates: Q(s,a) += alpha * (r + gamma * max Q(s',a') - Q(s,a)).
 - **Day 253 (Machine Learning: Monte Carlo Tree Search (MCTS) for Decision Trees)**: Constructed MCTS four-phase loop: Selection (UCB1), Expansion, Simulation/Rollout, and Backpropagation.
+- **Day 254 (Machine Learning: Adam Optimizer (Adaptive Moment Estimation))**: Implemented Adam optimization algorithm tracking exponential moving averages of gradients (m) and squared gradients (v).

@@ -1484,3 +1484,9 @@ Constructed MCTS four-phase loop: Selection (UCB1), Expansion, Simulation/Rollou
 
 - [Notes](notes/day253_mcts_decision_tree.md)
 - [Code](exercises/day253_mcts_decision_tree.py)
+
+## Day 254: Machine Learning: Adam Optimizer (Adaptive Moment Estimation)
+Implemented Adam optimization algorithm tracking exponential moving averages of gradients (m) and squared gradients (v).
+
+- [Notes](notes/day254_adam_optimizer.md)
+- [Code](exercises/day254_adam_optimizer.py)
