@@ -1472,3 +1472,9 @@ Implemented Minimax adversarial tree search with alpha-beta branch pruning for g
 
 - [Notes](notes/day251_minimax_alphabeta.md)
 - [Code](exercises/day251_minimax_alphabeta.py)
+
+## Day 252: Machine Learning: Q-Learning Tabular Reinforcement Learning
+Implemented model-free Q-Learning using temporal difference updates: Q(s,a) += alpha * (r + gamma * max Q(s',a') - Q(s,a)).
+
+- [Notes](notes/day252_q_learning_tabular.md)
+- [Code](exercises/day252_q_learning_tabular.py)
