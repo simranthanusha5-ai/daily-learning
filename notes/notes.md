@@ -243,3 +243,4 @@
 - **Day 248 (Machine Learning: Multi-Head Self-Attention Layer)**: Constructed Multi-Head Attention splitting embedding dimensions across concurrent attention heads.
 - **Day 249 (Machine Learning: Transformer Sinusoidal Positional Encoding)**: Implemented Vaswani et al. fixed sinusoidal positional encodings using alternating sine and cosine functions.
 - **Day 250 (Machine Learning: Byte-Pair Encoding (BPE) Subword Tokenizer)**: Constructed a Byte-Pair Encoding (BPE) vocabulary learner finding and merging the most frequent character bigrams.
+- **Day 251 (Machine Learning: Minimax Algorithm with Alpha-Beta Pruning)**: Implemented Minimax adversarial tree search with alpha-beta branch pruning for game tree evaluation.

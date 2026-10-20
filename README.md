@@ -1466,3 +1466,9 @@ Constructed a Byte-Pair Encoding (BPE) vocabulary learner finding and merging th
 
 - [Notes](notes/day250_bpe_tokenizer.md)
 - [Code](exercises/day250_bpe_tokenizer.py)
+
+## Day 251: Machine Learning: Minimax Algorithm with Alpha-Beta Pruning
+Implemented Minimax adversarial tree search with alpha-beta branch pruning for game tree evaluation.
+
+- [Notes](notes/day251_minimax_alphabeta.md)
+- [Code](exercises/day251_minimax_alphabeta.py)
