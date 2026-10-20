@@ -1454,3 +1454,9 @@ Constructed Multi-Head Attention splitting embedding dimensions across concurren
 
 - [Notes](notes/day248_multi_head_attention.md)
 - [Code](exercises/day248_multi_head_attention.py)
+
+## Day 249: Machine Learning: Transformer Sinusoidal Positional Encoding
+Implemented Vaswani et al. fixed sinusoidal positional encodings using alternating sine and cosine functions.
+
+- [Notes](notes/day249_positional_encoding.md)
+- [Code](exercises/day249_positional_encoding.py)
