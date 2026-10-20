@@ -1478,3 +1478,9 @@ Implemented model-free Q-Learning using temporal difference updates: Q(s,a) += a
 
 - [Notes](notes/day252_q_learning_tabular.md)
 - [Code](exercises/day252_q_learning_tabular.py)
+
+## Day 253: Machine Learning: Monte Carlo Tree Search (MCTS) for Decision Trees
+Constructed MCTS four-phase loop: Selection (UCB1), Expansion, Simulation/Rollout, and Backpropagation.
+
+- [Notes](notes/day253_mcts_decision_tree.md)
+- [Code](exercises/day253_mcts_decision_tree.py)

@@ -245,3 +245,4 @@
 - **Day 250 (Machine Learning: Byte-Pair Encoding (BPE) Subword Tokenizer)**: Constructed a Byte-Pair Encoding (BPE) vocabulary learner finding and merging the most frequent character bigrams.
 - **Day 251 (Machine Learning: Minimax Algorithm with Alpha-Beta Pruning)**: Implemented Minimax adversarial tree search with alpha-beta branch pruning for game tree evaluation.
 - **Day 252 (Machine Learning: Q-Learning Tabular Reinforcement Learning)**: Implemented model-free Q-Learning using temporal difference updates: Q(s,a) += alpha * (r + gamma * max Q(s',a') - Q(s,a)).
+- **Day 253 (Machine Learning: Monte Carlo Tree Search (MCTS) for Decision Trees)**: Constructed MCTS four-phase loop: Selection (UCB1), Expansion, Simulation/Rollout, and Backpropagation.
