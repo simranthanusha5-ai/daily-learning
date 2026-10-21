@@ -250,3 +250,4 @@
 - **Day 255 (Machine Learning: Layer Normalization and RMSNorm)**: Implemented Layer Normalization and Root Mean Square Normalization (RMSNorm) widely used in LLM architectures.
 - **Day 256 (Machine Learning: Gaussian Mixture Model (GMM) with EM Algorithm)**: Built 1D Gaussian Mixture Model with Expectation-Maximization (EM) soft clustering iterations.
 - **Day 257 (System Design: Sliding Window Log Rate Limiter)**: Implemented precise sliding window log rate limiting with millisecond timestamp event logging.
+- **Day 258 (System Design: Distributed Tracing with W3C TraceContext Propagation)**: Built W3C TraceContext `traceparent` header parser and propagator for microservices observability.

@@ -1508,3 +1508,9 @@ Implemented precise sliding window log rate limiting with millisecond timestamp 
 
 - [Notes](notes/day257_sliding_window_limiter.md)
 - [Code](exercises/day257_sliding_window_limiter.py)
+
+## Day 258: System Design: Distributed Tracing with W3C TraceContext Propagation
+Built W3C TraceContext `traceparent` header parser and propagator for microservices observability.
+
+- [Notes](notes/day258_distributed_tracing_w3c.md)
+- [Code](exercises/day258_distributed_tracing_w3c.py)
