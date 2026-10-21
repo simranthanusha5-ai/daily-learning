@@ -1514,3 +1514,9 @@ Built W3C TraceContext `traceparent` header parser and propagator for microservi
 
 - [Notes](notes/day258_distributed_tracing_w3c.md)
 - [Code](exercises/day258_distributed_tracing_w3c.py)
+
+## Day 259: System Design: Command Query Responsibility Segregation (CQRS) Architecture
+Modeled CQRS separating state-mutating command handlers from optimized read-model queries.
+
+- [Notes](notes/day259_cqrs_architecture.md)
+- [Code](exercises/day259_cqrs_architecture.py)
