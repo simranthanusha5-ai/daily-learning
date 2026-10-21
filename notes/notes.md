@@ -256,3 +256,4 @@
 - **Day 261 (System Design: Saga Pattern Orchestration for Distributed Transactions)**: Built a centralized Saga Orchestrator coordinating forward steps and compensating backward transactions on failure.
 - **Day 262 (System Design: Reverse Proxy with Round-Robin Health Checking)**: Built a reverse proxy routing requests across healthy backend pools via smooth round-robin scheduling.
 - **Day 263 (System Design: Sharded In-Memory Key-Value Store with Rebalancing)**: Engineered a horizontally partitioned database routing key reads and writes across shard buckets.
+- **Day 264 (System Design: Leaky Bucket Traffic Shaper)**: Implemented a Leaky Bucket network traffic shaping algorithm smoothing bursty traffic into a constant rate.

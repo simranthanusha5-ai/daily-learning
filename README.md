@@ -1544,3 +1544,9 @@ Engineered a horizontally partitioned database routing key reads and writes acro
 
 - [Notes](notes/day263_sharded_kv_store.md)
 - [Code](exercises/day263_sharded_kv_store.py)
+
+## Day 264: System Design: Leaky Bucket Traffic Shaper
+Implemented a Leaky Bucket network traffic shaping algorithm smoothing bursty traffic into a constant rate.
+
+- [Notes](notes/day264_leaky_bucket_traffic.md)
+- [Code](exercises/day264_leaky_bucket_traffic.py)
