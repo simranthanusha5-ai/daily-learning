@@ -1538,3 +1538,9 @@ Built a reverse proxy routing requests across healthy backend pools via smooth r
 
 - [Notes](notes/day262_reverse_proxy_rr.md)
 - [Code](exercises/day262_reverse_proxy_rr.py)
+
+## Day 263: System Design: Sharded In-Memory Key-Value Store with Rebalancing
+Engineered a horizontally partitioned database routing key reads and writes across shard buckets.
+
+- [Notes](notes/day263_sharded_kv_store.md)
+- [Code](exercises/day263_sharded_kv_store.py)
