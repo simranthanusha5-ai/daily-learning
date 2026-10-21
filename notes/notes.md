@@ -252,3 +252,4 @@
 - **Day 257 (System Design: Sliding Window Log Rate Limiter)**: Implemented precise sliding window log rate limiting with millisecond timestamp event logging.
 - **Day 258 (System Design: Distributed Tracing with W3C TraceContext Propagation)**: Built W3C TraceContext `traceparent` header parser and propagator for microservices observability.
 - **Day 259 (System Design: Command Query Responsibility Segregation (CQRS) Architecture)**: Modeled CQRS separating state-mutating command handlers from optimized read-model queries.
+- **Day 260 (System Design: Event Sourcing Aggregates and Snapshot Replay)**: Engineered an Event Sourcing state engine rebuilding aggregate entities via append-only event replay.

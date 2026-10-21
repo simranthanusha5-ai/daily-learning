@@ -1520,3 +1520,9 @@ Modeled CQRS separating state-mutating command handlers from optimized read-mode
 
 - [Notes](notes/day259_cqrs_architecture.md)
 - [Code](exercises/day259_cqrs_architecture.py)
+
+## Day 260: System Design: Event Sourcing Aggregates and Snapshot Replay
+Engineered an Event Sourcing state engine rebuilding aggregate entities via append-only event replay.
+
+- [Notes](notes/day260_event_sourcing_replay.md)
+- [Code](exercises/day260_event_sourcing_replay.py)
