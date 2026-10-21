@@ -1532,3 +1532,9 @@ Built a centralized Saga Orchestrator coordinating forward steps and compensatin
 
 - [Notes](notes/day261_saga_orchestration.md)
 - [Code](exercises/day261_saga_orchestration.py)
+
+## Day 262: System Design: Reverse Proxy with Round-Robin Health Checking
+Built a reverse proxy routing requests across healthy backend pools via smooth round-robin scheduling.
+
+- [Notes](notes/day262_reverse_proxy_rr.md)
+- [Code](exercises/day262_reverse_proxy_rr.py)

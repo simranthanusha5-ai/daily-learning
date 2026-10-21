@@ -254,3 +254,4 @@
 - **Day 259 (System Design: Command Query Responsibility Segregation (CQRS) Architecture)**: Modeled CQRS separating state-mutating command handlers from optimized read-model queries.
 - **Day 260 (System Design: Event Sourcing Aggregates and Snapshot Replay)**: Engineered an Event Sourcing state engine rebuilding aggregate entities via append-only event replay.
 - **Day 261 (System Design: Saga Pattern Orchestration for Distributed Transactions)**: Built a centralized Saga Orchestrator coordinating forward steps and compensating backward transactions on failure.
+- **Day 262 (System Design: Reverse Proxy with Round-Robin Health Checking)**: Built a reverse proxy routing requests across healthy backend pools via smooth round-robin scheduling.
