@@ -1550,3 +1550,9 @@ Implemented a Leaky Bucket network traffic shaping algorithm smoothing bursty tr
 
 - [Notes](notes/day264_leaky_bucket_traffic.md)
 - [Code](exercises/day264_leaky_bucket_traffic.py)
+
+## Day 265: System Design: Distributed Job Scheduler with Priority Queues
+Built a priority-based distributed task scheduler sorting execution jobs using min-heaps.
+
+- [Notes](notes/day265_priority_job_scheduler.md)
+- [Code](exercises/day265_priority_job_scheduler.py)
