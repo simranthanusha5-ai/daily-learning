@@ -1502,3 +1502,9 @@ Built 1D Gaussian Mixture Model with Expectation-Maximization (EM) soft clusteri
 
 - [Notes](notes/day256_gmm_em_algorithm.md)
 - [Code](exercises/day256_gmm_em_algorithm.py)
+
+## Day 257: System Design: Sliding Window Log Rate Limiter
+Implemented precise sliding window log rate limiting with millisecond timestamp event logging.
+
+- [Notes](notes/day257_sliding_window_limiter.md)
+- [Code](exercises/day257_sliding_window_limiter.py)

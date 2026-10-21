@@ -249,3 +249,4 @@
 - **Day 254 (Machine Learning: Adam Optimizer (Adaptive Moment Estimation))**: Implemented Adam optimization algorithm tracking exponential moving averages of gradients (m) and squared gradients (v).
 - **Day 255 (Machine Learning: Layer Normalization and RMSNorm)**: Implemented Layer Normalization and Root Mean Square Normalization (RMSNorm) widely used in LLM architectures.
 - **Day 256 (Machine Learning: Gaussian Mixture Model (GMM) with EM Algorithm)**: Built 1D Gaussian Mixture Model with Expectation-Maximization (EM) soft clustering iterations.
+- **Day 257 (System Design: Sliding Window Log Rate Limiter)**: Implemented precise sliding window log rate limiting with millisecond timestamp event logging.
