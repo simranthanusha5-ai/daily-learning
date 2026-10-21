@@ -1556,3 +1556,9 @@ Built a priority-based distributed task scheduler sorting execution jobs using m
 
 - [Notes](notes/day265_priority_job_scheduler.md)
 - [Code](exercises/day265_priority_job_scheduler.py)
+
+## Day 266: System Design: Content Delivery Network (CDN) Cache Invalidation System
+Engineered edge surrogate CDN cache surrogate tags and wildcard cache purge invalidation.
+
+- [Notes](notes/day266_cdn_cache_invalidation.md)
+- [Code](exercises/day266_cdn_cache_invalidation.py)
