@@ -1526,3 +1526,9 @@ Engineered an Event Sourcing state engine rebuilding aggregate entities via appe
 
 - [Notes](notes/day260_event_sourcing_replay.md)
 - [Code](exercises/day260_event_sourcing_replay.py)
+
+## Day 261: System Design: Saga Pattern Orchestration for Distributed Transactions
+Built a centralized Saga Orchestrator coordinating forward steps and compensating backward transactions on failure.
+
+- [Notes](notes/day261_saga_orchestration.md)
+- [Code](exercises/day261_saga_orchestration.py)
