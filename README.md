@@ -1586,3 +1586,9 @@ Built a relational table query engine parsing SELECT, WHERE filters, and project
 
 - [Notes](notes/day270_mini_sql_engine.md)
 - [Code](projects/day270_mini_sql_engine.py)
+
+## Day 271: Project: Mini In-Memory Redis Server (GET, SET, EXPIRE, HSET)
+Built an in-memory key-value and hash-map storage server supporting TTL expiration.
+
+- [Notes](notes/day271_mini_redis_server.md)
+- [Code](projects/day271_mini_redis_server.py)

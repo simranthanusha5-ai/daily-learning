@@ -263,3 +263,4 @@
 - **Day 268 (Project: Mini Regex Engine (Thompson's NFA Construction))**: Constructed Thompson's NFA state machine engine evaluating concatenation, alternation, and Kleene star.
 - **Day 269 (Project: Mini Lisp / Scheme Evaluator and REPL)**: Built a symbolic Lisp interpreter supporting S-expressions, dynamic scoping, and primitive arithmetic.
 - **Day 270 (Project: Mini SQL Query Parser and Relational Table Engine)**: Built a relational table query engine parsing SELECT, WHERE filters, and projecting column subsets.
+- **Day 271 (Project: Mini In-Memory Redis Server (GET, SET, EXPIRE, HSET))**: Built an in-memory key-value and hash-map storage server supporting TTL expiration.
