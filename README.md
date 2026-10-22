@@ -1568,3 +1568,9 @@ Engineered a content-addressable Git object store supporting blob hashing, tree 
 
 - [Notes](notes/day267_mini_git_vcs.md)
 - [Code](projects/day267_mini_git_vcs.py)
+
+## Day 268: Project: Mini Regex Engine (Thompson's NFA Construction)
+Constructed Thompson's NFA state machine engine evaluating concatenation, alternation, and Kleene star.
+
+- [Notes](notes/day268_mini_regex_nfa.md)
+- [Code](projects/day268_mini_regex_nfa.py)
