@@ -259,3 +259,4 @@
 - **Day 264 (System Design: Leaky Bucket Traffic Shaper)**: Implemented a Leaky Bucket network traffic shaping algorithm smoothing bursty traffic into a constant rate.
 - **Day 265 (System Design: Distributed Job Scheduler with Priority Queues)**: Built a priority-based distributed task scheduler sorting execution jobs using min-heaps.
 - **Day 266 (System Design: Content Delivery Network (CDN) Cache Invalidation System)**: Engineered edge surrogate CDN cache surrogate tags and wildcard cache purge invalidation.
+- **Day 267 (Project: Mini Git (Blobs, Trees, Commits, and SHA Object Store))**: Engineered a content-addressable Git object store supporting blob hashing, tree objects, and commit graphs.

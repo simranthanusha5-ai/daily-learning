@@ -1562,3 +1562,9 @@ Engineered edge surrogate CDN cache surrogate tags and wildcard cache purge inva
 
 - [Notes](notes/day266_cdn_cache_invalidation.md)
 - [Code](exercises/day266_cdn_cache_invalidation.py)
+
+## Day 267: Project: Mini Git (Blobs, Trees, Commits, and SHA Object Store)
+Engineered a content-addressable Git object store supporting blob hashing, tree objects, and commit graphs.
+
+- [Notes](notes/day267_mini_git_vcs.md)
+- [Code](projects/day267_mini_git_vcs.py)
