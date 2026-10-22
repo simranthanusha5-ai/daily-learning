@@ -1574,3 +1574,9 @@ Constructed Thompson's NFA state machine engine evaluating concatenation, altern
 
 - [Notes](notes/day268_mini_regex_nfa.md)
 - [Code](projects/day268_mini_regex_nfa.py)
+
+## Day 269: Project: Mini Lisp / Scheme Evaluator and REPL
+Built a symbolic Lisp interpreter supporting S-expressions, dynamic scoping, and primitive arithmetic.
+
+- [Notes](notes/day269_mini_lisp_eval.md)
+- [Code](projects/day269_mini_lisp_eval.py)
