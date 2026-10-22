@@ -1580,3 +1580,9 @@ Built a symbolic Lisp interpreter supporting S-expressions, dynamic scoping, and
 
 - [Notes](notes/day269_mini_lisp_eval.md)
 - [Code](projects/day269_mini_lisp_eval.py)
+
+## Day 270: Project: Mini SQL Query Parser and Relational Table Engine
+Built a relational table query engine parsing SELECT, WHERE filters, and projecting column subsets.
+
+- [Notes](notes/day270_mini_sql_engine.md)
+- [Code](projects/day270_mini_sql_engine.py)

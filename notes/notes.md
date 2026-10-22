@@ -262,3 +262,4 @@
 - **Day 267 (Project: Mini Git (Blobs, Trees, Commits, and SHA Object Store))**: Engineered a content-addressable Git object store supporting blob hashing, tree objects, and commit graphs.
 - **Day 268 (Project: Mini Regex Engine (Thompson's NFA Construction))**: Constructed Thompson's NFA state machine engine evaluating concatenation, alternation, and Kleene star.
 - **Day 269 (Project: Mini Lisp / Scheme Evaluator and REPL)**: Built a symbolic Lisp interpreter supporting S-expressions, dynamic scoping, and primitive arithmetic.
+- **Day 270 (Project: Mini SQL Query Parser and Relational Table Engine)**: Built a relational table query engine parsing SELECT, WHERE filters, and projecting column subsets.
