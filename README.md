@@ -1610,3 +1610,9 @@ Constructed a cron scheduler parsing interval expressions and executing due task
 
 - [Notes](notes/day274_mini_cron_runner.md)
 - [Code](projects/day274_mini_cron_runner.py)
+
+## Day 275: Project: Mini Load Balancer with Weighted Least-Connections
+Engineered an intelligent load balancer selecting upstream servers via weighted least active connections.
+
+- [Notes](notes/day275_weighted_load_balancer.md)
+- [Code](projects/day275_weighted_load_balancer.py)
