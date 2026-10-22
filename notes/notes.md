@@ -266,3 +266,4 @@
 - **Day 271 (Project: Mini In-Memory Redis Server (GET, SET, EXPIRE, HSET))**: Built an in-memory key-value and hash-map storage server supporting TTL expiration.
 - **Day 272 (Project: Mini Virtual Machine (Stack-Based Bytecode Interpreter))**: Engineered a stack-based Bytecode Virtual Machine with instruction pointer, operands, and opcodes.
 - **Day 273 (Project: Mini Web Crawler with Async Worker Frontier)**: Built an asynchronous web crawler with crawl frontier, visited deduplication, and domain throttling.
+- **Day 274 (Project: Mini Cron / Scheduled Job Runner with Interval Parsing)**: Constructed a cron scheduler parsing interval expressions and executing due tasks.

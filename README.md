@@ -1604,3 +1604,9 @@ Built an asynchronous web crawler with crawl frontier, visited deduplication, an
 
 - [Notes](notes/day273_mini_web_crawler.md)
 - [Code](projects/day273_mini_web_crawler.py)
+
+## Day 274: Project: Mini Cron / Scheduled Job Runner with Interval Parsing
+Constructed a cron scheduler parsing interval expressions and executing due tasks.
+
+- [Notes](notes/day274_mini_cron_runner.md)
+- [Code](projects/day274_mini_cron_runner.py)
