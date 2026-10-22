@@ -1616,3 +1616,9 @@ Engineered an intelligent load balancer selecting upstream servers via weighted 
 
 - [Notes](notes/day275_weighted_load_balancer.md)
 - [Code](projects/day275_weighted_load_balancer.py)
+
+## Day 276: Capstone Project: End-to-End Distributed Key-Value Store with Raft Replication
+Constructed a comprehensive replicated distributed key-value store coordinating consensus, commit indices, and state machine commits.
+
+- [Notes](notes/day276_distributed_raft_kv_capstone.md)
+- [Code](projects/day276_distributed_raft_kv_capstone.py)
