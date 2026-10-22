@@ -1598,3 +1598,9 @@ Engineered a stack-based Bytecode Virtual Machine with instruction pointer, oper
 
 - [Notes](notes/day272_mini_stack_vm.md)
 - [Code](projects/day272_mini_stack_vm.py)
+
+## Day 273: Project: Mini Web Crawler with Async Worker Frontier
+Built an asynchronous web crawler with crawl frontier, visited deduplication, and domain throttling.
+
+- [Notes](notes/day273_mini_web_crawler.md)
+- [Code](projects/day273_mini_web_crawler.py)

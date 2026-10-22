@@ -265,3 +265,4 @@
 - **Day 270 (Project: Mini SQL Query Parser and Relational Table Engine)**: Built a relational table query engine parsing SELECT, WHERE filters, and projecting column subsets.
 - **Day 271 (Project: Mini In-Memory Redis Server (GET, SET, EXPIRE, HSET))**: Built an in-memory key-value and hash-map storage server supporting TTL expiration.
 - **Day 272 (Project: Mini Virtual Machine (Stack-Based Bytecode Interpreter))**: Engineered a stack-based Bytecode Virtual Machine with instruction pointer, operands, and opcodes.
+- **Day 273 (Project: Mini Web Crawler with Async Worker Frontier)**: Built an asynchronous web crawler with crawl frontier, visited deduplication, and domain throttling.
