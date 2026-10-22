@@ -1592,3 +1592,9 @@ Built an in-memory key-value and hash-map storage server supporting TTL expirati
 
 - [Notes](notes/day271_mini_redis_server.md)
 - [Code](projects/day271_mini_redis_server.py)
+
+## Day 272: Project: Mini Virtual Machine (Stack-Based Bytecode Interpreter)
+Engineered a stack-based Bytecode Virtual Machine with instruction pointer, operands, and opcodes.
+
+- [Notes](notes/day272_mini_stack_vm.md)
+- [Code](projects/day272_mini_stack_vm.py)
