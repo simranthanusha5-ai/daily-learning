@@ -1664,3 +1664,9 @@ Implemented self-adjusting Pairing Heap with two-pass merging of siblings on del
 
 - [Notes](notes/day283_pairing_heap.md)
 - [Code](exercises/day283_pairing_heap.py)
+
+## Day 284: Data Structures: Persistent Red-Black Tree (Path Copying Immutable BST)
+Constructed purely functional persistent binary search tree maintaining historical snapshots via path copying.
+
+- [Notes](notes/day284_persistent_rb_tree.md)
+- [Code](exercises/day284_persistent_rb_tree.py)

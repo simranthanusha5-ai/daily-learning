@@ -276,3 +276,4 @@
 - **Day 281 (Data Structures: Soft Heap (Constant-Time Priority Bounds via Error Keys))**: Constructed Chazelle Soft Heap corrupting keys within epsilon error bounds to achieve constant amortized complexity.
 - **Day 282 (Data Structures: Fibonacci Heap (Amortized O(1) Insert & Decrease-Key))**: Engineered a circular doubly-linked Fibonacci Heap supporting O(1) insert and cascading cuts for decrease-key operations.
 - **Day 283 (Data Structures: Pairing Heap (Fast Self-Adjusting Heap))**: Implemented self-adjusting Pairing Heap with two-pass merging of siblings on delete-min.
+- **Day 284 (Data Structures: Persistent Red-Black Tree (Path Copying Immutable BST))**: Constructed purely functional persistent binary search tree maintaining historical snapshots via path copying.
