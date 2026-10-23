@@ -1640,3 +1640,9 @@ Constructed recursive Van Emde Boas (vEB) tree over universe size U achieving O(
 
 - [Notes](notes/day279_van_emde_boas.md)
 - [Code](exercises/day279_van_emde_boas.py)
+
+## Day 280: Data Structures: Wavelet Matrix / Tree (Rank and Quantile Queries)
+Built a Wavelet Tree structure over discrete integer alphabets answering range quantile and rank queries in O(log Sigma).
+
+- [Notes](notes/day280_wavelet_matrix.md)
+- [Code](exercises/day280_wavelet_matrix.py)
