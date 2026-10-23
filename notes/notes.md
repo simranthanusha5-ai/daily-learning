@@ -270,3 +270,4 @@
 - **Day 275 (Project: Mini Load Balancer with Weighted Least-Connections)**: Engineered an intelligent load balancer selecting upstream servers via weighted least active connections.
 - **Day 276 (Capstone Project: End-to-End Distributed Key-Value Store with Raft Replication)**: Constructed a comprehensive replicated distributed key-value store coordinating consensus, commit indices, and state machine commits.
 - **Day 277 (Data Structures: B-Link Tree (High Concurrency B-Tree))**: Implemented Lehman-Yao B-Link Tree adding high-key bounds and right sibling pointers for concurrent lock-free reads.
+- **Day 278 (Data Structures: Sparse Table (Range Minimum Query in O(1)))**: Implemented static Sparse Table with O(N log N) precomputation answering Range Minimum Queries in O(1) time.

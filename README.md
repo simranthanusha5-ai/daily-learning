@@ -1628,3 +1628,9 @@ Implemented Lehman-Yao B-Link Tree adding high-key bounds and right sibling poin
 
 - [Notes](notes/day277_blink_tree.md)
 - [Code](exercises/day277_blink_tree.py)
+
+## Day 278: Data Structures: Sparse Table (Range Minimum Query in O(1))
+Implemented static Sparse Table with O(N log N) precomputation answering Range Minimum Queries in O(1) time.
+
+- [Notes](notes/day278_sparse_table_rmq.md)
+- [Code](exercises/day278_sparse_table_rmq.py)
