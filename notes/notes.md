@@ -274,3 +274,4 @@
 - **Day 279 (Data Structures: Van Emde Boas Tree (Priority Queue in O(log log U)))**: Constructed recursive Van Emde Boas (vEB) tree over universe size U achieving O(log log U) successor search.
 - **Day 280 (Data Structures: Wavelet Matrix / Tree (Rank and Quantile Queries))**: Built a Wavelet Tree structure over discrete integer alphabets answering range quantile and rank queries in O(log Sigma).
 - **Day 281 (Data Structures: Soft Heap (Constant-Time Priority Bounds via Error Keys))**: Constructed Chazelle Soft Heap corrupting keys within epsilon error bounds to achieve constant amortized complexity.
+- **Day 282 (Data Structures: Fibonacci Heap (Amortized O(1) Insert & Decrease-Key))**: Engineered a circular doubly-linked Fibonacci Heap supporting O(1) insert and cascading cuts for decrease-key operations.

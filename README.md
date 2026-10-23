@@ -1652,3 +1652,9 @@ Constructed Chazelle Soft Heap corrupting keys within epsilon error bounds to ac
 
 - [Notes](notes/day281_soft_heap.md)
 - [Code](exercises/day281_soft_heap.py)
+
+## Day 282: Data Structures: Fibonacci Heap (Amortized O(1) Insert & Decrease-Key)
+Engineered a circular doubly-linked Fibonacci Heap supporting O(1) insert and cascading cuts for decrease-key operations.
+
+- [Notes](notes/day282_fibonacci_heap.md)
+- [Code](exercises/day282_fibonacci_heap.py)
