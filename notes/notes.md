@@ -269,3 +269,4 @@
 - **Day 274 (Project: Mini Cron / Scheduled Job Runner with Interval Parsing)**: Constructed a cron scheduler parsing interval expressions and executing due tasks.
 - **Day 275 (Project: Mini Load Balancer with Weighted Least-Connections)**: Engineered an intelligent load balancer selecting upstream servers via weighted least active connections.
 - **Day 276 (Capstone Project: End-to-End Distributed Key-Value Store with Raft Replication)**: Constructed a comprehensive replicated distributed key-value store coordinating consensus, commit indices, and state machine commits.
+- **Day 277 (Data Structures: B-Link Tree (High Concurrency B-Tree))**: Implemented Lehman-Yao B-Link Tree adding high-key bounds and right sibling pointers for concurrent lock-free reads.
