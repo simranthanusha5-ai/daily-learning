@@ -1634,3 +1634,9 @@ Implemented static Sparse Table with O(N log N) precomputation answering Range M
 
 - [Notes](notes/day278_sparse_table_rmq.md)
 - [Code](exercises/day278_sparse_table_rmq.py)
+
+## Day 279: Data Structures: Van Emde Boas Tree (Priority Queue in O(log log U))
+Constructed recursive Van Emde Boas (vEB) tree over universe size U achieving O(log log U) successor search.
+
+- [Notes](notes/day279_van_emde_boas.md)
+- [Code](exercises/day279_van_emde_boas.py)
