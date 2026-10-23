@@ -1670,3 +1670,9 @@ Constructed purely functional persistent binary search tree maintaining historic
 
 - [Notes](notes/day284_persistent_rb_tree.md)
 - [Code](exercises/day284_persistent_rb_tree.py)
+
+## Day 285: Data Structures: Cartesian Tree (Linear-Time Monotonic Stack Construction)
+Constructed min-Cartesian Tree in O(N) linear time using a monotonic stack for in-order array representation.
+
+- [Notes](notes/day285_cartesian_tree_stack.md)
+- [Code](exercises/day285_cartesian_tree_stack.py)
