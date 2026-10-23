@@ -1658,3 +1658,9 @@ Engineered a circular doubly-linked Fibonacci Heap supporting O(1) insert and ca
 
 - [Notes](notes/day282_fibonacci_heap.md)
 - [Code](exercises/day282_fibonacci_heap.py)
+
+## Day 283: Data Structures: Pairing Heap (Fast Self-Adjusting Heap)
+Implemented self-adjusting Pairing Heap with two-pass merging of siblings on delete-min.
+
+- [Notes](notes/day283_pairing_heap.md)
+- [Code](exercises/day283_pairing_heap.py)
