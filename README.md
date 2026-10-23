@@ -1646,3 +1646,9 @@ Built a Wavelet Tree structure over discrete integer alphabets answering range q
 
 - [Notes](notes/day280_wavelet_matrix.md)
 - [Code](exercises/day280_wavelet_matrix.py)
+
+## Day 281: Data Structures: Soft Heap (Constant-Time Priority Bounds via Error Keys)
+Constructed Chazelle Soft Heap corrupting keys within epsilon error bounds to achieve constant amortized complexity.
+
+- [Notes](notes/day281_soft_heap.md)
+- [Code](exercises/day281_soft_heap.py)
