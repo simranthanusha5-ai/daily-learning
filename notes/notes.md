@@ -283,3 +283,4 @@
 - **Day 288 (Algorithms: Min-Cost Max-Flow (Successive Shortest Path with SPFA))**: Implemented Min-Cost Max-Flow using Shortest Path Faster Algorithm (SPFA) on residual cost networks.
 - **Day 289 (Algorithms: Stoer-Wagner Minimum Cut for Undirected Graphs)**: Implemented Stoer-Wagner algorithm finding global minimum cut of an undirected weighted graph in polynomial time.
 - **Day 290 (Algorithms: 2-SAT Solver via Strongly Connected Components)**: Constructed 2-SAT boolean satisfiability solver reducing 2-CNF clauses to implication graph SCC analysis.
+- **Day 291 (Algorithms: Hungarian Algorithm (Kuhn-Munkres Weighted Matching))**: Implemented O(V^3) Kuhn-Munkres Hungarian algorithm for minimum cost maximum weight bipartite matching.

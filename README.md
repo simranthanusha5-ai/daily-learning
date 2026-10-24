@@ -1706,3 +1706,9 @@ Constructed 2-SAT boolean satisfiability solver reducing 2-CNF clauses to implic
 
 - [Notes](notes/day290_twosat_solver_scc.md)
 - [Code](exercises/day290_twosat_solver_scc.py)
+
+## Day 291: Algorithms: Hungarian Algorithm (Kuhn-Munkres Weighted Matching)
+Implemented O(V^3) Kuhn-Munkres Hungarian algorithm for minimum cost maximum weight bipartite matching.
+
+- [Notes](notes/day291_hungarian_algorithm.md)
+- [Code](exercises/day291_hungarian_algorithm.py)
