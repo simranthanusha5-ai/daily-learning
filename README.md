@@ -1724,3 +1724,9 @@ Constructed control-flow graph Dominator Tree identifying immediate dominators v
 
 - [Notes](notes/day293_dominator_tree.md)
 - [Code](exercises/day293_dominator_tree.py)
+
+## Day 294: Algorithms: Bridge and Articulation Point Detection (Tarjan Lowpt)
+Implemented linear-time bridge and articulation point detection in undirected graphs using DFS low-link values.
+
+- [Notes](notes/day294_bridge_articulation_points.md)
+- [Code](exercises/day294_bridge_articulation_points.py)

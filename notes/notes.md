@@ -286,3 +286,4 @@
 - **Day 291 (Algorithms: Hungarian Algorithm (Kuhn-Munkres Weighted Matching))**: Implemented O(V^3) Kuhn-Munkres Hungarian algorithm for minimum cost maximum weight bipartite matching.
 - **Day 292 (Algorithms: Johnson's All-Pairs Shortest Path with Reweighting)**: Implemented Johnson's APSP combining Bellman-Ford node potential reweighting with Dijkstra searches.
 - **Day 293 (Algorithms: Dominator Tree Construction (Lengauer-Tarjan))**: Constructed control-flow graph Dominator Tree identifying immediate dominators via semi-dominator paths.
+- **Day 294 (Algorithms: Bridge and Articulation Point Detection (Tarjan Lowpt))**: Implemented linear-time bridge and articulation point detection in undirected graphs using DFS low-link values.
