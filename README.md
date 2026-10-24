@@ -1718,3 +1718,9 @@ Implemented Johnson's APSP combining Bellman-Ford node potential reweighting wit
 
 - [Notes](notes/day292_johnsons_apsp.md)
 - [Code](exercises/day292_johnsons_apsp.py)
+
+## Day 293: Algorithms: Dominator Tree Construction (Lengauer-Tarjan)
+Constructed control-flow graph Dominator Tree identifying immediate dominators via semi-dominator paths.
+
+- [Notes](notes/day293_dominator_tree.md)
+- [Code](exercises/day293_dominator_tree.py)
