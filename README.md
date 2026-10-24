@@ -1688,3 +1688,9 @@ Implemented Goldberg-Tarjan Push-Relabel max flow maintaining excess preflow and
 
 - [Notes](notes/day287_push_relabel_flow.md)
 - [Code](exercises/day287_push_relabel_flow.py)
+
+## Day 288: Algorithms: Min-Cost Max-Flow (Successive Shortest Path with SPFA)
+Implemented Min-Cost Max-Flow using Shortest Path Faster Algorithm (SPFA) on residual cost networks.
+
+- [Notes](notes/day288_min_cost_max_flow.md)
+- [Code](exercises/day288_min_cost_max_flow.py)

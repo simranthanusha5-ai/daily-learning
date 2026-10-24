@@ -280,3 +280,4 @@
 - **Day 285 (Data Structures: Cartesian Tree (Linear-Time Monotonic Stack Construction))**: Constructed min-Cartesian Tree in O(N) linear time using a monotonic stack for in-order array representation.
 - **Day 286 (Data Structures: Dancing Links (Knuth's Algorithm X for Exact Cover))**: Implemented Knuth's Dancing Links (DLX) circular doubly-linked toroidal matrix for exact cover problems.
 - **Day 287 (Algorithms: Push-Relabel Maximum Flow (Goldberg-Tarjan))**: Implemented Goldberg-Tarjan Push-Relabel max flow maintaining excess preflow and height relabeling.
+- **Day 288 (Algorithms: Min-Cost Max-Flow (Successive Shortest Path with SPFA))**: Implemented Min-Cost Max-Flow using Shortest Path Faster Algorithm (SPFA) on residual cost networks.
