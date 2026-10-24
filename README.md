@@ -1694,3 +1694,9 @@ Implemented Min-Cost Max-Flow using Shortest Path Faster Algorithm (SPFA) on res
 
 - [Notes](notes/day288_min_cost_max_flow.md)
 - [Code](exercises/day288_min_cost_max_flow.py)
+
+## Day 289: Algorithms: Stoer-Wagner Minimum Cut for Undirected Graphs
+Implemented Stoer-Wagner algorithm finding global minimum cut of an undirected weighted graph in polynomial time.
+
+- [Notes](notes/day289_stoer_wagner_mincut.md)
+- [Code](exercises/day289_stoer_wagner_mincut.py)
