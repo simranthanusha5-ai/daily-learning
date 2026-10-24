@@ -1712,3 +1712,9 @@ Implemented O(V^3) Kuhn-Munkres Hungarian algorithm for minimum cost maximum wei
 
 - [Notes](notes/day291_hungarian_algorithm.md)
 - [Code](exercises/day291_hungarian_algorithm.py)
+
+## Day 292: Algorithms: Johnson's All-Pairs Shortest Path with Reweighting
+Implemented Johnson's APSP combining Bellman-Ford node potential reweighting with Dijkstra searches.
+
+- [Notes](notes/day292_johnsons_apsp.md)
+- [Code](exercises/day292_johnsons_apsp.py)

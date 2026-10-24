@@ -284,3 +284,4 @@
 - **Day 289 (Algorithms: Stoer-Wagner Minimum Cut for Undirected Graphs)**: Implemented Stoer-Wagner algorithm finding global minimum cut of an undirected weighted graph in polynomial time.
 - **Day 290 (Algorithms: 2-SAT Solver via Strongly Connected Components)**: Constructed 2-SAT boolean satisfiability solver reducing 2-CNF clauses to implication graph SCC analysis.
 - **Day 291 (Algorithms: Hungarian Algorithm (Kuhn-Munkres Weighted Matching))**: Implemented O(V^3) Kuhn-Munkres Hungarian algorithm for minimum cost maximum weight bipartite matching.
+- **Day 292 (Algorithms: Johnson's All-Pairs Shortest Path with Reweighting)**: Implemented Johnson's APSP combining Bellman-Ford node potential reweighting with Dijkstra searches.
