@@ -1700,3 +1700,9 @@ Implemented Stoer-Wagner algorithm finding global minimum cut of an undirected w
 
 - [Notes](notes/day289_stoer_wagner_mincut.md)
 - [Code](exercises/day289_stoer_wagner_mincut.py)
+
+## Day 290: Algorithms: 2-SAT Solver via Strongly Connected Components
+Constructed 2-SAT boolean satisfiability solver reducing 2-CNF clauses to implication graph SCC analysis.
+
+- [Notes](notes/day290_twosat_solver_scc.md)
+- [Code](exercises/day290_twosat_solver_scc.py)
