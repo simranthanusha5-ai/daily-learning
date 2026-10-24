@@ -1682,3 +1682,9 @@ Implemented Knuth's Dancing Links (DLX) circular doubly-linked toroidal matrix f
 
 - [Notes](notes/day286_dancing_links_dlx.md)
 - [Code](exercises/day286_dancing_links_dlx.py)
+
+## Day 287: Algorithms: Push-Relabel Maximum Flow (Goldberg-Tarjan)
+Implemented Goldberg-Tarjan Push-Relabel max flow maintaining excess preflow and height relabeling.
+
+- [Notes](notes/day287_push_relabel_flow.md)
+- [Code](exercises/day287_push_relabel_flow.py)
