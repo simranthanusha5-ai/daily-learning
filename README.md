@@ -1676,3 +1676,9 @@ Constructed min-Cartesian Tree in O(N) linear time using a monotonic stack for i
 
 - [Notes](notes/day285_cartesian_tree_stack.md)
 - [Code](exercises/day285_cartesian_tree_stack.py)
+
+## Day 286: Data Structures: Dancing Links (Knuth's Algorithm X for Exact Cover)
+Implemented Knuth's Dancing Links (DLX) circular doubly-linked toroidal matrix for exact cover problems.
+
+- [Notes](notes/day286_dancing_links_dlx.md)
+- [Code](exercises/day286_dancing_links_dlx.py)

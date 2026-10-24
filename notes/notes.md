@@ -278,3 +278,4 @@
 - **Day 283 (Data Structures: Pairing Heap (Fast Self-Adjusting Heap))**: Implemented self-adjusting Pairing Heap with two-pass merging of siblings on delete-min.
 - **Day 284 (Data Structures: Persistent Red-Black Tree (Path Copying Immutable BST))**: Constructed purely functional persistent binary search tree maintaining historical snapshots via path copying.
 - **Day 285 (Data Structures: Cartesian Tree (Linear-Time Monotonic Stack Construction))**: Constructed min-Cartesian Tree in O(N) linear time using a monotonic stack for in-order array representation.
+- **Day 286 (Data Structures: Dancing Links (Knuth's Algorithm X for Exact Cover))**: Implemented Knuth's Dancing Links (DLX) circular doubly-linked toroidal matrix for exact cover problems.
