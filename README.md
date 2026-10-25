@@ -1778,3 +1778,9 @@ Engineered power-of-two Buddy Memory Allocator splitting blocks on request and c
 
 - [Notes](notes/day302_buddy_allocator.md)
 - [Code](exercises/day302_buddy_allocator.py)
+
+## Day 303: Systems Programming: Slab Allocator for Fixed-Size Object Pools
+Constructed Bonwick-style Slab Allocator caching pre-allocated fixed-size kernel object slots with free lists.
+
+- [Notes](notes/day303_slab_allocator.md)
+- [Code](exercises/day303_slab_allocator.py)
