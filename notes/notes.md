@@ -290,3 +290,4 @@
 - **Day 295 (Algorithms: Hierholzer's Eulerian Path and Circuit Algorithm)**: Implemented Hierholzer's linear-time algorithm reconstructing Eulerian cycles and trails using back-splicing.
 - **Day 296 (Algorithms: Heavy-Light Decomposition (HLD) for Tree Path Queries)**: Partitioned rooted trees into heavy chains allowing tree path queries in O(log^2 N) via segment trees.
 - **Day 297 (Concurrency: Lock-Free MPMC Bounded Queue)**: Implemented Dmitry Vyukov's Lock-Free Multi-Producer Multi-Consumer bounded circular queue with cell sequence tags.
+- **Day 298 (Concurrency: Work-Stealing Task Scheduler (Chase-Lev Deque))**: Constructed Chase-Lev lock-free work-stealing double-ended queue supporting LIFO worker push/pop and FIFO stealer steals.

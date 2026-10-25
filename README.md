@@ -1748,3 +1748,9 @@ Implemented Dmitry Vyukov's Lock-Free Multi-Producer Multi-Consumer bounded circ
 
 - [Notes](notes/day297_lockfree_mpmc_queue.md)
 - [Code](exercises/day297_lockfree_mpmc_queue.py)
+
+## Day 298: Concurrency: Work-Stealing Task Scheduler (Chase-Lev Deque)
+Constructed Chase-Lev lock-free work-stealing double-ended queue supporting LIFO worker push/pop and FIFO stealer steals.
+
+- [Notes](notes/day298_work_stealing_chase_lev.md)
+- [Code](exercises/day298_work_stealing_chase_lev.py)
