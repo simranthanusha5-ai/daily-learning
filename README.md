@@ -1730,3 +1730,9 @@ Implemented linear-time bridge and articulation point detection in undirected gr
 
 - [Notes](notes/day294_bridge_articulation_points.md)
 - [Code](exercises/day294_bridge_articulation_points.py)
+
+## Day 295: Algorithms: Hierholzer's Eulerian Path and Circuit Algorithm
+Implemented Hierholzer's linear-time algorithm reconstructing Eulerian cycles and trails using back-splicing.
+
+- [Notes](notes/day295_hierholzers_eulerian.md)
+- [Code](exercises/day295_hierholzers_eulerian.py)
