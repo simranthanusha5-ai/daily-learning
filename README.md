@@ -1754,3 +1754,9 @@ Constructed Chase-Lev lock-free work-stealing double-ended queue supporting LIFO
 
 - [Notes](notes/day298_work_stealing_chase_lev.md)
 - [Code](exercises/day298_work_stealing_chase_lev.py)
+
+## Day 299: Concurrency: Read-Copy-Update (RCU) Epoch-Based Reclamation
+Simulated Linux kernel Read-Copy-Update (RCU) synchronization with global epoch progression and quiescent grace periods.
+
+- [Notes](notes/day299_rcu_epoch_reclamation.md)
+- [Code](exercises/day299_rcu_epoch_reclamation.py)
