@@ -292,3 +292,4 @@
 - **Day 297 (Concurrency: Lock-Free MPMC Bounded Queue)**: Implemented Dmitry Vyukov's Lock-Free Multi-Producer Multi-Consumer bounded circular queue with cell sequence tags.
 - **Day 298 (Concurrency: Work-Stealing Task Scheduler (Chase-Lev Deque))**: Constructed Chase-Lev lock-free work-stealing double-ended queue supporting LIFO worker push/pop and FIFO stealer steals.
 - **Day 299 (Concurrency: Read-Copy-Update (RCU) Epoch-Based Reclamation)**: Simulated Linux kernel Read-Copy-Update (RCU) synchronization with global epoch progression and quiescent grace periods.
+- **Day 300 (Concurrency: LMAX Disruptor Multi-Consumer Dependency Pipeline)**: Constructed multi-stage LMAX Disruptor processing graph where consumer B strictly sequences after consumer A.

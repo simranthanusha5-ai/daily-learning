@@ -1760,3 +1760,9 @@ Simulated Linux kernel Read-Copy-Update (RCU) synchronization with global epoch 
 
 - [Notes](notes/day299_rcu_epoch_reclamation.md)
 - [Code](exercises/day299_rcu_epoch_reclamation.py)
+
+## Day 300: Concurrency: LMAX Disruptor Multi-Consumer Dependency Pipeline
+Constructed multi-stage LMAX Disruptor processing graph where consumer B strictly sequences after consumer A.
+
+- [Notes](notes/day300_disruptor_multiconsumer.md)
+- [Code](exercises/day300_disruptor_multiconsumer.py)
