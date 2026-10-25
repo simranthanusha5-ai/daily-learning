@@ -289,3 +289,4 @@
 - **Day 294 (Algorithms: Bridge and Articulation Point Detection (Tarjan Lowpt))**: Implemented linear-time bridge and articulation point detection in undirected graphs using DFS low-link values.
 - **Day 295 (Algorithms: Hierholzer's Eulerian Path and Circuit Algorithm)**: Implemented Hierholzer's linear-time algorithm reconstructing Eulerian cycles and trails using back-splicing.
 - **Day 296 (Algorithms: Heavy-Light Decomposition (HLD) for Tree Path Queries)**: Partitioned rooted trees into heavy chains allowing tree path queries in O(log^2 N) via segment trees.
+- **Day 297 (Concurrency: Lock-Free MPMC Bounded Queue)**: Implemented Dmitry Vyukov's Lock-Free Multi-Producer Multi-Consumer bounded circular queue with cell sequence tags.

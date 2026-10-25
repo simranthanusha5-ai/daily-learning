@@ -1742,3 +1742,9 @@ Partitioned rooted trees into heavy chains allowing tree path queries in O(log^2
 
 - [Notes](notes/day296_heavy_light_decomposition.md)
 - [Code](exercises/day296_heavy_light_decomposition.py)
+
+## Day 297: Concurrency: Lock-Free MPMC Bounded Queue
+Implemented Dmitry Vyukov's Lock-Free Multi-Producer Multi-Consumer bounded circular queue with cell sequence tags.
+
+- [Notes](notes/day297_lockfree_mpmc_queue.md)
+- [Code](exercises/day297_lockfree_mpmc_queue.py)
