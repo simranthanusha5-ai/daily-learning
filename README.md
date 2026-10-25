@@ -1766,3 +1766,9 @@ Constructed multi-stage LMAX Disruptor processing graph where consumer B strictl
 
 - [Notes](notes/day300_disruptor_multiconsumer.md)
 - [Code](exercises/day300_disruptor_multiconsumer.py)
+
+## Day 301: Systems Programming: Hardware-Friendly Memory Arena Allocator
+Implemented a contiguous bytearray Arena Allocator with 8-byte alignment offsets and instant O(1) bulk resets.
+
+- [Notes](notes/day301_memory_arena_allocator.md)
+- [Code](exercises/day301_memory_arena_allocator.py)
