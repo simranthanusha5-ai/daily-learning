@@ -1736,3 +1736,9 @@ Implemented Hierholzer's linear-time algorithm reconstructing Eulerian cycles an
 
 - [Notes](notes/day295_hierholzers_eulerian.md)
 - [Code](exercises/day295_hierholzers_eulerian.py)
+
+## Day 296: Algorithms: Heavy-Light Decomposition (HLD) for Tree Path Queries
+Partitioned rooted trees into heavy chains allowing tree path queries in O(log^2 N) via segment trees.
+
+- [Notes](notes/day296_heavy_light_decomposition.md)
+- [Code](exercises/day296_heavy_light_decomposition.py)
