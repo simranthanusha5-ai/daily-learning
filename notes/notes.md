@@ -294,3 +294,4 @@
 - **Day 299 (Concurrency: Read-Copy-Update (RCU) Epoch-Based Reclamation)**: Simulated Linux kernel Read-Copy-Update (RCU) synchronization with global epoch progression and quiescent grace periods.
 - **Day 300 (Concurrency: LMAX Disruptor Multi-Consumer Dependency Pipeline)**: Constructed multi-stage LMAX Disruptor processing graph where consumer B strictly sequences after consumer A.
 - **Day 301 (Systems Programming: Hardware-Friendly Memory Arena Allocator)**: Implemented a contiguous bytearray Arena Allocator with 8-byte alignment offsets and instant O(1) bulk resets.
+- **Day 302 (Systems Programming: Buddy Memory Allocator (Power-of-Two Coalescing))**: Engineered power-of-two Buddy Memory Allocator splitting blocks on request and coalescing buddies upon release.

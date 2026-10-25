@@ -1772,3 +1772,9 @@ Implemented a contiguous bytearray Arena Allocator with 8-byte alignment offsets
 
 - [Notes](notes/day301_memory_arena_allocator.md)
 - [Code](exercises/day301_memory_arena_allocator.py)
+
+## Day 302: Systems Programming: Buddy Memory Allocator (Power-of-Two Coalescing)
+Engineered power-of-two Buddy Memory Allocator splitting blocks on request and coalescing buddies upon release.
+
+- [Notes](notes/day302_buddy_allocator.md)
+- [Code](exercises/day302_buddy_allocator.py)
