@@ -1784,3 +1784,9 @@ Constructed Bonwick-style Slab Allocator caching pre-allocated fixed-size kernel
 
 - [Notes](notes/day303_slab_allocator.md)
 - [Code](exercises/day303_slab_allocator.py)
+
+## Day 304: Concurrency: Asynchronous Stream Multiplexer (Fan-In Pipeline)
+Engineered an asynchronous multi-producer stream multiplexer merging concurrent asynchronous generators into a single consumer.
+
+- [Notes](notes/day304_async_stream_mux.md)
+- [Code](exercises/day304_async_stream_mux.py)
