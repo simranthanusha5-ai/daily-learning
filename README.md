@@ -1832,3 +1832,9 @@ Implemented Chandy-Misra-Haas probe-based edge chasing algorithm detecting distr
 
 - [Notes](notes/day311_distributed_deadlock_detection.md)
 - [Code](exercises/day311_distributed_deadlock_detection.py)
+
+## Day 312: Distributed Systems: Replicated State Machine Log Compaction & Snapshotting
+Engineered state machine snapshotting truncating committed consensus log prefix entries safely.
+
+- [Notes](notes/day312_rsm_log_snapshot.md)
+- [Code](exercises/day312_rsm_log_snapshot.py)

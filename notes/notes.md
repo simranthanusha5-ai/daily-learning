@@ -304,3 +304,4 @@
 - **Day 309 (Distributed Systems: Practical Byzantine Fault Tolerance (PBFT Pre-Prepare, Prepare, Commit))**: Modeled Castro-Liskov PBFT three-phase agreement protocol tolerating up to f malicious nodes in 3f+1 network.
 - **Day 310 (Distributed Systems: EPaxos (Egalitarian Paxos Dependency Graph))**: Built EPaxos leaderless conflict resolution tracking transaction dependency graphs and topological execution.
 - **Day 311 (Distributed Systems: Distributed Deadlock Detection via Wait-For Graphs)**: Implemented Chandy-Misra-Haas probe-based edge chasing algorithm detecting distributed transaction deadlocks.
+- **Day 312 (Distributed Systems: Replicated State Machine Log Compaction & Snapshotting)**: Engineered state machine snapshotting truncating committed consensus log prefix entries safely.
