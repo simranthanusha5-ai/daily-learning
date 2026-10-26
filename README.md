@@ -1820,3 +1820,9 @@ Modeled Castro-Liskov PBFT three-phase agreement protocol tolerating up to f mal
 
 - [Notes](notes/day309_pbft_consensus_phases.md)
 - [Code](exercises/day309_pbft_consensus_phases.py)
+
+## Day 310: Distributed Systems: EPaxos (Egalitarian Paxos Dependency Graph)
+Built EPaxos leaderless conflict resolution tracking transaction dependency graphs and topological execution.
+
+- [Notes](notes/day310_epaxos_dependencies.md)
+- [Code](exercises/day310_epaxos_dependencies.py)

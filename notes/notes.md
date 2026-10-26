@@ -302,3 +302,4 @@
 - **Day 307 (Distributed Systems: Multi-Paxos with Leader Leases & Streamlined Phase 2)**: Modeled Multi-Paxos optimization skipping Phase 1 for steady-state log instances under active leader lease.
 - **Day 308 (Distributed Systems: Multi-Raft Range Partitioning and Routing)**: Constructed Multi-Raft architecture partitioning keyspaces into independent Raft consensus groups across nodes.
 - **Day 309 (Distributed Systems: Practical Byzantine Fault Tolerance (PBFT Pre-Prepare, Prepare, Commit))**: Modeled Castro-Liskov PBFT three-phase agreement protocol tolerating up to f malicious nodes in 3f+1 network.
+- **Day 310 (Distributed Systems: EPaxos (Egalitarian Paxos Dependency Graph))**: Built EPaxos leaderless conflict resolution tracking transaction dependency graphs and topological execution.
