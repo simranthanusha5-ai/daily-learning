@@ -297,3 +297,4 @@
 - **Day 302 (Systems Programming: Buddy Memory Allocator (Power-of-Two Coalescing))**: Engineered power-of-two Buddy Memory Allocator splitting blocks on request and coalescing buddies upon release.
 - **Day 303 (Systems Programming: Slab Allocator for Fixed-Size Object Pools)**: Constructed Bonwick-style Slab Allocator caching pre-allocated fixed-size kernel object slots with free lists.
 - **Day 304 (Concurrency: Asynchronous Stream Multiplexer (Fan-In Pipeline))**: Engineered an asynchronous multi-producer stream multiplexer merging concurrent asynchronous generators into a single consumer.
+- **Day 305 (Systems Programming: Greenlet / Fiber Cooperative Context Switch Simulation)**: Simulated cooperative user-space greenlet fiber context switching using generator frame yield and resume.

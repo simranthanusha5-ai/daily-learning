@@ -1790,3 +1790,9 @@ Engineered an asynchronous multi-producer stream multiplexer merging concurrent 
 
 - [Notes](notes/day304_async_stream_mux.md)
 - [Code](exercises/day304_async_stream_mux.py)
+
+## Day 305: Systems Programming: Greenlet / Fiber Cooperative Context Switch Simulation
+Simulated cooperative user-space greenlet fiber context switching using generator frame yield and resume.
+
+- [Notes](notes/day305_fiber_context_switch.md)
+- [Code](exercises/day305_fiber_context_switch.py)
