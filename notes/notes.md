@@ -301,3 +301,4 @@
 - **Day 306 (Systems Programming: SIMD Vectorized Operations (AVX2 Lane Emulation))**: Emulated 8-lane 32-bit SIMD vector addition, dot product, and horizontal reduction operations.
 - **Day 307 (Distributed Systems: Multi-Paxos with Leader Leases & Streamlined Phase 2)**: Modeled Multi-Paxos optimization skipping Phase 1 for steady-state log instances under active leader lease.
 - **Day 308 (Distributed Systems: Multi-Raft Range Partitioning and Routing)**: Constructed Multi-Raft architecture partitioning keyspaces into independent Raft consensus groups across nodes.
+- **Day 309 (Distributed Systems: Practical Byzantine Fault Tolerance (PBFT Pre-Prepare, Prepare, Commit))**: Modeled Castro-Liskov PBFT three-phase agreement protocol tolerating up to f malicious nodes in 3f+1 network.

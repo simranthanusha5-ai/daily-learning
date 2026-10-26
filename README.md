@@ -1814,3 +1814,9 @@ Constructed Multi-Raft architecture partitioning keyspaces into independent Raft
 
 - [Notes](notes/day308_multi_raft_routing.md)
 - [Code](exercises/day308_multi_raft_routing.py)
+
+## Day 309: Distributed Systems: Practical Byzantine Fault Tolerance (PBFT Pre-Prepare, Prepare, Commit)
+Modeled Castro-Liskov PBFT three-phase agreement protocol tolerating up to f malicious nodes in 3f+1 network.
+
+- [Notes](notes/day309_pbft_consensus_phases.md)
+- [Code](exercises/day309_pbft_consensus_phases.py)
