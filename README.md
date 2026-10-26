@@ -1796,3 +1796,9 @@ Simulated cooperative user-space greenlet fiber context switching using generato
 
 - [Notes](notes/day305_fiber_context_switch.md)
 - [Code](exercises/day305_fiber_context_switch.py)
+
+## Day 306: Systems Programming: SIMD Vectorized Operations (AVX2 Lane Emulation)
+Emulated 8-lane 32-bit SIMD vector addition, dot product, and horizontal reduction operations.
+
+- [Notes](notes/day306_simd_vectorized_lanes.md)
+- [Code](exercises/day306_simd_vectorized_lanes.py)
