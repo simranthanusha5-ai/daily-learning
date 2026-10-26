@@ -1826,3 +1826,9 @@ Built EPaxos leaderless conflict resolution tracking transaction dependency grap
 
 - [Notes](notes/day310_epaxos_dependencies.md)
 - [Code](exercises/day310_epaxos_dependencies.py)
+
+## Day 311: Distributed Systems: Distributed Deadlock Detection via Wait-For Graphs
+Implemented Chandy-Misra-Haas probe-based edge chasing algorithm detecting distributed transaction deadlocks.
+
+- [Notes](notes/day311_distributed_deadlock_detection.md)
+- [Code](exercises/day311_distributed_deadlock_detection.py)
