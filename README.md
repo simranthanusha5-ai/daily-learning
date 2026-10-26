@@ -1802,3 +1802,9 @@ Emulated 8-lane 32-bit SIMD vector addition, dot product, and horizontal reducti
 
 - [Notes](notes/day306_simd_vectorized_lanes.md)
 - [Code](exercises/day306_simd_vectorized_lanes.py)
+
+## Day 307: Distributed Systems: Multi-Paxos with Leader Leases & Streamlined Phase 2
+Modeled Multi-Paxos optimization skipping Phase 1 for steady-state log instances under active leader lease.
+
+- [Notes](notes/day307_multi_paxos_leases.md)
+- [Code](exercises/day307_multi_paxos_leases.py)
