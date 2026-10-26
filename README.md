@@ -1808,3 +1808,9 @@ Modeled Multi-Paxos optimization skipping Phase 1 for steady-state log instances
 
 - [Notes](notes/day307_multi_paxos_leases.md)
 - [Code](exercises/day307_multi_paxos_leases.py)
+
+## Day 308: Distributed Systems: Multi-Raft Range Partitioning and Routing
+Constructed Multi-Raft architecture partitioning keyspaces into independent Raft consensus groups across nodes.
+
+- [Notes](notes/day308_multi_raft_routing.md)
+- [Code](exercises/day308_multi_raft_routing.py)

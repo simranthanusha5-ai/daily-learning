@@ -300,3 +300,4 @@
 - **Day 305 (Systems Programming: Greenlet / Fiber Cooperative Context Switch Simulation)**: Simulated cooperative user-space greenlet fiber context switching using generator frame yield and resume.
 - **Day 306 (Systems Programming: SIMD Vectorized Operations (AVX2 Lane Emulation))**: Emulated 8-lane 32-bit SIMD vector addition, dot product, and horizontal reduction operations.
 - **Day 307 (Distributed Systems: Multi-Paxos with Leader Leases & Streamlined Phase 2)**: Modeled Multi-Paxos optimization skipping Phase 1 for steady-state log instances under active leader lease.
+- **Day 308 (Distributed Systems: Multi-Raft Range Partitioning and Routing)**: Constructed Multi-Raft architecture partitioning keyspaces into independent Raft consensus groups across nodes.
