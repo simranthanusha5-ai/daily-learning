@@ -1856,3 +1856,9 @@ Engineered a distributed token lease batching scheme reducing centralized lock r
 
 - [Notes](notes/day315_distributed_token_lease_limiter.md)
 - [Code](exercises/day315_distributed_token_lease_limiter.py)
+
+## Day 316: Distributed Systems: Two-Phase Distributed Barrier Synchronization
+Modeled two-phase distributed barrier synchronization preventing fast processes from overrunning lagging cluster nodes.
+
+- [Notes](notes/day316_distributed_barrier.md)
+- [Code](exercises/day316_distributed_barrier.py)
