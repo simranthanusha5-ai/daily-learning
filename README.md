@@ -1880,3 +1880,9 @@ Constructed Megiddo-Modha Adaptive Replacement Cache (ARC) self-tuning between r
 
 - [Notes](notes/day319_arc_page_replacement.md)
 - [Code](exercises/day319_arc_page_replacement.py)
+
+## Day 320: Operating Systems: Unix Inode Filesystem Layout Simulation
+Modeled traditional Unix V7 filesystem layout with superblock, inode table, direct and indirect block pointers.
+
+- [Notes](notes/day320_unix_inode_filesystem.md)
+- [Code](exercises/day320_unix_inode_filesystem.py)

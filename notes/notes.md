@@ -312,3 +312,4 @@
 - **Day 317 (Operating Systems: Linux Completely Fair Scheduler (CFS vruntime))**: Implemented Linux CFS process scheduling simulation ordering tasks by virtual runtime (vruntime) weighted by nice values.
 - **Day 318 (Operating Systems: Virtual Memory Multi-Level Page Table Translation)**: Simulated hardware MMU two-level virtual address translation (Page Directory -> Page Table -> Physical Frame).
 - **Day 319 (Operating Systems: Adaptive Replacement Cache (ARC Page Replacement))**: Constructed Megiddo-Modha Adaptive Replacement Cache (ARC) self-tuning between recency and frequency.
+- **Day 320 (Operating Systems: Unix Inode Filesystem Layout Simulation)**: Modeled traditional Unix V7 filesystem layout with superblock, inode table, direct and indirect block pointers.
