@@ -1838,3 +1838,9 @@ Engineered state machine snapshotting truncating committed consensus log prefix 
 
 - [Notes](notes/day312_rsm_log_snapshot.md)
 - [Code](exercises/day312_rsm_log_snapshot.py)
+
+## Day 313: Distributed Systems: CRDT LWW-Element-Set (Last-Write-Wins Two-Phase Set)
+Implemented state-based LWW-Element-Set resolving concurrent additions and removals by comparing wall-clock timestamps.
+
+- [Notes](notes/day313_crdt_lww_element_set.md)
+- [Code](exercises/day313_crdt_lww_element_set.py)
