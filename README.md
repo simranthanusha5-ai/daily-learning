@@ -1862,3 +1862,9 @@ Modeled two-phase distributed barrier synchronization preventing fast processes 
 
 - [Notes](notes/day316_distributed_barrier.md)
 - [Code](exercises/day316_distributed_barrier.py)
+
+## Day 317: Operating Systems: Linux Completely Fair Scheduler (CFS vruntime)
+Implemented Linux CFS process scheduling simulation ordering tasks by virtual runtime (vruntime) weighted by nice values.
+
+- [Notes](notes/day317_cfs_vruntime_scheduler.md)
+- [Code](exercises/day317_cfs_vruntime_scheduler.py)
