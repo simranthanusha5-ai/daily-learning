@@ -1844,3 +1844,9 @@ Implemented state-based LWW-Element-Set resolving concurrent additions and remov
 
 - [Notes](notes/day313_crdt_lww_element_set.md)
 - [Code](exercises/day313_crdt_lww_element_set.py)
+
+## Day 314: Distributed Systems: CRDT Observed-Remove Set (OR-Set with Unique Tags)
+Constructed an OR-Set (Observed-Remove Set) generating unique element tags to preserve concurrent non-conflicting adds.
+
+- [Notes](notes/day314_crdt_or_set.md)
+- [Code](exercises/day314_crdt_or_set.py)

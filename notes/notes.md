@@ -306,3 +306,4 @@
 - **Day 311 (Distributed Systems: Distributed Deadlock Detection via Wait-For Graphs)**: Implemented Chandy-Misra-Haas probe-based edge chasing algorithm detecting distributed transaction deadlocks.
 - **Day 312 (Distributed Systems: Replicated State Machine Log Compaction & Snapshotting)**: Engineered state machine snapshotting truncating committed consensus log prefix entries safely.
 - **Day 313 (Distributed Systems: CRDT LWW-Element-Set (Last-Write-Wins Two-Phase Set))**: Implemented state-based LWW-Element-Set resolving concurrent additions and removals by comparing wall-clock timestamps.
+- **Day 314 (Distributed Systems: CRDT Observed-Remove Set (OR-Set with Unique Tags))**: Constructed an OR-Set (Observed-Remove Set) generating unique element tags to preserve concurrent non-conflicting adds.
