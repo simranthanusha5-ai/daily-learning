@@ -311,3 +311,4 @@
 - **Day 316 (Distributed Systems: Two-Phase Distributed Barrier Synchronization)**: Modeled two-phase distributed barrier synchronization preventing fast processes from overrunning lagging cluster nodes.
 - **Day 317 (Operating Systems: Linux Completely Fair Scheduler (CFS vruntime))**: Implemented Linux CFS process scheduling simulation ordering tasks by virtual runtime (vruntime) weighted by nice values.
 - **Day 318 (Operating Systems: Virtual Memory Multi-Level Page Table Translation)**: Simulated hardware MMU two-level virtual address translation (Page Directory -> Page Table -> Physical Frame).
+- **Day 319 (Operating Systems: Adaptive Replacement Cache (ARC Page Replacement))**: Constructed Megiddo-Modha Adaptive Replacement Cache (ARC) self-tuning between recency and frequency.

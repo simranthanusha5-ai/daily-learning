@@ -1874,3 +1874,9 @@ Simulated hardware MMU two-level virtual address translation (Page Directory -> 
 
 - [Notes](notes/day318_page_table_translation.md)
 - [Code](exercises/day318_page_table_translation.py)
+
+## Day 319: Operating Systems: Adaptive Replacement Cache (ARC Page Replacement)
+Constructed Megiddo-Modha Adaptive Replacement Cache (ARC) self-tuning between recency and frequency.
+
+- [Notes](notes/day319_arc_page_replacement.md)
+- [Code](exercises/day319_arc_page_replacement.py)
