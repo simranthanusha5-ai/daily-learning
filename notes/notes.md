@@ -313,3 +313,4 @@
 - **Day 318 (Operating Systems: Virtual Memory Multi-Level Page Table Translation)**: Simulated hardware MMU two-level virtual address translation (Page Directory -> Page Table -> Physical Frame).
 - **Day 319 (Operating Systems: Adaptive Replacement Cache (ARC Page Replacement))**: Constructed Megiddo-Modha Adaptive Replacement Cache (ARC) self-tuning between recency and frequency.
 - **Day 320 (Operating Systems: Unix Inode Filesystem Layout Simulation)**: Modeled traditional Unix V7 filesystem layout with superblock, inode table, direct and indirect block pointers.
+- **Day 321 (Operating Systems: POSIX Signals and Async-Safe Event Delivery Loop)**: Simulated POSIX signal masks, queued pending signal vectors, and re-entrant signal handler dispatches.

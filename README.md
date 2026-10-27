@@ -1886,3 +1886,9 @@ Modeled traditional Unix V7 filesystem layout with superblock, inode table, dire
 
 - [Notes](notes/day320_unix_inode_filesystem.md)
 - [Code](exercises/day320_unix_inode_filesystem.py)
+
+## Day 321: Operating Systems: POSIX Signals and Async-Safe Event Delivery Loop
+Simulated POSIX signal masks, queued pending signal vectors, and re-entrant signal handler dispatches.
+
+- [Notes](notes/day321_posix_signal_loop.md)
+- [Code](exercises/day321_posix_signal_loop.py)
