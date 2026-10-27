@@ -1868,3 +1868,9 @@ Implemented Linux CFS process scheduling simulation ordering tasks by virtual ru
 
 - [Notes](notes/day317_cfs_vruntime_scheduler.md)
 - [Code](exercises/day317_cfs_vruntime_scheduler.py)
+
+## Day 318: Operating Systems: Virtual Memory Multi-Level Page Table Translation
+Simulated hardware MMU two-level virtual address translation (Page Directory -> Page Table -> Physical Frame).
+
+- [Notes](notes/day318_page_table_translation.md)
+- [Code](exercises/day318_page_table_translation.py)
