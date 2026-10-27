@@ -307,3 +307,4 @@
 - **Day 312 (Distributed Systems: Replicated State Machine Log Compaction & Snapshotting)**: Engineered state machine snapshotting truncating committed consensus log prefix entries safely.
 - **Day 313 (Distributed Systems: CRDT LWW-Element-Set (Last-Write-Wins Two-Phase Set))**: Implemented state-based LWW-Element-Set resolving concurrent additions and removals by comparing wall-clock timestamps.
 - **Day 314 (Distributed Systems: CRDT Observed-Remove Set (OR-Set with Unique Tags))**: Constructed an OR-Set (Observed-Remove Set) generating unique element tags to preserve concurrent non-conflicting adds.
+- **Day 315 (Distributed Systems: Distributed Rate Limiting via Token Leases)**: Engineered a distributed token lease batching scheme reducing centralized lock round-trips for high-throughput clients.

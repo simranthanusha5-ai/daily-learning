@@ -1850,3 +1850,9 @@ Constructed an OR-Set (Observed-Remove Set) generating unique element tags to pr
 
 - [Notes](notes/day314_crdt_or_set.md)
 - [Code](exercises/day314_crdt_or_set.py)
+
+## Day 315: Distributed Systems: Distributed Rate Limiting via Token Leases
+Engineered a distributed token lease batching scheme reducing centralized lock round-trips for high-throughput clients.
+
+- [Notes](notes/day315_distributed_token_lease_limiter.md)
+- [Code](exercises/day315_distributed_token_lease_limiter.py)
