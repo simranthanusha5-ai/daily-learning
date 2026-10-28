@@ -1910,3 +1910,9 @@ Constructed an NIC RX/TX circular ring descriptor queue simulating Direct Memory
 
 - [Notes](notes/day324_dma_ring_buffer.md)
 - [Code](exercises/day324_dma_ring_buffer.py)
+
+## Day 325: Operating Systems: Syscall Interception and Tracer (Mini Strace)
+Emulated ptrace syscall entry/exit hooks intercepting process arguments and recording timing metrics.
+
+- [Notes](notes/day325_syscall_tracer_strace.md)
+- [Code](exercises/day325_syscall_tracer_strace.py)
