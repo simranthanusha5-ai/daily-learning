@@ -1892,3 +1892,9 @@ Simulated POSIX signal masks, queued pending signal vectors, and re-entrant sign
 
 - [Notes](notes/day321_posix_signal_loop.md)
 - [Code](exercises/day321_posix_signal_loop.py)
+
+## Day 322: Operating Systems: Copy-on-Write (CoW) Fork Simulation
+Simulated kernel fork() Copy-on-Write marking shared pages read-only and duplicating pages only upon write faults.
+
+- [Notes](notes/day322_copy_on_write_fork.md)
+- [Code](exercises/day322_copy_on_write_fork.py)
