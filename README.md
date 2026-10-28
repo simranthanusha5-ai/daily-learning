@@ -1898,3 +1898,9 @@ Simulated kernel fork() Copy-on-Write marking shared pages read-only and duplica
 
 - [Notes](notes/day322_copy_on_write_fork.md)
 - [Code](exercises/day322_copy_on_write_fork.py)
+
+## Day 323: Operating Systems: Linux cgroups v2 Hierarchical Resource Limiter
+Built hierarchical cgroups v2 resource tree enforcing nested memory limits and CPU quota throttles.
+
+- [Notes](notes/day323_cgroups_v2_resource_limiter.md)
+- [Code](exercises/day323_cgroups_v2_resource_limiter.py)

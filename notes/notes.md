@@ -315,3 +315,4 @@
 - **Day 320 (Operating Systems: Unix Inode Filesystem Layout Simulation)**: Modeled traditional Unix V7 filesystem layout with superblock, inode table, direct and indirect block pointers.
 - **Day 321 (Operating Systems: POSIX Signals and Async-Safe Event Delivery Loop)**: Simulated POSIX signal masks, queued pending signal vectors, and re-entrant signal handler dispatches.
 - **Day 322 (Operating Systems: Copy-on-Write (CoW) Fork Simulation)**: Simulated kernel fork() Copy-on-Write marking shared pages read-only and duplicating pages only upon write faults.
+- **Day 323 (Operating Systems: Linux cgroups v2 Hierarchical Resource Limiter)**: Built hierarchical cgroups v2 resource tree enforcing nested memory limits and CPU quota throttles.
