@@ -1904,3 +1904,9 @@ Built hierarchical cgroups v2 resource tree enforcing nested memory limits and C
 
 - [Notes](notes/day323_cgroups_v2_resource_limiter.md)
 - [Code](exercises/day323_cgroups_v2_resource_limiter.py)
+
+## Day 324: Operating Systems: Network Ring Buffer with Zero-Copy DMA Simulation
+Constructed an NIC RX/TX circular ring descriptor queue simulating Direct Memory Access (DMA) zero-copy transfers.
+
+- [Notes](notes/day324_dma_ring_buffer.md)
+- [Code](exercises/day324_dma_ring_buffer.py)
