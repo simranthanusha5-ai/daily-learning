@@ -1922,3 +1922,9 @@ Modeled Linux epoll difference between edge-triggered (EPOLLET notification on s
 
 - [Notes](notes/day326_epoll_edge_level_trigger.md)
 - [Code](exercises/day326_epoll_edge_level_trigger.py)
+
+## Day 327: Networking: QUIC Variable-Length Integer & Packet Header Parser
+Implemented RFC 9000 QUIC variable-length integer encoding (1, 2, 4, 8 bytes) and long/short packet headers.
+
+- [Notes](notes/day327_quic_varint_parser.md)
+- [Code](exercises/day327_quic_varint_parser.py)
