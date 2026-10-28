@@ -1928,3 +1928,9 @@ Implemented RFC 9000 QUIC variable-length integer encoding (1, 2, 4, 8 bytes) an
 
 - [Notes](notes/day327_quic_varint_parser.md)
 - [Code](exercises/day327_quic_varint_parser.py)
+
+## Day 328: Networking: TCP BBR Congestion Control State Machine
+Modeled Google BBR congestion control estimating bottleneck bandwidth (BtlBw) and round-trip propagation delay (RTprop).
+
+- [Notes](notes/day328_tcp_bbr_congestion_control.md)
+- [Code](exercises/day328_tcp_bbr_congestion_control.py)

@@ -320,3 +320,4 @@
 - **Day 325 (Operating Systems: Syscall Interception and Tracer (Mini Strace))**: Emulated ptrace syscall entry/exit hooks intercepting process arguments and recording timing metrics.
 - **Day 326 (Operating Systems: Epoll Level-Triggered vs Edge-Triggered Semantics)**: Modeled Linux epoll difference between edge-triggered (EPOLLET notification on state change) and level-triggered polling.
 - **Day 327 (Networking: QUIC Variable-Length Integer & Packet Header Parser)**: Implemented RFC 9000 QUIC variable-length integer encoding (1, 2, 4, 8 bytes) and long/short packet headers.
+- **Day 328 (Networking: TCP BBR Congestion Control State Machine)**: Modeled Google BBR congestion control estimating bottleneck bandwidth (BtlBw) and round-trip propagation delay (RTprop).
