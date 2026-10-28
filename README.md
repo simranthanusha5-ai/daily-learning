@@ -1934,3 +1934,9 @@ Modeled Google BBR congestion control estimating bottleneck bandwidth (BtlBw) an
 
 - [Notes](notes/day328_tcp_bbr_congestion_control.md)
 - [Code](exercises/day328_tcp_bbr_congestion_control.py)
+
+## Day 329: Networking: gRPC HTTP/2 Framing and Protobuf Varint Wire Parser
+Built gRPC 5-byte length-prefixed message framer and Google Protocol Buffers varint/tag decoder.
+
+- [Notes](notes/day329_grpc_protobuf_framing.md)
+- [Code](exercises/day329_grpc_protobuf_framing.py)
