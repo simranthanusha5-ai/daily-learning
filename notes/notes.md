@@ -322,3 +322,4 @@
 - **Day 327 (Networking: QUIC Variable-Length Integer & Packet Header Parser)**: Implemented RFC 9000 QUIC variable-length integer encoding (1, 2, 4, 8 bytes) and long/short packet headers.
 - **Day 328 (Networking: TCP BBR Congestion Control State Machine)**: Modeled Google BBR congestion control estimating bottleneck bandwidth (BtlBw) and round-trip propagation delay (RTprop).
 - **Day 329 (Networking: gRPC HTTP/2 Framing and Protobuf Varint Wire Parser)**: Built gRPC 5-byte length-prefixed message framer and Google Protocol Buffers varint/tag decoder.
+- **Day 330 (Networking: MQTT 5.0 Packet Serializer & QoS 1 At-Least-Once Loop)**: Constructed MQTT 5.0 PUBLISH/PUBACK binary serializer verifying QoS 1 packet identifier acknowledgments.

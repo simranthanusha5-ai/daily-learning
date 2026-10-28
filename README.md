@@ -1940,3 +1940,9 @@ Built gRPC 5-byte length-prefixed message framer and Google Protocol Buffers var
 
 - [Notes](notes/day329_grpc_protobuf_framing.md)
 - [Code](exercises/day329_grpc_protobuf_framing.py)
+
+## Day 330: Networking: MQTT 5.0 Packet Serializer & QoS 1 At-Least-Once Loop
+Constructed MQTT 5.0 PUBLISH/PUBACK binary serializer verifying QoS 1 packet identifier acknowledgments.
+
+- [Notes](notes/day330_mqtt5_packet_serializer.md)
+- [Code](exercises/day330_mqtt5_packet_serializer.py)
