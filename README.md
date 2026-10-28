@@ -1916,3 +1916,9 @@ Emulated ptrace syscall entry/exit hooks intercepting process arguments and reco
 
 - [Notes](notes/day325_syscall_tracer_strace.md)
 - [Code](exercises/day325_syscall_tracer_strace.py)
+
+## Day 326: Operating Systems: Epoll Level-Triggered vs Edge-Triggered Semantics
+Modeled Linux epoll difference between edge-triggered (EPOLLET notification on state change) and level-triggered polling.
+
+- [Notes](notes/day326_epoll_edge_level_trigger.md)
+- [Code](exercises/day326_epoll_edge_level_trigger.py)

@@ -318,3 +318,4 @@
 - **Day 323 (Operating Systems: Linux cgroups v2 Hierarchical Resource Limiter)**: Built hierarchical cgroups v2 resource tree enforcing nested memory limits and CPU quota throttles.
 - **Day 324 (Operating Systems: Network Ring Buffer with Zero-Copy DMA Simulation)**: Constructed an NIC RX/TX circular ring descriptor queue simulating Direct Memory Access (DMA) zero-copy transfers.
 - **Day 325 (Operating Systems: Syscall Interception and Tracer (Mini Strace))**: Emulated ptrace syscall entry/exit hooks intercepting process arguments and recording timing metrics.
+- **Day 326 (Operating Systems: Epoll Level-Triggered vs Edge-Triggered Semantics)**: Modeled Linux epoll difference between edge-triggered (EPOLLET notification on state change) and level-triggered polling.
