@@ -327,3 +327,4 @@
 - **Day 332 (Networking: Border Gateway Protocol (BGP) Path Attribute Vector Routing)**: Implemented BGP autonomous system (AS) path vector routing rejecting routes containing AS loops.
 - **Day 333 (Networking: NAT Cone vs Symmetric Port Mapping Simulation)**: Simulated Network Address Translation (Full Cone vs Symmetric NAT) and endpoint filtering rules.
 - **Day 334 (Networking: HTTP/3 QPACK Static Table and Prefix Integer Decoder)**: Implemented HTTP/3 RFC 9204 QPACK static header decoder resolving HTTP field lines with prefix integers.
+- **Day 335 (Networking: CoAP (Constrained Application Protocol) Header Parser)**: Parsed RFC 7252 CoAP binary 4-byte header extracting Type, Token Length, Method Code, and Message ID.

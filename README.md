@@ -1970,3 +1970,9 @@ Implemented HTTP/3 RFC 9204 QPACK static header decoder resolving HTTP field lin
 
 - [Notes](notes/day334_http3_qpack_decoder.md)
 - [Code](exercises/day334_http3_qpack_decoder.py)
+
+## Day 335: Networking: CoAP (Constrained Application Protocol) Header Parser
+Parsed RFC 7252 CoAP binary 4-byte header extracting Type, Token Length, Method Code, and Message ID.
+
+- [Notes](notes/day335_coap_header_parser.md)
+- [Code](exercises/day335_coap_header_parser.py)
