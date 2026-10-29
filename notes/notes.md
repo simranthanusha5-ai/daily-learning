@@ -330,3 +330,4 @@
 - **Day 335 (Networking: CoAP (Constrained Application Protocol) Header Parser)**: Parsed RFC 7252 CoAP binary 4-byte header extracting Type, Token Length, Method Code, and Message ID.
 - **Day 336 (Networking: WebRTC ICE Candidate & STUN Binding Request Handler)**: Parsed RFC 5389 STUN Binding Request datagrams and constructed XOR-MAPPED-ADDRESS response attributes.
 - **Day 337 (Database Internals: Slotted Page Storage Architecture)**: Implemented database page slot array growing forward while tuple payloads grow backward from the bottom.
+- **Day 338 (Database Internals: Volcano Iterator Model Query Engine)**: Constructed classic Volcano open()-next()-close() pipelined physical query operators: SeqScan, Filter, HashJoin.

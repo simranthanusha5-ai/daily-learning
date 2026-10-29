@@ -1988,3 +1988,9 @@ Implemented database page slot array growing forward while tuple payloads grow b
 
 - [Notes](notes/day337_slotted_page_storage.md)
 - [Code](exercises/day337_slotted_page_storage.py)
+
+## Day 338: Database Internals: Volcano Iterator Model Query Engine
+Constructed classic Volcano open()-next()-close() pipelined physical query operators: SeqScan, Filter, HashJoin.
+
+- [Notes](notes/day338_volcano_query_engine.md)
+- [Code](exercises/day338_volcano_query_engine.py)
