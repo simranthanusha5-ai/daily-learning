@@ -1994,3 +1994,9 @@ Constructed classic Volcano open()-next()-close() pipelined physical query opera
 
 - [Notes](notes/day338_volcano_query_engine.md)
 - [Code](exercises/day338_volcano_query_engine.py)
+
+## Day 339: Database Internals: Vectorized Batch Query Processing Engine
+Implemented MonetDB/X100-style vectorized execution processing columnar data chunks in cache-friendly arrays.
+
+- [Notes](notes/day339_vectorized_query_engine.md)
+- [Code](exercises/day339_vectorized_query_engine.py)
