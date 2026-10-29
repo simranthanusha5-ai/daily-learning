@@ -1964,3 +1964,9 @@ Simulated Network Address Translation (Full Cone vs Symmetric NAT) and endpoint 
 
 - [Notes](notes/day333_nat_port_mapping.md)
 - [Code](exercises/day333_nat_port_mapping.py)
+
+## Day 334: Networking: HTTP/3 QPACK Static Table and Prefix Integer Decoder
+Implemented HTTP/3 RFC 9204 QPACK static header decoder resolving HTTP field lines with prefix integers.
+
+- [Notes](notes/day334_http3_qpack_decoder.md)
+- [Code](exercises/day334_http3_qpack_decoder.py)

@@ -326,3 +326,4 @@
 - **Day 331 (Networking: WireGuard Cryptokey Routing and Noise Protocol Initiation)**: Simulated WireGuard 1-RTT Noise_IK handshake message construction mapping public keys directly to internal IP ranges.
 - **Day 332 (Networking: Border Gateway Protocol (BGP) Path Attribute Vector Routing)**: Implemented BGP autonomous system (AS) path vector routing rejecting routes containing AS loops.
 - **Day 333 (Networking: NAT Cone vs Symmetric Port Mapping Simulation)**: Simulated Network Address Translation (Full Cone vs Symmetric NAT) and endpoint filtering rules.
+- **Day 334 (Networking: HTTP/3 QPACK Static Table and Prefix Integer Decoder)**: Implemented HTTP/3 RFC 9204 QPACK static header decoder resolving HTTP field lines with prefix integers.
