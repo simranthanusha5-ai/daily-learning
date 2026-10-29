@@ -1958,3 +1958,9 @@ Implemented BGP autonomous system (AS) path vector routing rejecting routes cont
 
 - [Notes](notes/day332_bgp_path_vector_routing.md)
 - [Code](exercises/day332_bgp_path_vector_routing.py)
+
+## Day 333: Networking: NAT Cone vs Symmetric Port Mapping Simulation
+Simulated Network Address Translation (Full Cone vs Symmetric NAT) and endpoint filtering rules.
+
+- [Notes](notes/day333_nat_port_mapping.md)
+- [Code](exercises/day333_nat_port_mapping.py)
