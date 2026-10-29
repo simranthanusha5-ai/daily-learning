@@ -1946,3 +1946,9 @@ Constructed MQTT 5.0 PUBLISH/PUBACK binary serializer verifying QoS 1 packet ide
 
 - [Notes](notes/day330_mqtt5_packet_serializer.md)
 - [Code](exercises/day330_mqtt5_packet_serializer.py)
+
+## Day 331: Networking: WireGuard Cryptokey Routing and Noise Protocol Initiation
+Simulated WireGuard 1-RTT Noise_IK handshake message construction mapping public keys directly to internal IP ranges.
+
+- [Notes](notes/day331_wireguard_noise_init.md)
+- [Code](exercises/day331_wireguard_noise_init.py)

@@ -323,3 +323,4 @@
 - **Day 328 (Networking: TCP BBR Congestion Control State Machine)**: Modeled Google BBR congestion control estimating bottleneck bandwidth (BtlBw) and round-trip propagation delay (RTprop).
 - **Day 329 (Networking: gRPC HTTP/2 Framing and Protobuf Varint Wire Parser)**: Built gRPC 5-byte length-prefixed message framer and Google Protocol Buffers varint/tag decoder.
 - **Day 330 (Networking: MQTT 5.0 Packet Serializer & QoS 1 At-Least-Once Loop)**: Constructed MQTT 5.0 PUBLISH/PUBACK binary serializer verifying QoS 1 packet identifier acknowledgments.
+- **Day 331 (Networking: WireGuard Cryptokey Routing and Noise Protocol Initiation)**: Simulated WireGuard 1-RTT Noise_IK handshake message construction mapping public keys directly to internal IP ranges.
