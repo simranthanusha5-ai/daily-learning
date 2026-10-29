@@ -1976,3 +1976,9 @@ Parsed RFC 7252 CoAP binary 4-byte header extracting Type, Token Length, Method 
 
 - [Notes](notes/day335_coap_header_parser.md)
 - [Code](exercises/day335_coap_header_parser.py)
+
+## Day 336: Networking: WebRTC ICE Candidate & STUN Binding Request Handler
+Parsed RFC 5389 STUN Binding Request datagrams and constructed XOR-MAPPED-ADDRESS response attributes.
+
+- [Notes](notes/day336_webrtc_stun_handler.md)
+- [Code](exercises/day336_webrtc_stun_handler.py)
