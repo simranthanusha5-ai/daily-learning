@@ -1982,3 +1982,9 @@ Parsed RFC 5389 STUN Binding Request datagrams and constructed XOR-MAPPED-ADDRES
 
 - [Notes](notes/day336_webrtc_stun_handler.md)
 - [Code](exercises/day336_webrtc_stun_handler.py)
+
+## Day 337: Database Internals: Slotted Page Storage Architecture
+Implemented database page slot array growing forward while tuple payloads grow backward from the bottom.
+
+- [Notes](notes/day337_slotted_page_storage.md)
+- [Code](exercises/day337_slotted_page_storage.py)
