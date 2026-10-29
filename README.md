@@ -1952,3 +1952,9 @@ Simulated WireGuard 1-RTT Noise_IK handshake message construction mapping public
 
 - [Notes](notes/day331_wireguard_noise_init.md)
 - [Code](exercises/day331_wireguard_noise_init.py)
+
+## Day 332: Networking: Border Gateway Protocol (BGP) Path Attribute Vector Routing
+Implemented BGP autonomous system (AS) path vector routing rejecting routes containing AS loops.
+
+- [Notes](notes/day332_bgp_path_vector_routing.md)
+- [Code](exercises/day332_bgp_path_vector_routing.py)
