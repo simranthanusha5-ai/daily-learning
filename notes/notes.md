@@ -339,3 +339,4 @@
 - **Day 344 (Database Internals: Spatial R-Tree (Bounding Box Overlap and Nearest))**: Implemented spatial 2D R-Tree with Minimum Bounding Boxes (MBR) for fast bounding-box intersection queries.
 - **Day 345 (Database Internals: Morsel-Driven Parallel Pipeline Query Execution)**: Constructed DuckDB-style Morsel-Driven execution dividing columnar inputs into fixed-size morsels processed across worker threads.
 - **Day 346 (Database Internals: Cost-Based Optimizer Cardinality Estimation via Equi-Depth Histograms)**: Built Equi-Depth Histograms to estimate database range predicate selectivity and query execution plan costs.
+- **Day 347 (Cryptography: Ed25519 (EdDSA) Point Scalar Arithmetic and Signatures)**: Modeled Edwards curve -x^2 + y^2 = 1 + dx^2y^2 point additions and EdDSA deterministic signing.

@@ -2042,3 +2042,9 @@ Built Equi-Depth Histograms to estimate database range predicate selectivity and
 
 - [Notes](notes/day346_equi_depth_histograms.md)
 - [Code](exercises/day346_equi_depth_histograms.py)
+
+## Day 347: Cryptography: Ed25519 (EdDSA) Point Scalar Arithmetic and Signatures
+Modeled Edwards curve -x^2 + y^2 = 1 + dx^2y^2 point additions and EdDSA deterministic signing.
+
+- [Notes](notes/day347_ed25519_eddsa.md)
+- [Code](exercises/day347_ed25519_eddsa.py)
