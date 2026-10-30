@@ -333,3 +333,4 @@
 - **Day 338 (Database Internals: Volcano Iterator Model Query Engine)**: Constructed classic Volcano open()-next()-close() pipelined physical query operators: SeqScan, Filter, HashJoin.
 - **Day 339 (Database Internals: Vectorized Batch Query Processing Engine)**: Implemented MonetDB/X100-style vectorized execution processing columnar data chunks in cache-friendly arrays.
 - **Day 340 (Database Internals: Multi-Version Concurrency Control (MVCC) Engine)**: Engineered an MVCC transaction engine with snapshot read views and version visibility chains (created_by, deleted_by).
+- **Day 341 (Database Internals: ARIES Crash Recovery (Analysis, Redo, Undo))**: Modeled IBM ARIES recovery algorithm tracking Compensation Log Records (CLRs) and UndoNextLSN pointers.

@@ -2006,3 +2006,9 @@ Engineered an MVCC transaction engine with snapshot read views and version visib
 
 - [Notes](notes/day340_mvcc_engine.md)
 - [Code](exercises/day340_mvcc_engine.py)
+
+## Day 341: Database Internals: ARIES Crash Recovery (Analysis, Redo, Undo)
+Modeled IBM ARIES recovery algorithm tracking Compensation Log Records (CLRs) and UndoNextLSN pointers.
+
+- [Notes](notes/day341_aries_crash_recovery.md)
+- [Code](exercises/day341_aries_crash_recovery.py)
