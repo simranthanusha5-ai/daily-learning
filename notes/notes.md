@@ -332,3 +332,4 @@
 - **Day 337 (Database Internals: Slotted Page Storage Architecture)**: Implemented database page slot array growing forward while tuple payloads grow backward from the bottom.
 - **Day 338 (Database Internals: Volcano Iterator Model Query Engine)**: Constructed classic Volcano open()-next()-close() pipelined physical query operators: SeqScan, Filter, HashJoin.
 - **Day 339 (Database Internals: Vectorized Batch Query Processing Engine)**: Implemented MonetDB/X100-style vectorized execution processing columnar data chunks in cache-friendly arrays.
+- **Day 340 (Database Internals: Multi-Version Concurrency Control (MVCC) Engine)**: Engineered an MVCC transaction engine with snapshot read views and version visibility chains (created_by, deleted_by).

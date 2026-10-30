@@ -2000,3 +2000,9 @@ Implemented MonetDB/X100-style vectorized execution processing columnar data chu
 
 - [Notes](notes/day339_vectorized_query_engine.md)
 - [Code](exercises/day339_vectorized_query_engine.py)
+
+## Day 340: Database Internals: Multi-Version Concurrency Control (MVCC) Engine
+Engineered an MVCC transaction engine with snapshot read views and version visibility chains (created_by, deleted_by).
+
+- [Notes](notes/day340_mvcc_engine.md)
+- [Code](exercises/day340_mvcc_engine.py)
