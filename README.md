@@ -2036,3 +2036,9 @@ Constructed DuckDB-style Morsel-Driven execution dividing columnar inputs into f
 
 - [Notes](notes/day345_morsel_driven_execution.md)
 - [Code](exercises/day345_morsel_driven_execution.py)
+
+## Day 346: Database Internals: Cost-Based Optimizer Cardinality Estimation via Equi-Depth Histograms
+Built Equi-Depth Histograms to estimate database range predicate selectivity and query execution plan costs.
+
+- [Notes](notes/day346_equi_depth_histograms.md)
+- [Code](exercises/day346_equi_depth_histograms.py)
