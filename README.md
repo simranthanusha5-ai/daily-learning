@@ -2012,3 +2012,9 @@ Modeled IBM ARIES recovery algorithm tracking Compensation Log Records (CLRs) an
 
 - [Notes](notes/day341_aries_crash_recovery.md)
 - [Code](exercises/day341_aries_crash_recovery.py)
+
+## Day 342: Database Internals: Log-Structured Object Storage (WiscKey Key-Value Separation)
+Built WiscKey-style storage decoupling LSM-Tree keys from an append-only Value Log (vLog) to eliminate write amplification.
+
+- [Notes](notes/day342_wisckey_kv_separation.md)
+- [Code](exercises/day342_wisckey_kv_separation.py)

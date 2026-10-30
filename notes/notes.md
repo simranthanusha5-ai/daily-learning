@@ -334,3 +334,4 @@
 - **Day 339 (Database Internals: Vectorized Batch Query Processing Engine)**: Implemented MonetDB/X100-style vectorized execution processing columnar data chunks in cache-friendly arrays.
 - **Day 340 (Database Internals: Multi-Version Concurrency Control (MVCC) Engine)**: Engineered an MVCC transaction engine with snapshot read views and version visibility chains (created_by, deleted_by).
 - **Day 341 (Database Internals: ARIES Crash Recovery (Analysis, Redo, Undo))**: Modeled IBM ARIES recovery algorithm tracking Compensation Log Records (CLRs) and UndoNextLSN pointers.
+- **Day 342 (Database Internals: Log-Structured Object Storage (WiscKey Key-Value Separation))**: Built WiscKey-style storage decoupling LSM-Tree keys from an append-only Value Log (vLog) to eliminate write amplification.
