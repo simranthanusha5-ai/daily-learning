@@ -2024,3 +2024,9 @@ Constructed an Adaptive Radix Tree dynamically expanding node layouts (Node4 to 
 
 - [Notes](notes/day343_adaptive_radix_tree.md)
 - [Code](exercises/day343_adaptive_radix_tree.py)
+
+## Day 344: Database Internals: Spatial R-Tree (Bounding Box Overlap and Nearest)
+Implemented spatial 2D R-Tree with Minimum Bounding Boxes (MBR) for fast bounding-box intersection queries.
+
+- [Notes](notes/day344_spatial_rtree.md)
+- [Code](exercises/day344_spatial_rtree.py)
