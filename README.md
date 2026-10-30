@@ -2030,3 +2030,9 @@ Implemented spatial 2D R-Tree with Minimum Bounding Boxes (MBR) for fast boundin
 
 - [Notes](notes/day344_spatial_rtree.md)
 - [Code](exercises/day344_spatial_rtree.py)
+
+## Day 345: Database Internals: Morsel-Driven Parallel Pipeline Query Execution
+Constructed DuckDB-style Morsel-Driven execution dividing columnar inputs into fixed-size morsels processed across worker threads.
+
+- [Notes](notes/day345_morsel_driven_execution.md)
+- [Code](exercises/day345_morsel_driven_execution.py)

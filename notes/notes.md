@@ -337,3 +337,4 @@
 - **Day 342 (Database Internals: Log-Structured Object Storage (WiscKey Key-Value Separation))**: Built WiscKey-style storage decoupling LSM-Tree keys from an append-only Value Log (vLog) to eliminate write amplification.
 - **Day 343 (Database Internals: Adaptive Radix Tree (ART) Node Splitting)**: Constructed an Adaptive Radix Tree dynamically expanding node layouts (Node4 to Node16) based on child fanout.
 - **Day 344 (Database Internals: Spatial R-Tree (Bounding Box Overlap and Nearest))**: Implemented spatial 2D R-Tree with Minimum Bounding Boxes (MBR) for fast bounding-box intersection queries.
+- **Day 345 (Database Internals: Morsel-Driven Parallel Pipeline Query Execution)**: Constructed DuckDB-style Morsel-Driven execution dividing columnar inputs into fixed-size morsels processed across worker threads.
