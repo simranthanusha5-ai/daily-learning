@@ -2018,3 +2018,9 @@ Built WiscKey-style storage decoupling LSM-Tree keys from an append-only Value L
 
 - [Notes](notes/day342_wisckey_kv_separation.md)
 - [Code](exercises/day342_wisckey_kv_separation.py)
+
+## Day 343: Database Internals: Adaptive Radix Tree (ART) Node Splitting
+Constructed an Adaptive Radix Tree dynamically expanding node layouts (Node4 to Node16) based on child fanout.
+
+- [Notes](notes/day343_adaptive_radix_tree.md)
+- [Code](exercises/day343_adaptive_radix_tree.py)

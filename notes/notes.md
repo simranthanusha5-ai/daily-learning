@@ -335,3 +335,4 @@
 - **Day 340 (Database Internals: Multi-Version Concurrency Control (MVCC) Engine)**: Engineered an MVCC transaction engine with snapshot read views and version visibility chains (created_by, deleted_by).
 - **Day 341 (Database Internals: ARIES Crash Recovery (Analysis, Redo, Undo))**: Modeled IBM ARIES recovery algorithm tracking Compensation Log Records (CLRs) and UndoNextLSN pointers.
 - **Day 342 (Database Internals: Log-Structured Object Storage (WiscKey Key-Value Separation))**: Built WiscKey-style storage decoupling LSM-Tree keys from an append-only Value Log (vLog) to eliminate write amplification.
+- **Day 343 (Database Internals: Adaptive Radix Tree (ART) Node Splitting)**: Constructed an Adaptive Radix Tree dynamically expanding node layouts (Node4 to Node16) based on child fanout.
