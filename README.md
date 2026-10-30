@@ -2048,3 +2048,9 @@ Modeled Edwards curve -x^2 + y^2 = 1 + dx^2y^2 point additions and EdDSA determi
 
 - [Notes](notes/day347_ed25519_eddsa.md)
 - [Code](exercises/day347_ed25519_eddsa.py)
+
+## Day 348: Cryptography: BLS (Boneh-Lynn-Shacham) Signature Aggregation
+Simulated BLS signature aggregation combining distinct signatures into a single verifiable aggregate point.
+
+- [Notes](notes/day348_bls_signature_aggregation.md)
+- [Code](exercises/day348_bls_signature_aggregation.py)
