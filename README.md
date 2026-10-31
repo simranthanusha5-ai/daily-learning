@@ -2066,3 +2066,9 @@ Constructed Rank-1 Constraint System (R1CS) verification: (A . w) * (B . w) == (
 
 - [Notes](notes/day350_zkp_r1cs_qap.md)
 - [Code](exercises/day350_zkp_r1cs_qap.py)
+
+## Day 351: Cryptography: Verifiable Random Function (VRF) Discrete Log Proof
+Built a Verifiable Random Function (VRF) producing deterministic pseudorandom output with verifiable cryptographic proof.
+
+- [Notes](notes/day351_vrf_discrete_log.md)
+- [Code](exercises/day351_vrf_discrete_log.py)
