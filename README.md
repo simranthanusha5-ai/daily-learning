@@ -2096,3 +2096,9 @@ Implemented post-quantum Learning With Errors (LWE) lattice-based secret key enc
 
 - [Notes](notes/day355_lwe_lattice_crypto.md)
 - [Code](exercises/day355_lwe_lattice_crypto.py)
+
+## Day 356: Cryptography: WebAuthn / FIDO2 Challenge-Response Authenticator Parser
+Parsed WebAuthn binary authData flags (User Present, User Verified) and SHA-256 clientDataHash challenges.
+
+- [Notes](notes/day356_webauthn_fido2_parser.md)
+- [Code](exercises/day356_webauthn_fido2_parser.py)
