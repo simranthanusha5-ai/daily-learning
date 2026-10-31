@@ -2060,3 +2060,9 @@ Implemented interactive Schnorr Zero-Knowledge Identification protocol (Commitme
 
 - [Notes](notes/day349_zkp_schnorr_protocol.md)
 - [Code](exercises/day349_zkp_schnorr_protocol.py)
+
+## Day 350: Cryptography: Zero-Knowledge Proof (Rank-1 Constraint Systems & QAP)
+Constructed Rank-1 Constraint System (R1CS) verification: (A . w) * (B . w) == (C . w) for zk-SNARKs.
+
+- [Notes](notes/day350_zkp_r1cs_qap.md)
+- [Code](exercises/day350_zkp_r1cs_qap.py)
