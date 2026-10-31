@@ -2072,3 +2072,9 @@ Built a Verifiable Random Function (VRF) producing deterministic pseudorandom ou
 
 - [Notes](notes/day351_vrf_discrete_log.md)
 - [Code](exercises/day351_vrf_discrete_log.py)
+
+## Day 352: Cryptography: Threshold Cryptography (FROST Multi-Party Keygen)
+Simulated FROST distributed key generation establishing joint group public keys without trusted dealers.
+
+- [Notes](notes/day352_frost_threshold_keygen.md)
+- [Code](exercises/day352_frost_threshold_keygen.py)

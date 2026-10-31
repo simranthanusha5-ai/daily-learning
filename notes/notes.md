@@ -344,3 +344,4 @@
 - **Day 349 (Cryptography: Zero-Knowledge Proof (Schnorr Identification Protocol))**: Implemented interactive Schnorr Zero-Knowledge Identification protocol (Commitment, Challenge, Response).
 - **Day 350 (Cryptography: Zero-Knowledge Proof (Rank-1 Constraint Systems & QAP))**: Constructed Rank-1 Constraint System (R1CS) verification: (A . w) * (B . w) == (C . w) for zk-SNARKs.
 - **Day 351 (Cryptography: Verifiable Random Function (VRF) Discrete Log Proof)**: Built a Verifiable Random Function (VRF) producing deterministic pseudorandom output with verifiable cryptographic proof.
+- **Day 352 (Cryptography: Threshold Cryptography (FROST Multi-Party Keygen))**: Simulated FROST distributed key generation establishing joint group public keys without trusted dealers.
