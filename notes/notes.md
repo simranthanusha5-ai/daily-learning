@@ -349,3 +349,4 @@
 - **Day 354 (Cryptography: AES Galois/Counter Mode (GCM) GHASH Authentication)**: Implemented GHASH Galois Field GF(2^128) polynomial multiplication for AES-GCM message authentication.
 - **Day 355 (Cryptography: Quantum-Resistant Cryptography (Learning With Errors LWE))**: Implemented post-quantum Learning With Errors (LWE) lattice-based secret key encryption with bounded noise.
 - **Day 356 (Cryptography: WebAuthn / FIDO2 Challenge-Response Authenticator Parser)**: Parsed WebAuthn binary authData flags (User Present, User Verified) and SHA-256 clientDataHash challenges.
+- **Day 357 (Machine Learning: Autograd Reverse-Mode Automatic Differentiation)**: Built a micrograd-style Reverse-Mode Automatic Differentiation engine constructing dynamic computational DAGs.

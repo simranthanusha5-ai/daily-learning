@@ -2102,3 +2102,9 @@ Parsed WebAuthn binary authData flags (User Present, User Verified) and SHA-256 
 
 - [Notes](notes/day356_webauthn_fido2_parser.md)
 - [Code](exercises/day356_webauthn_fido2_parser.py)
+
+## Day 357: Machine Learning: Autograd Reverse-Mode Automatic Differentiation
+Built a micrograd-style Reverse-Mode Automatic Differentiation engine constructing dynamic computational DAGs.
+
+- [Notes](notes/day357_autograd_reverse_mode.md)
+- [Code](exercises/day357_autograd_reverse_mode.py)
