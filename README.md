@@ -2090,3 +2090,9 @@ Implemented GHASH Galois Field GF(2^128) polynomial multiplication for AES-GCM m
 
 - [Notes](notes/day354_aes_gcm_ghash.md)
 - [Code](exercises/day354_aes_gcm_ghash.py)
+
+## Day 355: Cryptography: Quantum-Resistant Cryptography (Learning With Errors LWE)
+Implemented post-quantum Learning With Errors (LWE) lattice-based secret key encryption with bounded noise.
+
+- [Notes](notes/day355_lwe_lattice_crypto.md)
+- [Code](exercises/day355_lwe_lattice_crypto.py)

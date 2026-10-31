@@ -347,3 +347,4 @@
 - **Day 352 (Cryptography: Threshold Cryptography (FROST Multi-Party Keygen))**: Simulated FROST distributed key generation establishing joint group public keys without trusted dealers.
 - **Day 353 (Cryptography: Homomorphic Encryption (Paillier Additive Cryptosystem))**: Implemented Paillier additive homomorphic encryption allowing ciphertext multiplications to yield plaintext additions.
 - **Day 354 (Cryptography: AES Galois/Counter Mode (GCM) GHASH Authentication)**: Implemented GHASH Galois Field GF(2^128) polynomial multiplication for AES-GCM message authentication.
+- **Day 355 (Cryptography: Quantum-Resistant Cryptography (Learning With Errors LWE))**: Implemented post-quantum Learning With Errors (LWE) lattice-based secret key encryption with bounded noise.
