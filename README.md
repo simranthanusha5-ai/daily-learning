@@ -2084,3 +2084,9 @@ Implemented Paillier additive homomorphic encryption allowing ciphertext multipl
 
 - [Notes](notes/day353_paillier_homomorphic.md)
 - [Code](exercises/day353_paillier_homomorphic.py)
+
+## Day 354: Cryptography: AES Galois/Counter Mode (GCM) GHASH Authentication
+Implemented GHASH Galois Field GF(2^128) polynomial multiplication for AES-GCM message authentication.
+
+- [Notes](notes/day354_aes_gcm_ghash.md)
+- [Code](exercises/day354_aes_gcm_ghash.py)
