@@ -345,3 +345,4 @@
 - **Day 350 (Cryptography: Zero-Knowledge Proof (Rank-1 Constraint Systems & QAP))**: Constructed Rank-1 Constraint System (R1CS) verification: (A . w) * (B . w) == (C . w) for zk-SNARKs.
 - **Day 351 (Cryptography: Verifiable Random Function (VRF) Discrete Log Proof)**: Built a Verifiable Random Function (VRF) producing deterministic pseudorandom output with verifiable cryptographic proof.
 - **Day 352 (Cryptography: Threshold Cryptography (FROST Multi-Party Keygen))**: Simulated FROST distributed key generation establishing joint group public keys without trusted dealers.
+- **Day 353 (Cryptography: Homomorphic Encryption (Paillier Additive Cryptosystem))**: Implemented Paillier additive homomorphic encryption allowing ciphertext multiplications to yield plaintext additions.

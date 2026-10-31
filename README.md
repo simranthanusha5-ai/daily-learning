@@ -2078,3 +2078,9 @@ Simulated FROST distributed key generation establishing joint group public keys 
 
 - [Notes](notes/day352_frost_threshold_keygen.md)
 - [Code](exercises/day352_frost_threshold_keygen.py)
+
+## Day 353: Cryptography: Homomorphic Encryption (Paillier Additive Cryptosystem)
+Implemented Paillier additive homomorphic encryption allowing ciphertext multiplications to yield plaintext additions.
+
+- [Notes](notes/day353_paillier_homomorphic.md)
+- [Code](exercises/day353_paillier_homomorphic.py)
