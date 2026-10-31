@@ -2054,3 +2054,9 @@ Simulated BLS signature aggregation combining distinct signatures into a single 
 
 - [Notes](notes/day348_bls_signature_aggregation.md)
 - [Code](exercises/day348_bls_signature_aggregation.py)
+
+## Day 349: Cryptography: Zero-Knowledge Proof (Schnorr Identification Protocol)
+Implemented interactive Schnorr Zero-Knowledge Identification protocol (Commitment, Challenge, Response).
+
+- [Notes](notes/day349_zkp_schnorr_protocol.md)
+- [Code](exercises/day349_zkp_schnorr_protocol.py)
