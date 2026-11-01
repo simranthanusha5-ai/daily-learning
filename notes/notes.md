@@ -350,3 +350,4 @@
 - **Day 355 (Cryptography: Quantum-Resistant Cryptography (Learning With Errors LWE))**: Implemented post-quantum Learning With Errors (LWE) lattice-based secret key encryption with bounded noise.
 - **Day 356 (Cryptography: WebAuthn / FIDO2 Challenge-Response Authenticator Parser)**: Parsed WebAuthn binary authData flags (User Present, User Verified) and SHA-256 clientDataHash challenges.
 - **Day 357 (Machine Learning: Autograd Reverse-Mode Automatic Differentiation)**: Built a micrograd-style Reverse-Mode Automatic Differentiation engine constructing dynamic computational DAGs.
+- **Day 358 (Machine Learning: FlashAttention Tiling & Online Softmax Mechanism)**: Implemented FlashAttention's online stable softmax rescaling intermediate attention blocks without materializing NxN matrices.

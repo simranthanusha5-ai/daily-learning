@@ -2108,3 +2108,9 @@ Built a micrograd-style Reverse-Mode Automatic Differentiation engine constructi
 
 - [Notes](notes/day357_autograd_reverse_mode.md)
 - [Code](exercises/day357_autograd_reverse_mode.py)
+
+## Day 358: Machine Learning: FlashAttention Tiling & Online Softmax Mechanism
+Implemented FlashAttention's online stable softmax rescaling intermediate attention blocks without materializing NxN matrices.
+
+- [Notes](notes/day358_flashattention_online_softmax.md)
+- [Code](exercises/day358_flashattention_online_softmax.py)
