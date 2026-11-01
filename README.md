@@ -2144,3 +2144,9 @@ Implemented Direct Preference Optimization (DPO) loss calculating implicit rewar
 
 - [Notes](notes/day363_dpo_loss_bradley_terry.md)
 - [Code](exercises/day363_dpo_loss_bradley_terry.py)
+
+## Day 364: Machine Learning: Symmetric INT8 Weight & Activation Quantization
+Constructed symmetric INT8 quantization mapping floating-point weights to [-127, 127] signed integer registers.
+
+- [Notes](notes/day364_int8_quantization.md)
+- [Code](exercises/day364_int8_quantization.py)

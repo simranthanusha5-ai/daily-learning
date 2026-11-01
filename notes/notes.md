@@ -356,3 +356,4 @@
 - **Day 361 (Machine Learning: Low-Rank Adaptation (LoRA) Weight Decomposition)**: Implemented LoRA fine-tuning parameterization W = W_0 + (alpha / r) * (B @ A) where rank r << d.
 - **Day 362 (Machine Learning: Mixture of Experts (MoE) Top-K Gating Network)**: Constructed Sparse Mixture of Experts (MoE) Top-2 softmax router directing token representations across expert models.
 - **Day 363 (Machine Learning: Direct Preference Optimization (DPO) Loss & Bradley-Terry)**: Implemented Direct Preference Optimization (DPO) loss calculating implicit rewards without training external reward models.
+- **Day 364 (Machine Learning: Symmetric INT8 Weight & Activation Quantization)**: Constructed symmetric INT8 quantization mapping floating-point weights to [-127, 127] signed integer registers.
