@@ -2126,3 +2126,9 @@ Constructed Grouped-Query Attention (GQA) sharing key-value head projections acr
 
 - [Notes](notes/day360_gqa_kv_cache.md)
 - [Code](exercises/day360_gqa_kv_cache.py)
+
+## Day 361: Machine Learning: Low-Rank Adaptation (LoRA) Weight Decomposition
+Implemented LoRA fine-tuning parameterization W = W_0 + (alpha / r) * (B @ A) where rank r << d.
+
+- [Notes](notes/day361_lora_weight_decomposition.md)
+- [Code](exercises/day361_lora_weight_decomposition.py)
