@@ -2150,3 +2150,9 @@ Constructed symmetric INT8 quantization mapping floating-point weights to [-127,
 
 - [Notes](notes/day364_int8_quantization.md)
 - [Code](exercises/day364_int8_quantization.py)
+
+## Day 365: Machine Learning: Speculative Decoding with Draft Verification
+Simulated Leviathan et al. Speculative Decoding using a fast draft model verified concurrently by target model acceptance.
+
+- [Notes](notes/day365_speculative_decoding.md)
+- [Code](exercises/day365_speculative_decoding.py)
