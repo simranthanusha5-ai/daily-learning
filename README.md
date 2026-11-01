@@ -2132,3 +2132,9 @@ Implemented LoRA fine-tuning parameterization W = W_0 + (alpha / r) * (B @ A) wh
 
 - [Notes](notes/day361_lora_weight_decomposition.md)
 - [Code](exercises/day361_lora_weight_decomposition.py)
+
+## Day 362: Machine Learning: Mixture of Experts (MoE) Top-K Gating Network
+Constructed Sparse Mixture of Experts (MoE) Top-2 softmax router directing token representations across expert models.
+
+- [Notes](notes/day362_moe_topk_gating.md)
+- [Code](exercises/day362_moe_topk_gating.py)
