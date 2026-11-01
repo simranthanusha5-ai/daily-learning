@@ -2114,3 +2114,9 @@ Implemented FlashAttention's online stable softmax rescaling intermediate attent
 
 - [Notes](notes/day358_flashattention_online_softmax.md)
 - [Code](exercises/day358_flashattention_online_softmax.py)
+
+## Day 359: Machine Learning: Rotary Position Embeddings (RoPE) for LLMs
+Implemented RoPE rotational transformation multiplying 2D orthogonal rotation matrices by query and key vector pairs.
+
+- [Notes](notes/day359_rope_rotary_embeddings.md)
+- [Code](exercises/day359_rope_rotary_embeddings.py)
