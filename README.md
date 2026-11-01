@@ -2138,3 +2138,9 @@ Constructed Sparse Mixture of Experts (MoE) Top-2 softmax router directing token
 
 - [Notes](notes/day362_moe_topk_gating.md)
 - [Code](exercises/day362_moe_topk_gating.py)
+
+## Day 363: Machine Learning: Direct Preference Optimization (DPO) Loss & Bradley-Terry
+Implemented Direct Preference Optimization (DPO) loss calculating implicit rewards without training external reward models.
+
+- [Notes](notes/day363_dpo_loss_bradley_terry.md)
+- [Code](exercises/day363_dpo_loss_bradley_terry.py)
