@@ -2120,3 +2120,9 @@ Implemented RoPE rotational transformation multiplying 2D orthogonal rotation ma
 
 - [Notes](notes/day359_rope_rotary_embeddings.md)
 - [Code](exercises/day359_rope_rotary_embeddings.py)
+
+## Day 360: Machine Learning: Grouped-Query Attention (GQA) & KV Cache
+Constructed Grouped-Query Attention (GQA) sharing key-value head projections across multiple query heads with rolling KV caching.
+
+- [Notes](notes/day360_gqa_kv_cache.md)
+- [Code](exercises/day360_gqa_kv_cache.py)

@@ -352,3 +352,4 @@
 - **Day 357 (Machine Learning: Autograd Reverse-Mode Automatic Differentiation)**: Built a micrograd-style Reverse-Mode Automatic Differentiation engine constructing dynamic computational DAGs.
 - **Day 358 (Machine Learning: FlashAttention Tiling & Online Softmax Mechanism)**: Implemented FlashAttention's online stable softmax rescaling intermediate attention blocks without materializing NxN matrices.
 - **Day 359 (Machine Learning: Rotary Position Embeddings (RoPE) for LLMs)**: Implemented RoPE rotational transformation multiplying 2D orthogonal rotation matrices by query and key vector pairs.
+- **Day 360 (Machine Learning: Grouped-Query Attention (GQA) & KV Cache)**: Constructed Grouped-Query Attention (GQA) sharing key-value head projections across multiple query heads with rolling KV caching.
