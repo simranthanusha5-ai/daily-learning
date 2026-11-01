@@ -2156,3 +2156,9 @@ Simulated Leviathan et al. Speculative Decoding using a fast draft model verifie
 
 - [Notes](notes/day365_speculative_decoding.md)
 - [Code](exercises/day365_speculative_decoding.py)
+
+## Day 366: Machine Learning: Hierarchical Navigable Small World (HNSW) Vector Graph
+Built multi-layer HNSW approximate nearest neighbor graph index connecting vector nodes across geometric skip layers.
+
+- [Notes](notes/day366_hnsw_vector_graph.md)
+- [Code](exercises/day366_hnsw_vector_graph.py)
