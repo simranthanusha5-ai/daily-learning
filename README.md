@@ -2192,3 +2192,9 @@ Built a Google Pregel Bulk Synchronous Parallel (BSP) vertex-centric compute eng
 
 - [Notes](notes/day371_pregel_graph_compute.md)
 - [Code](projects/day371_pregel_graph_compute.py)
+
+## Day 372: Project: Mini eBPF Safe Sandboxed Bytecode Verifier and VM
+Constructed an eBPF-style kernel verifier rejecting unbounded backward jumps and null dereferences before VM execution.
+
+- [Notes](notes/day372_ebpf_sandbox_verifier.md)
+- [Code](projects/day372_ebpf_sandbox_verifier.py)
