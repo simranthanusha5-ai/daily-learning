@@ -360,3 +360,4 @@
 - **Day 365 (Machine Learning: Speculative Decoding with Draft Verification)**: Simulated Leviathan et al. Speculative Decoding using a fast draft model verified concurrently by target model acceptance.
 - **Day 366 (Machine Learning: Hierarchical Navigable Small World (HNSW) Vector Graph)**: Built multi-layer HNSW approximate nearest neighbor graph index connecting vector nodes across geometric skip layers.
 - **Day 367 (Project: High-Throughput In-Memory Kafka-Style Commit Log Broker)**: Built partitioned commit log broker maintaining sequential byte offsets, consumer group lag, and committed offset pointers.
+- **Day 368 (Project: Mini WebAssembly (Wasm) Binary Parser & Stack Virtual Machine)**: Engineered a WebAssembly binary interpreter parsing module magic header (\x00asm), LEB128 integers, and i32.add bytecodes.

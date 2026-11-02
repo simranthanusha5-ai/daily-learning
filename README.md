@@ -2168,3 +2168,9 @@ Built partitioned commit log broker maintaining sequential byte offsets, consume
 
 - [Notes](notes/day367_kafka_commit_log_broker.md)
 - [Code](projects/day367_kafka_commit_log_broker.py)
+
+## Day 368: Project: Mini WebAssembly (Wasm) Binary Parser & Stack Virtual Machine
+Engineered a WebAssembly binary interpreter parsing module magic header (\x00asm), LEB128 integers, and i32.add bytecodes.
+
+- [Notes](notes/day368_wasm_stack_interpreter.md)
+- [Code](projects/day368_wasm_stack_interpreter.py)
