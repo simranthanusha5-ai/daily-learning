@@ -365,3 +365,4 @@
 - **Day 370 (Project: Mini BitTorrent Tracker and Torrent File Verifier)**: Constructed BitTorrent tracker server handling peer announces, maintaining swarm state, and validating piece SHA1 hashes.
 - **Day 371 (Project: Distributed Graph Database with Pregel BSP Vertex Compute)**: Built a Google Pregel Bulk Synchronous Parallel (BSP) vertex-centric compute engine evaluating PageRank supersteps.
 - **Day 372 (Project: Mini eBPF Safe Sandboxed Bytecode Verifier and VM)**: Constructed an eBPF-style kernel verifier rejecting unbounded backward jumps and null dereferences before VM execution.
+- **Day 373 (Project: Raft-Backed Distributed Configuration Manager (Mini etcd))**: Engineered an etcd-like distributed key-value configuration manager with atomic compare-and-swap (CAS) and prefix watchers.

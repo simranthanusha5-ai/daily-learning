@@ -2198,3 +2198,9 @@ Constructed an eBPF-style kernel verifier rejecting unbounded backward jumps and
 
 - [Notes](notes/day372_ebpf_sandbox_verifier.md)
 - [Code](projects/day372_ebpf_sandbox_verifier.py)
+
+## Day 373: Project: Raft-Backed Distributed Configuration Manager (Mini etcd)
+Engineered an etcd-like distributed key-value configuration manager with atomic compare-and-swap (CAS) and prefix watchers.
+
+- [Notes](notes/day373_mini_etcd_config_manager.md)
+- [Code](projects/day373_mini_etcd_config_manager.py)
