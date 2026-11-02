@@ -2174,3 +2174,9 @@ Engineered a WebAssembly binary interpreter parsing module magic header (\x00asm
 
 - [Notes](notes/day368_wasm_stack_interpreter.md)
 - [Code](projects/day368_wasm_stack_interpreter.py)
+
+## Day 369: Project: Time-Series Database (TSDB) with Gorilla Delta-of-Delta Compression
+Built a specialized Time-Series Database compressing periodic epoch timestamps via Facebook Gorilla Delta-of-Delta encoding.
+
+- [Notes](notes/day369_tsdb_gorilla_compression.md)
+- [Code](projects/day369_tsdb_gorilla_compression.py)
