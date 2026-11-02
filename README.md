@@ -2210,3 +2210,9 @@ Built an API Gateway coordinating dynamic path rewriting, token rate limiting, a
 
 - [Notes](notes/day374_api_gateway_policy_engine.md)
 - [Code](projects/day374_api_gateway_policy_engine.py)
+
+## Day 375: Project: Distributed MapReduce Engine with Shuffle & External Sort
+Constructed distributed MapReduce pipeline partitioning mapper outputs into hash buckets and executing parallel reduce tasks.
+
+- [Notes](notes/day375_mapreduce_shuffle_engine.md)
+- [Code](projects/day375_mapreduce_shuffle_engine.py)

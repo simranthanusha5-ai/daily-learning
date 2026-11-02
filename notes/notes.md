@@ -367,3 +367,4 @@
 - **Day 372 (Project: Mini eBPF Safe Sandboxed Bytecode Verifier and VM)**: Constructed an eBPF-style kernel verifier rejecting unbounded backward jumps and null dereferences before VM execution.
 - **Day 373 (Project: Raft-Backed Distributed Configuration Manager (Mini etcd))**: Engineered an etcd-like distributed key-value configuration manager with atomic compare-and-swap (CAS) and prefix watchers.
 - **Day 374 (Project: Event-Driven Microservices API Gateway with Dynamic Policy Engine)**: Built an API Gateway coordinating dynamic path rewriting, token rate limiting, and RBAC policy enforcement.
+- **Day 375 (Project: Distributed MapReduce Engine with Shuffle & External Sort)**: Constructed distributed MapReduce pipeline partitioning mapper outputs into hash buckets and executing parallel reduce tasks.
