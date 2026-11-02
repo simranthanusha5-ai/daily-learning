@@ -2186,3 +2186,9 @@ Constructed BitTorrent tracker server handling peer announces, maintaining swarm
 
 - [Notes](notes/day370_bittorrent_tracker.md)
 - [Code](projects/day370_bittorrent_tracker.py)
+
+## Day 371: Project: Distributed Graph Database with Pregel BSP Vertex Compute
+Built a Google Pregel Bulk Synchronous Parallel (BSP) vertex-centric compute engine evaluating PageRank supersteps.
+
+- [Notes](notes/day371_pregel_graph_compute.md)
+- [Code](projects/day371_pregel_graph_compute.py)
