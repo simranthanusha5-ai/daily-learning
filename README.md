@@ -2216,3 +2216,9 @@ Constructed distributed MapReduce pipeline partitioning mapper outputs into hash
 
 - [Notes](notes/day375_mapreduce_shuffle_engine.md)
 - [Code](projects/day375_mapreduce_shuffle_engine.py)
+
+## Day 376: Capstone Project: End-to-End Fault-Tolerant Distributed Stream Processing Engine
+Constructed an Apache Flink-inspired stateful stream processing engine featuring tumbling windows, exactly-once checkpoints, and backpressure watermarking.
+
+- [Notes](notes/day376_distributed_stream_engine_capstone.md)
+- [Code](projects/day376_distributed_stream_engine_capstone.py)
