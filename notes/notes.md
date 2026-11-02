@@ -362,3 +362,4 @@
 - **Day 367 (Project: High-Throughput In-Memory Kafka-Style Commit Log Broker)**: Built partitioned commit log broker maintaining sequential byte offsets, consumer group lag, and committed offset pointers.
 - **Day 368 (Project: Mini WebAssembly (Wasm) Binary Parser & Stack Virtual Machine)**: Engineered a WebAssembly binary interpreter parsing module magic header (\x00asm), LEB128 integers, and i32.add bytecodes.
 - **Day 369 (Project: Time-Series Database (TSDB) with Gorilla Delta-of-Delta Compression)**: Built a specialized Time-Series Database compressing periodic epoch timestamps via Facebook Gorilla Delta-of-Delta encoding.
+- **Day 370 (Project: Mini BitTorrent Tracker and Torrent File Verifier)**: Constructed BitTorrent tracker server handling peer announces, maintaining swarm state, and validating piece SHA1 hashes.

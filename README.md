@@ -2180,3 +2180,9 @@ Built a specialized Time-Series Database compressing periodic epoch timestamps v
 
 - [Notes](notes/day369_tsdb_gorilla_compression.md)
 - [Code](projects/day369_tsdb_gorilla_compression.py)
+
+## Day 370: Project: Mini BitTorrent Tracker and Torrent File Verifier
+Constructed BitTorrent tracker server handling peer announces, maintaining swarm state, and validating piece SHA1 hashes.
+
+- [Notes](notes/day370_bittorrent_tracker.md)
+- [Code](projects/day370_bittorrent_tracker.py)
