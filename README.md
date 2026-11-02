@@ -2162,3 +2162,9 @@ Built multi-layer HNSW approximate nearest neighbor graph index connecting vecto
 
 - [Notes](notes/day366_hnsw_vector_graph.md)
 - [Code](exercises/day366_hnsw_vector_graph.py)
+
+## Day 367: Project: High-Throughput In-Memory Kafka-Style Commit Log Broker
+Built partitioned commit log broker maintaining sequential byte offsets, consumer group lag, and committed offset pointers.
+
+- [Notes](notes/day367_kafka_commit_log_broker.md)
+- [Code](projects/day367_kafka_commit_log_broker.py)

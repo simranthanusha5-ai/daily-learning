@@ -359,3 +359,4 @@
 - **Day 364 (Machine Learning: Symmetric INT8 Weight & Activation Quantization)**: Constructed symmetric INT8 quantization mapping floating-point weights to [-127, 127] signed integer registers.
 - **Day 365 (Machine Learning: Speculative Decoding with Draft Verification)**: Simulated Leviathan et al. Speculative Decoding using a fast draft model verified concurrently by target model acceptance.
 - **Day 366 (Machine Learning: Hierarchical Navigable Small World (HNSW) Vector Graph)**: Built multi-layer HNSW approximate nearest neighbor graph index connecting vector nodes across geometric skip layers.
+- **Day 367 (Project: High-Throughput In-Memory Kafka-Style Commit Log Broker)**: Built partitioned commit log broker maintaining sequential byte offsets, consumer group lag, and committed offset pointers.
