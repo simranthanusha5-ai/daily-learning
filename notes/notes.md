@@ -366,3 +366,4 @@
 - **Day 371 (Project: Distributed Graph Database with Pregel BSP Vertex Compute)**: Built a Google Pregel Bulk Synchronous Parallel (BSP) vertex-centric compute engine evaluating PageRank supersteps.
 - **Day 372 (Project: Mini eBPF Safe Sandboxed Bytecode Verifier and VM)**: Constructed an eBPF-style kernel verifier rejecting unbounded backward jumps and null dereferences before VM execution.
 - **Day 373 (Project: Raft-Backed Distributed Configuration Manager (Mini etcd))**: Engineered an etcd-like distributed key-value configuration manager with atomic compare-and-swap (CAS) and prefix watchers.
+- **Day 374 (Project: Event-Driven Microservices API Gateway with Dynamic Policy Engine)**: Built an API Gateway coordinating dynamic path rewriting, token rate limiting, and RBAC policy enforcement.

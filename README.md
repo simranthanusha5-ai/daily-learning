@@ -2204,3 +2204,9 @@ Engineered an etcd-like distributed key-value configuration manager with atomic 
 
 - [Notes](notes/day373_mini_etcd_config_manager.md)
 - [Code](projects/day373_mini_etcd_config_manager.py)
+
+## Day 374: Project: Event-Driven Microservices API Gateway with Dynamic Policy Engine
+Built an API Gateway coordinating dynamic path rewriting, token rate limiting, and RBAC policy enforcement.
+
+- [Notes](notes/day374_api_gateway_policy_engine.md)
+- [Code](projects/day374_api_gateway_policy_engine.py)
